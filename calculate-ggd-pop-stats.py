@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-
 
 print("*** Reading RIVM data")
 cases = pd.read_csv('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv', 

@@ -1,0 +1,38 @@
+name: daily-update-rivm-stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '14 13 * * *' # UTC time
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 'pypy-3.7'
+          
+      - name: install python packages
+        run: py -3 -m pip install requirements.txt
+
+      - name: calculate per-ggd per-age-group cases
+        run: py -3 calculate-ggd-pop-stats.py
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data" -a
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  
