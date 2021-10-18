@@ -24,7 +24,7 @@ jobs:
           key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
           
       - name: install python packages
-        run: pip install --upgrade --upgrade-strategy eager -r dev-requirements.txt -e .
+        run: pip install --upgrade --upgrade-strategy eager -r requirements.txt -e .
 
       - name: calculate per-ggd per-age-group cases
         run: python calculate-ggd-pop-stats.py
