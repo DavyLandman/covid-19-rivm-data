@@ -1,5 +1,21 @@
 import pandas as pd
+import requests
+import time
+from datetime import date
+from datetime import timedelta
 
+print("*** waiting for new data drop")
+yesterday = date.today() - timedelta(days=1)
+while True:
+    r=requests.head('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv')
+    if r.status_code == 200:
+        date = pd.to_datetime(r.headers['Date'])
+        if date.date() > yesterday:
+            print("Got update today: ", date)
+            break
+    print("Sleeping 10s to wait for change, currently: ", date)
+    time.sleep(10)
+        
 print("*** Reading RIVM data")
 cases = pd.read_csv('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv', 
     sep=';', parse_dates=["Date_statistics"], 
