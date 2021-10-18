@@ -13,7 +13,7 @@ yesterday = date.today() - timedelta(days=1)
 while True:
     r=requests.head('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv')
     if r.status_code == 200:
-        date = pd.to_datetime(r.headers['Date'])
+        date = pd.to_datetime(r.headers['Last-Modified'])
         if date.date() > yesterday:
             progress("Got update today: ", date)
             break
