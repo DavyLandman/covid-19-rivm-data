@@ -1,36 +1,40 @@
+import sys
 import pandas as pd
 import requests
 import time
 from datetime import date
 from datetime import timedelta
 
-print("*** waiting for new data drop")
+def progress(*args):
+    print(*args, file=sys.stderr, flush=True)
+
+progress("*** waiting for new data drop")
 yesterday = date.today() - timedelta(days=1)
 while True:
     r=requests.head('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv')
     if r.status_code == 200:
         date = pd.to_datetime(r.headers['Date'])
         if date.date() > yesterday:
-            print("Got update today: ", date)
+            progress("Got update today: ", date)
             break
-    print("Sleeping 10s to wait for change, currently: ", date)
+    progress("Sleeping 10s to wait for change, currently: ", date)
     time.sleep(10)
         
-print("*** Reading RIVM data")
+progress("*** Reading RIVM data")
 cases = pd.read_csv('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv', 
     sep=';', parse_dates=["Date_statistics"], 
     usecols=["Date_statistics", "Date_statistics_type", "Agegroup", "Sex", "Municipal_health_service"])
 cases = cases.applymap(lambda x: x.strip() if isinstance(x, str) else x)
-print(cases)
+progress(cases)
 
 
-#print("*** Reading population master file")
+#progress("*** Reading population master file")
 #population = pd.read_csv('https://raw.githubusercontent.com/mzelst/covid-19/master/misc/population_masterfile.csv')
 #population = population.applymap(lambda x: x.strip() if isinstance(x, str) else x)
-#print(population)
+#progress(population)
 
 
-print("*** Counting positive casus per GGD & agegroup")
+progress("*** Counting positive casus per GGD & agegroup")
 merge_cols = ["Municipal_health_service", 'Agegroup', 'Date_statistics']
 positive_cases = cases[(cases.Date_statistics_type == 'DPL') & ~(cases.Agegroup.isin({'<50', 'Unknown'}))].copy()\
     .value_counts(subset=merge_cols, sort=True).reset_index(name="Count")
@@ -51,10 +55,10 @@ positive_cases = positive_cases.rename(columns={
     "Date_statistics": "Date", 
     "Count": "Positive_cases"
 })
-print(positive_cases)
+progress(positive_cases)
 
 
-#print("*** Joining with GGD level population stats")
+#progress("*** Joining with GGD level population stats")
 #population = population[['GGD_name', 'Age_group', 'Population_2021', 'Population_2020']].copy()\
 #    .set_index(['GGD_name', 'Age_group'])\
 #    .groupby(by=["GGD_name", "Age_group"])\
@@ -64,10 +68,10 @@ print(positive_cases)
 #    .join(population, how="left") \
 #    .reset_index()
 #
-#print(positive_cases)
+#progress(positive_cases)
 
 
 
-print("*** Sorting and writing to disk")
+progress("*** Sorting and writing to disk")
 positive_cases.sort_values(by=['Date','GGD_name','Age_group'], inplace=True)
 positive_cases[["Date", "GGD_name", "Age_group", "Positive_cases"]].to_csv("data/rivm-cases-per-ggd-per-age-group.csv", index=False, chunksize=1000)
