@@ -2,11 +2,11 @@ import sys
 import pandas as pd
 import requests
 import time
-from datetime import date
+from datetime import date, datetime
 from datetime import timedelta
 
 def progress(*args):
-    print(*args, file=sys.stderr, flush=True)
+    print(datetime.now(), "\t", *args, file=sys.stderr, flush=True)
 
 progress("*** waiting for new data drop")
 yesterday = date.today() - timedelta(days=1)
@@ -25,7 +25,7 @@ cases = pd.read_csv('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv'
     sep=';', parse_dates=["Date_statistics"], 
     usecols=["Date_statistics", "Date_statistics_type", "Agegroup", "Sex", "Municipal_health_service"])
 cases = cases.applymap(lambda x: x.strip() if isinstance(x, str) else x)
-progress(cases)
+progress("\n", cases)
 
 
 #progress("*** Reading population master file")
@@ -55,7 +55,7 @@ positive_cases = positive_cases.rename(columns={
     "Date_statistics": "Date", 
     "Count": "Positive_cases"
 })
-progress(positive_cases)
+progress("\n", positive_cases)
 
 
 #progress("*** Joining with GGD level population stats")
