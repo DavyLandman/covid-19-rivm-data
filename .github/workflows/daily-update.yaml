@@ -8,7 +8,7 @@ on:
     - cron: '14 13 * * *' # UTC time
 
 jobs:
-  build:
+  process:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2 # checkout the repository content to github runner
@@ -19,7 +19,7 @@ jobs:
           python-version: 'pypy-3.7'
           
       - name: install python packages
-        run: pip install requirements.txt
+        run: pip install -r requirements.txt
 
       - name: calculate per-ggd per-age-group cases
         run: python calculate-ggd-pop-stats.py
