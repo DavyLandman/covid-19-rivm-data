@@ -1,7 +1,9 @@
+from os import environ
 import sys
 import pandas as pd
 import requests
 import time
+import os
 from datetime import date, datetime
 from datetime import timedelta
 
@@ -10,7 +12,7 @@ def progress(*args):
 
 progress("*** waiting for new data drop")
 yesterday = date.today() - timedelta(days=1)
-while True:
+while not ("ALWAYS_RUN" in os.environ):
     r=requests.head('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv')
     if r.status_code == 200:
         date = pd.to_datetime(r.headers['Last-Modified'])
@@ -28,10 +30,10 @@ cases = cases.applymap(lambda x: x.strip() if isinstance(x, str) else x)
 progress("\n", cases)
 
 
-#progress("*** Reading population master file")
-#population = pd.read_csv('https://raw.githubusercontent.com/mzelst/covid-19/master/misc/population_masterfile.csv')
-#population = population.applymap(lambda x: x.strip() if isinstance(x, str) else x)
-#progress(population)
+progress("*** Reading population master file")
+population = pd.read_csv('https://raw.githubusercontent.com/mzelst/covid-19/master/misc/population_masterfile.csv')
+population = population.applymap(lambda x: x.strip() if isinstance(x, str) else x)
+progress(population)
 
 
 progress("*** Counting positive casus per GGD & agegroup")
@@ -58,20 +60,30 @@ positive_cases = positive_cases.rename(columns={
 progress("\n", positive_cases)
 
 
-#progress("*** Joining with GGD level population stats")
-#population = population[['GGD_name', 'Age_group', 'Population_2021', 'Population_2020']].copy()\
-#    .set_index(['GGD_name', 'Age_group'])\
-#    .groupby(by=["GGD_name", "Age_group"])\
-#    .sum()
-#
-#positive_cases = positive_cases.set_index(['GGD_name', 'Age_group'])\
-#    .join(population, how="left") \
-#    .reset_index()
-#
-#progress(positive_cases)
+progress("*** Joining with GGD level population stats")
+population = population[['GGD_name', 'Age_group', 'Population_2021', 'Population_2020']].copy()\
+    .set_index(['GGD_name', 'Age_group'])\
+    .groupby(by=["GGD_name", "Age_group"])\
+    .sum()
 
+positive_cases = positive_cases.set_index(['GGD_name', 'Age_group'])\
+    .join(population, how="left") \
+    .reset_index()
+
+positive_cases['Population'] = positive_cases.Population_2021
+positive_cases.loc[positive_cases.Date < '2021-01-01', 'Population'] = positive_cases[positive_cases.Date < '2021-01-01']['Population_2020']
+
+progress("\n", positive_cases)
+
+positive_cases['Positive_cases_per100k'] = (positive_cases.Positive_cases / positive_cases.Population) * 100_000
+
+del positive_cases['Population_2020']
+del positive_cases['Population_2021']
+del positive_cases['Population']
+
+progress("\n", positive_cases)
 
 
 progress("*** Sorting and writing to disk")
 positive_cases.sort_values(by=['Date','GGD_name','Age_group'], inplace=True)
-positive_cases[["Date", "GGD_name", "Age_group", "Positive_cases"]].to_csv("data/rivm-cases-per-ggd-per-age-group.csv", index=False, chunksize=1000)
+positive_cases[["Date", "GGD_name", "Age_group", "Positive_cases", 'Positive_cases_per100k']].to_csv("data/rivm-cases-per-ggd-per-age-group.csv", index=False, chunksize=1000, float_format='%.3f')
