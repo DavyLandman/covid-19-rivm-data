@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '14 10 * * *' # UTC time
+    - cron: '10 13 * * *' # UTC time
 
 jobs:
   process:
