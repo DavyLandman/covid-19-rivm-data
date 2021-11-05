@@ -38,7 +38,7 @@ progress(population)
 
 progress("*** Counting positive casus per GGD & agegroup")
 merge_cols = ["Municipal_health_service", 'Agegroup', 'Date_statistics']
-positive_cases = cases[(cases.Date_statistics_type == 'DPL') & ~(cases.Agegroup.isin({'<50', 'Unknown'}))].copy()\
+positive_cases = cases[~(cases.Agegroup.isin({'<50', 'Unknown'}))].copy()\
     .value_counts(subset=merge_cols, sort=True).reset_index(name="Count")
 
 # fill in blanks
