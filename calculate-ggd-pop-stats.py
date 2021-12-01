@@ -18,6 +18,7 @@ while not ("ALWAYS_RUN" in os.environ):
         date = pd.to_datetime(r.headers['Last-Modified'])
         if date.date() > yesterday:
             progress("Got update today: ", date)
+            time.sleep(5)
             break
     progress("Sleeping 10s to wait for change, currently: ", date)
     time.sleep(10)
