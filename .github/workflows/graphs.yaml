@@ -34,7 +34,7 @@ jobs:
           mkdir -p ./public
           curl https://ackee.coronapergemeente.nl/tracker.js > public/ackee-min.js
           cp *.html public/
-          find public/ -type f -name '*.html' -print0 | xargs -0 sed -i 's|</head>|<script async src="/ackee-min.js" data-ackee-server="https://ackee.coronapergemeente.nl" data-ackee-domain-id="5b9d704d-7067-4c3e-a018-513dd8b9c0d5"></script></head>|'
+          find public/ -type f -name '*.html' -print0 | xargs -0 sed -i 's|</body>|<script async src="/ackee-min.js" data-ackee-server="https://ackee.coronapergemeente.nl" data-ackee-domain-id="5b9d704d-7067-4c3e-a018-513dd8b9c0d5"></script></body>|'
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
