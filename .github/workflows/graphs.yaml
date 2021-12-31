@@ -1,6 +1,10 @@
 name: build-graphs
 
 on:
+  workflow_run:
+    workflows: ["daily-update-rivm-stats"]
+    types:
+      - completed
   push:
     branches:
       - main
@@ -25,15 +29,15 @@ jobs:
         run: pip install --upgrade --upgrade-strategy eager -r requirements-nb.txt
         
 
+      - run: mkdir -p ./public
       - name: execute notebook
-        run: jupyter nbconvert --to html --execute age-group-plots.ipynb
+        run: python build.py
 
       
       - name: prepare site
         run: |
-          mkdir -p ./public
           curl https://ackee.coronapergemeente.nl/tracker.js > public/ackee-min.js
-          cp *.html public/
+          cp index.html public/
           find public/ -type f -name '*.html' -print0 | xargs -0 sed -i 's|</body>|<script async src="/ackee-min.js" data-ackee-server="https://ackee.coronapergemeente.nl" data-ackee-domain-id="5b9d704d-7067-4c3e-a018-513dd8b9c0d5"></script></body>|'
 
       - name: Deploy
