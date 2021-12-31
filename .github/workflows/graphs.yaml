@@ -28,7 +28,15 @@ jobs:
       - name: execute notebook
         run: jupyter nbconvert --to html --execute age-group-plots.ipynb
 
-      - uses: actions/upload-artifact@v2
+      
+      - name: prepare site
+        run: |
+          mkdir -p ./public
+          cp *.html public/
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: all-files
-          path: ./
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true
