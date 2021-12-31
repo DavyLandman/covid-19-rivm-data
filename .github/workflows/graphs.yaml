@@ -26,7 +26,7 @@ jobs:
         
 
       - name: execute notebook
-        run: jupyter nbconvert -to html --execute age-group-plots.ipynb
+        run: jupyter nbconvert --to html --execute age-group-plots.ipynb
 
       - uses: actions/upload-artifact@v2
         with:
