@@ -2,7 +2,8 @@ name: daily-update-rivm-stats
 
 on:
   schedule:
-    - cron: '0 13 * * *' # UTC time
+    - cron: '0 14 * * *' # UTC time
+  workflow_dispatch:
 
 jobs:
   process:
