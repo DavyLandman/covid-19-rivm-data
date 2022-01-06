@@ -5,9 +5,9 @@ on:
     workflows: ["daily-update-rivm-stats"]
     types:
       - completed
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
 
 jobs:
   process:
