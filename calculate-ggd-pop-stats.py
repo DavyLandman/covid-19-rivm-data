@@ -21,7 +21,7 @@ while not ("ALWAYS_RUN" in os.environ):
             time.sleep(5)
             break
     progress("Sleeping 10s to wait for change, currently: ", date)
-    time.sleep(10)
+    time.sleep(20)
         
 progress("*** Reading RIVM data")
 cases = pd.read_csv('https://data.rivm.nl/covid-19/COVID-19_casus_landelijk.csv', 
