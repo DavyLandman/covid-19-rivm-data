@@ -36,6 +36,7 @@ def write_html(source, target):
 write_html("age-group-plots.ipynb", "public/age-group-plots")
 write_html("global-trends.ipynb", "public/global-trends")
 write_html("opnames.ipynb", "public/age-opnames")
+write_html("sewage-trends.ipynb", "public/sewage-trends")
 
 
 
