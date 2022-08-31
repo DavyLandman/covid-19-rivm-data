@@ -26787,7 +26787,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-15,Dienst Gezondheid & Jeugd ZHZ,50-59,119,175.989
 2022-01-15,Dienst Gezondheid & Jeugd ZHZ,60-69,29,52.700
 2022-01-15,Dienst Gezondheid & Jeugd ZHZ,70-79,10,22.425
-2022-01-15,Dienst Gezondheid & Jeugd ZHZ,80-89,7,35.185
+2022-01-15,Dienst Gezondheid & Jeugd ZHZ,80-89,6,30.158
 2022-01-15,Dienst Gezondheid & Jeugd ZHZ,90+,2,53.348
 2022-01-15,GGD Amsterdam,0-9,429,226.261
 2022-01-15,GGD Amsterdam,10-19,926,501.381
@@ -27567,7 +27567,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-18,Dienst Gezondheid & Jeugd ZHZ,50-59,120,177.468
 2022-01-18,Dienst Gezondheid & Jeugd ZHZ,60-69,38,69.056
 2022-01-18,Dienst Gezondheid & Jeugd ZHZ,70-79,9,20.182
-2022-01-18,Dienst Gezondheid & Jeugd ZHZ,80-89,0,0.000
+2022-01-18,Dienst Gezondheid & Jeugd ZHZ,80-89,1,5.026
 2022-01-18,Dienst Gezondheid & Jeugd ZHZ,90+,2,53.348
 2022-01-18,GGD Amsterdam,0-9,580,305.901
 2022-01-18,GGD Amsterdam,10-19,1043,564.730
@@ -28601,7 +28601,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-21,,90+,0,
 2022-01-22,Dienst Gezondheid & Jeugd ZHZ,0-9,228,456.173
 2022-01-22,Dienst Gezondheid & Jeugd ZHZ,10-19,528,963.996
-2022-01-22,Dienst Gezondheid & Jeugd ZHZ,20-29,261,487.914
+2022-01-22,Dienst Gezondheid & Jeugd ZHZ,20-29,260,486.045
 2022-01-22,Dienst Gezondheid & Jeugd ZHZ,30-39,301,543.822
 2022-01-22,Dienst Gezondheid & Jeugd ZHZ,40-49,248,438.372
 2022-01-22,Dienst Gezondheid & Jeugd ZHZ,50-59,156,230.708
@@ -28861,7 +28861,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-22,,90+,0,
 2022-01-23,Dienst Gezondheid & Jeugd ZHZ,0-9,248,496.189
 2022-01-23,Dienst Gezondheid & Jeugd ZHZ,10-19,560,1022.420
-2022-01-23,Dienst Gezondheid & Jeugd ZHZ,20-29,250,467.351
+2022-01-23,Dienst Gezondheid & Jeugd ZHZ,20-29,251,469.220
 2022-01-23,Dienst Gezondheid & Jeugd ZHZ,30-39,293,529.368
 2022-01-23,Dienst Gezondheid & Jeugd ZHZ,40-49,269,475.492
 2022-01-23,Dienst Gezondheid & Jeugd ZHZ,50-59,145,214.440
@@ -30951,7 +30951,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-31,Dienst Gezondheid & Jeugd ZHZ,90+,9,240.064
 2022-01-31,GGD Amsterdam,0-9,516,272.146
 2022-01-31,GGD Amsterdam,10-19,1023,553.901
-2022-01-31,GGD Amsterdam,20-29,978,274.123
+2022-01-31,GGD Amsterdam,20-29,977,273.843
 2022-01-31,GGD Amsterdam,30-39,1062,303.741
 2022-01-31,GGD Amsterdam,40-49,871,348.148
 2022-01-31,GGD Amsterdam,50-59,481,195.688
@@ -31122,7 +31122,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-01-31,GGD Rotterdam-Rijnmond,0-9,563,396.256
 2022-01-31,GGD Rotterdam-Rijnmond,10-19,1377,943.648
 2022-01-31,GGD Rotterdam-Rijnmond,20-29,1147,615.941
-2022-01-31,GGD Rotterdam-Rijnmond,30-39,1277,695.435
+2022-01-31,GGD Rotterdam-Rijnmond,30-39,1276,694.891
 2022-01-31,GGD Rotterdam-Rijnmond,40-49,1099,654.876
 2022-01-31,GGD Rotterdam-Rijnmond,50-59,588,322.375
 2022-01-31,GGD Rotterdam-Rijnmond,60-69,297,197.510
@@ -31471,7 +31471,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-02,Dienst Gezondheid & Jeugd ZHZ,90+,4,106.695
 2022-02-02,GGD Amsterdam,0-9,381,200.945
 2022-02-02,GGD Amsterdam,10-19,864,467.811
-2022-02-02,GGD Amsterdam,20-29,1166,326.818
+2022-02-02,GGD Amsterdam,20-29,1167,327.098
 2022-02-02,GGD Amsterdam,30-39,1093,312.607
 2022-02-02,GGD Amsterdam,40-49,800,319.768
 2022-02-02,GGD Amsterdam,50-59,430,174.939
@@ -32214,7 +32214,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-04,GGD Zuid-Limburg,20-29,487,670.208
 2022-02-04,GGD Zuid-Limburg,30-39,460,701.294
 2022-02-04,GGD Zuid-Limburg,40-49,418,642.188
-2022-02-04,GGD Zuid-Limburg,50-59,235,252.857
+2022-02-04,GGD Zuid-Limburg,50-59,234,251.781
 2022-02-04,GGD Zuid-Limburg,60-69,155,173.397
 2022-02-04,GGD Zuid-Limburg,70-79,82,120.356
 2022-02-04,GGD Zuid-Limburg,80-89,27,84.275
@@ -32914,7 +32914,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-07,GGD Limburg-Noord,20-29,281,496.107
 2022-02-07,GGD Limburg-Noord,30-39,290,499.157
 2022-02-07,GGD Limburg-Noord,40-49,280,458.153
-2022-02-07,GGD Limburg-Noord,50-59,254,303.930
+2022-02-07,GGD Limburg-Noord,50-59,253,302.733
 2022-02-07,GGD Limburg-Noord,60-69,147,193.169
 2022-02-07,GGD Limburg-Noord,70-79,41,71.979
 2022-02-07,GGD Limburg-Noord,80-89,19,74.542
@@ -32994,7 +32994,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-07,GGD Zuid-Limburg,20-29,365,502.312
 2022-02-07,GGD Zuid-Limburg,30-39,351,535.118
 2022-02-07,GGD Zuid-Limburg,40-49,274,420.956
-2022-02-07,GGD Zuid-Limburg,50-59,155,166.778
+2022-02-07,GGD Zuid-Limburg,50-59,156,167.854
 2022-02-07,GGD Zuid-Limburg,60-69,91,101.801
 2022-02-07,GGD Zuid-Limburg,70-79,46,67.517
 2022-02-07,GGD Zuid-Limburg,80-89,22,68.668
@@ -33202,7 +33202,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-08,GGD Rotterdam-Rijnmond,0-9,345,242.821
 2022-02-08,GGD Rotterdam-Rijnmond,10-19,1225,839.484
 2022-02-08,GGD Rotterdam-Rijnmond,20-29,1304,700.251
-2022-02-08,GGD Rotterdam-Rijnmond,30-39,1003,546.219
+2022-02-08,GGD Rotterdam-Rijnmond,30-39,1004,546.764
 2022-02-08,GGD Rotterdam-Rijnmond,40-49,830,494.583
 2022-02-08,GGD Rotterdam-Rijnmond,50-59,604,331.148
 2022-02-08,GGD Rotterdam-Rijnmond,60-69,341,226.771
@@ -33291,7 +33291,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-09,Dienst Gezondheid & Jeugd ZHZ,90+,2,53.348
 2022-02-09,GGD Amsterdam,0-9,231,121.833
 2022-02-09,GGD Amsterdam,10-19,776,420.164
-2022-02-09,GGD Amsterdam,20-29,1534,429.964
+2022-02-09,GGD Amsterdam,20-29,1533,429.684
 2022-02-09,GGD Amsterdam,30-39,1186,339.206
 2022-02-09,GGD Amsterdam,40-49,807,322.566
 2022-02-09,GGD Amsterdam,50-59,361,146.867
@@ -33694,7 +33694,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-10,GGD Limburg-Noord,20-29,430,759.167
 2022-02-10,GGD Limburg-Noord,30-39,391,673.001
 2022-02-10,GGD Limburg-Noord,40-49,348,569.418
-2022-02-10,GGD Limburg-Noord,50-59,224,268.032
+2022-02-10,GGD Limburg-Noord,50-59,225,269.229
 2022-02-10,GGD Limburg-Noord,60-69,118,155.061
 2022-02-10,GGD Limburg-Noord,70-79,58,101.824
 2022-02-10,GGD Limburg-Noord,80-89,13,51.002
@@ -34071,7 +34071,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-12,Dienst Gezondheid & Jeugd ZHZ,90+,2,53.348
 2022-02-12,GGD Amsterdam,0-9,120,63.290
 2022-02-12,GGD Amsterdam,10-19,405,219.286
-2022-02-12,GGD Amsterdam,20-29,675,189.195
+2022-02-12,GGD Amsterdam,20-29,676,189.476
 2022-02-12,GGD Amsterdam,30-39,570,163.025
 2022-02-12,GGD Amsterdam,40-49,360,143.896
 2022-02-12,GGD Amsterdam,50-59,252,102.522
@@ -36239,7 +36239,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-20,GGD Haaglanden,70-79,40,45.074
 2022-02-20,GGD Haaglanden,80-89,14,35.538
 2022-02-20,GGD Haaglanden,90+,3,36.136
-2022-02-20,GGD Hart voor Brabant,0-9,143,137.351
+2022-02-20,GGD Hart voor Brabant,0-9,142,136.390
 2022-02-20,GGD Hart voor Brabant,10-19,285,235.465
 2022-02-20,GGD Hart voor Brabant,20-29,326,238.510
 2022-02-20,GGD Hart voor Brabant,30-39,311,240.604
@@ -37799,7 +37799,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-02-26,GGD Haaglanden,70-79,59,66.485
 2022-02-26,GGD Haaglanden,80-89,16,40.615
 2022-02-26,GGD Haaglanden,90+,3,36.136
-2022-02-26,GGD Hart voor Brabant,0-9,94,90.287
+2022-02-26,GGD Hart voor Brabant,0-9,95,91.247
 2022-02-26,GGD Hart voor Brabant,10-19,193,159.455
 2022-02-26,GGD Hart voor Brabant,20-29,264,193.149
 2022-02-26,GGD Hart voor Brabant,30-39,256,198.054
@@ -40313,7 +40313,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-03-08,GGD Amsterdam,10-19,217,117.494
 2022-03-08,GGD Amsterdam,20-29,1047,293.463
 2022-03-08,GGD Amsterdam,30-39,934,267.132
-2022-03-08,GGD Amsterdam,40-49,438,175.073
+2022-03-08,GGD Amsterdam,40-49,437,174.674
 2022-03-08,GGD Amsterdam,50-59,412,167.616
 2022-03-08,GGD Amsterdam,60-69,246,130.330
 2022-03-08,GGD Amsterdam,70-79,128,105.781
@@ -40573,7 +40573,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-03-09,GGD Amsterdam,10-19,236,127.782
 2022-03-09,GGD Amsterdam,20-29,893,250.299
 2022-03-09,GGD Amsterdam,30-39,783,223.945
-2022-03-09,GGD Amsterdam,40-49,429,171.476
+2022-03-09,GGD Amsterdam,40-49,430,171.876
 2022-03-09,GGD Amsterdam,50-59,422,171.684
 2022-03-09,GGD Amsterdam,60-69,266,140.926
 2022-03-09,GGD Amsterdam,70-79,128,105.781
@@ -64391,7 +64391,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-06-08,GGD Noord- en Oost-Gelderland,90+,0,0.000
 2022-06-08,GGD Regio Utrecht,0-9,4,2.647
 2022-06-08,GGD Regio Utrecht,10-19,19,11.707
-2022-06-08,GGD Regio Utrecht,20-29,38,20.646
+2022-06-08,GGD Regio Utrecht,20-29,39,21.189
 2022-06-08,GGD Regio Utrecht,30-39,52,28.450
 2022-06-08,GGD Regio Utrecht,40-49,39,22.359
 2022-06-08,GGD Regio Utrecht,50-59,45,23.760
@@ -65695,7 +65695,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-06-13,GGD Regio Utrecht,30-39,58,31.733
 2022-06-13,GGD Regio Utrecht,40-49,42,24.079
 2022-06-13,GGD Regio Utrecht,50-59,60,31.680
-2022-06-13,GGD Regio Utrecht,60-69,33,22.042
+2022-06-13,GGD Regio Utrecht,60-69,34,22.710
 2022-06-13,GGD Regio Utrecht,70-79,18,16.356
 2022-06-13,GGD Regio Utrecht,80-89,10,20.848
 2022-06-13,GGD Regio Utrecht,90+,1,10.692
@@ -65955,7 +65955,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-06-14,GGD Regio Utrecht,30-39,64,35.015
 2022-06-14,GGD Regio Utrecht,40-49,46,26.372
 2022-06-14,GGD Regio Utrecht,50-59,60,31.680
-2022-06-14,GGD Regio Utrecht,60-69,32,21.374
+2022-06-14,GGD Regio Utrecht,60-69,31,20.706
 2022-06-14,GGD Regio Utrecht,70-79,14,12.721
 2022-06-14,GGD Regio Utrecht,80-89,7,14.593
 2022-06-14,GGD Regio Utrecht,90+,2,21.384
@@ -79471,7 +79471,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-05,GGD Noord- en Oost-Gelderland,90+,0,0.000
 2022-08-05,GGD Regio Utrecht,0-9,2,1.323
 2022-08-05,GGD Regio Utrecht,10-19,6,3.697
-2022-08-05,GGD Regio Utrecht,20-29,28,15.213
+2022-08-05,GGD Regio Utrecht,20-29,27,14.669
 2022-08-05,GGD Regio Utrecht,30-39,45,24.620
 2022-08-05,GGD Regio Utrecht,40-49,25,14.333
 2022-08-05,GGD Regio Utrecht,50-59,40,21.120
@@ -80082,7 +80082,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,10-19,6,10.955
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,20-29,10,18.694
-2022-08-08,Dienst Gezondheid & Jeugd ZHZ,30-39,14,25.294
+2022-08-08,Dienst Gezondheid & Jeugd ZHZ,30-39,15,27.101
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,40-49,7,12.373
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,50-59,8,11.831
 2022-08-08,Dienst Gezondheid & Jeugd ZHZ,60-69,4,7.269
@@ -80104,7 +80104,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-08,GGD Brabant-Zuidoost,20-29,14,13.784
 2022-08-08,GGD Brabant-Zuidoost,30-39,10,10.031
 2022-08-08,GGD Brabant-Zuidoost,40-49,8,8.327
-2022-08-08,GGD Brabant-Zuidoost,50-59,13,11.262
+2022-08-08,GGD Brabant-Zuidoost,50-59,14,12.128
 2022-08-08,GGD Brabant-Zuidoost,60-69,9,9.336
 2022-08-08,GGD Brabant-Zuidoost,70-79,10,13.591
 2022-08-08,GGD Brabant-Zuidoost,80-89,3,8.601
@@ -80623,7 +80623,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-10,GGD Brabant-Zuidoost,10-19,3,3.492
 2022-08-10,GGD Brabant-Zuidoost,20-29,7,6.892
 2022-08-10,GGD Brabant-Zuidoost,30-39,9,9.028
-2022-08-10,GGD Brabant-Zuidoost,40-49,6,6.245
+2022-08-10,GGD Brabant-Zuidoost,40-49,7,7.286
 2022-08-10,GGD Brabant-Zuidoost,50-59,10,8.663
 2022-08-10,GGD Brabant-Zuidoost,60-69,5,5.187
 2022-08-10,GGD Brabant-Zuidoost,70-79,9,12.232
@@ -81294,7 +81294,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-12,GGD Regio Utrecht,20-29,20,10.866
 2022-08-12,GGD Regio Utrecht,30-39,25,13.678
 2022-08-12,GGD Regio Utrecht,40-49,33,18.919
-2022-08-12,GGD Regio Utrecht,50-59,28,14.784
+2022-08-12,GGD Regio Utrecht,50-59,29,15.312
 2022-08-12,GGD Regio Utrecht,60-69,18,12.023
 2022-08-12,GGD Regio Utrecht,70-79,16,14.538
 2022-08-12,GGD Regio Utrecht,80-89,5,10.424
@@ -81554,7 +81554,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-13,GGD Regio Utrecht,20-29,22,11.953
 2022-08-13,GGD Regio Utrecht,30-39,24,13.131
 2022-08-13,GGD Regio Utrecht,40-49,24,13.759
-2022-08-13,GGD Regio Utrecht,50-59,23,12.144
+2022-08-13,GGD Regio Utrecht,50-59,24,12.672
 2022-08-13,GGD Regio Utrecht,60-69,6,4.008
 2022-08-13,GGD Regio Utrecht,70-79,15,13.630
 2022-08-13,GGD Regio Utrecht,80-89,4,8.339
@@ -81665,9 +81665,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-14,GGD Brabant-Zuidoost,30-39,8,8.025
 2022-08-14,GGD Brabant-Zuidoost,40-49,4,4.164
 2022-08-14,GGD Brabant-Zuidoost,50-59,5,4.331
-2022-08-14,GGD Brabant-Zuidoost,60-69,5,5.187
+2022-08-14,GGD Brabant-Zuidoost,60-69,6,6.224
 2022-08-14,GGD Brabant-Zuidoost,70-79,6,8.154
-2022-08-14,GGD Brabant-Zuidoost,80-89,5,14.336
+2022-08-14,GGD Brabant-Zuidoost,80-89,6,17.203
 2022-08-14,GGD Brabant-Zuidoost,90+,1,17.924
 2022-08-14,GGD Drenthe,0-9,0,0.000
 2022-08-14,GGD Drenthe,10-19,2,3.471
@@ -81919,13 +81919,13 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-15,GGD Amsterdam,70-79,10,8.264
 2022-08-15,GGD Amsterdam,80-89,2,4.088
 2022-08-15,GGD Amsterdam,90+,3,30.650
-2022-08-15,GGD Brabant-Zuidoost,0-9,2,2.657
+2022-08-15,GGD Brabant-Zuidoost,0-9,3,3.985
 2022-08-15,GGD Brabant-Zuidoost,10-19,1,1.164
-2022-08-15,GGD Brabant-Zuidoost,20-29,8,7.876
+2022-08-15,GGD Brabant-Zuidoost,20-29,9,8.861
 2022-08-15,GGD Brabant-Zuidoost,30-39,11,11.034
 2022-08-15,GGD Brabant-Zuidoost,40-49,10,10.409
-2022-08-15,GGD Brabant-Zuidoost,50-59,11,9.529
-2022-08-15,GGD Brabant-Zuidoost,60-69,8,8.299
+2022-08-15,GGD Brabant-Zuidoost,50-59,12,10.395
+2022-08-15,GGD Brabant-Zuidoost,60-69,9,9.336
 2022-08-15,GGD Brabant-Zuidoost,70-79,4,5.436
 2022-08-15,GGD Brabant-Zuidoost,80-89,2,5.734
 2022-08-15,GGD Brabant-Zuidoost,90+,1,17.924
@@ -81944,7 +81944,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-15,GGD Flevoland,20-29,9,16.880
 2022-08-15,GGD Flevoland,30-39,5,8.400
 2022-08-15,GGD Flevoland,40-49,5,8.923
-2022-08-15,GGD Flevoland,50-59,12,19.185
+2022-08-15,GGD Flevoland,50-59,13,20.784
 2022-08-15,GGD Flevoland,60-69,10,20.460
 2022-08-15,GGD Flevoland,70-79,3,10.477
 2022-08-15,GGD Flevoland,80-89,1,10.092
@@ -82036,7 +82036,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-15,GGD IJsselland,40-49,7,10.512
 2022-08-15,GGD IJsselland,50-59,7,9.119
 2022-08-15,GGD IJsselland,60-69,7,10.942
-2022-08-15,GGD IJsselland,70-79,4,8.646
+2022-08-15,GGD IJsselland,70-79,5,10.808
 2022-08-15,GGD IJsselland,80-89,3,14.554
 2022-08-15,GGD IJsselland,90+,0,0.000
 2022-08-15,GGD Kennemerland,0-9,0,0.000
@@ -82146,7 +82146,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,13,15.087
 2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,6,5.918
 2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,5,5.890
-2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,4,6.307
+2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,5,7.884
 2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,4,14.084
 2022-08-15,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,1,18.584
 2022-08-15,,0-9,0,
@@ -82179,13 +82179,13 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-16,GGD Amsterdam,70-79,6,4.958
 2022-08-16,GGD Amsterdam,80-89,5,10.219
 2022-08-16,GGD Amsterdam,90+,0,0.000
-2022-08-16,GGD Brabant-Zuidoost,0-9,1,1.328
+2022-08-16,GGD Brabant-Zuidoost,0-9,0,0.000
 2022-08-16,GGD Brabant-Zuidoost,10-19,2,2.328
-2022-08-16,GGD Brabant-Zuidoost,20-29,8,7.876
+2022-08-16,GGD Brabant-Zuidoost,20-29,9,8.861
 2022-08-16,GGD Brabant-Zuidoost,30-39,12,12.038
-2022-08-16,GGD Brabant-Zuidoost,40-49,15,15.613
+2022-08-16,GGD Brabant-Zuidoost,40-49,14,14.572
 2022-08-16,GGD Brabant-Zuidoost,50-59,9,7.796
-2022-08-16,GGD Brabant-Zuidoost,60-69,7,7.262
+2022-08-16,GGD Brabant-Zuidoost,60-69,8,8.299
 2022-08-16,GGD Brabant-Zuidoost,70-79,6,8.154
 2022-08-16,GGD Brabant-Zuidoost,80-89,2,5.734
 2022-08-16,GGD Brabant-Zuidoost,90+,2,35.849
@@ -82280,11 +82280,11 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-16,GGD Hollands-Midden,80-89,5,15.396
 2022-08-16,GGD Hollands-Midden,90+,2,32.998
 2022-08-16,GGD Hollands-Noorden,0-9,0,0.000
-2022-08-16,GGD Hollands-Noorden,10-19,3,3.895
+2022-08-16,GGD Hollands-Noorden,10-19,4,5.193
 2022-08-16,GGD Hollands-Noorden,20-29,4,5.506
 2022-08-16,GGD Hollands-Noorden,30-39,4,5.330
 2022-08-16,GGD Hollands-Noorden,40-49,2,2.424
-2022-08-16,GGD Hollands-Noorden,50-59,7,6.981
+2022-08-16,GGD Hollands-Noorden,50-59,8,7.978
 2022-08-16,GGD Hollands-Noorden,60-69,3,3.420
 2022-08-16,GGD Hollands-Noorden,70-79,3,4.144
 2022-08-16,GGD Hollands-Noorden,80-89,4,14.008
@@ -82296,7 +82296,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-16,GGD IJsselland,40-49,10,15.017
 2022-08-16,GGD IJsselland,50-59,10,13.026
 2022-08-16,GGD IJsselland,60-69,5,7.816
-2022-08-16,GGD IJsselland,70-79,11,23.777
+2022-08-16,GGD IJsselland,70-79,10,21.615
 2022-08-16,GGD IJsselland,80-89,2,9.703
 2022-08-16,GGD IJsselland,90+,1,25.569
 2022-08-16,GGD Kennemerland,0-9,1,1.732
@@ -82325,7 +82325,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-16,GGD Noord- en Oost-Gelderland,30-39,12,13.780
 2022-08-16,GGD Noord- en Oost-Gelderland,40-49,13,13.088
 2022-08-16,GGD Noord- en Oost-Gelderland,50-59,12,9.257
-2022-08-16,GGD Noord- en Oost-Gelderland,60-69,14,12.290
+2022-08-16,GGD Noord- en Oost-Gelderland,60-69,15,13.168
 2022-08-16,GGD Noord- en Oost-Gelderland,70-79,9,10.084
 2022-08-16,GGD Noord- en Oost-Gelderland,80-89,5,12.716
 2022-08-16,GGD Noord- en Oost-Gelderland,90+,0,0.000
@@ -82445,8 +82445,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-17,GGD Brabant-Zuidoost,30-39,6,6.019
 2022-08-17,GGD Brabant-Zuidoost,40-49,6,6.245
 2022-08-17,GGD Brabant-Zuidoost,50-59,5,4.331
-2022-08-17,GGD Brabant-Zuidoost,60-69,5,5.187
-2022-08-17,GGD Brabant-Zuidoost,70-79,4,5.436
+2022-08-17,GGD Brabant-Zuidoost,60-69,4,4.149
+2022-08-17,GGD Brabant-Zuidoost,70-79,5,6.795
 2022-08-17,GGD Brabant-Zuidoost,80-89,3,8.601
 2022-08-17,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-17,GGD Drenthe,0-9,0,0.000
@@ -82514,7 +82514,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-17,GGD Haaglanden,20-29,13,8.321
 2022-08-17,GGD Haaglanden,30-39,22,14.204
 2022-08-17,GGD Haaglanden,40-49,15,10.073
-2022-08-17,GGD Haaglanden,50-59,10,6.505
+2022-08-17,GGD Haaglanden,50-59,11,7.155
 2022-08-17,GGD Haaglanden,60-69,22,17.828
 2022-08-17,GGD Haaglanden,70-79,12,13.522
 2022-08-17,GGD Haaglanden,80-89,4,10.154
@@ -82563,7 +82563,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-17,GGD Kennemerland,10-19,1,1.540
 2022-08-17,GGD Kennemerland,20-29,3,4.986
 2022-08-17,GGD Kennemerland,30-39,8,11.584
-2022-08-17,GGD Kennemerland,40-49,5,6.801
+2022-08-17,GGD Kennemerland,40-49,6,8.161
 2022-08-17,GGD Kennemerland,50-59,5,5.933
 2022-08-17,GGD Kennemerland,60-69,0,0.000
 2022-08-17,GGD Kennemerland,70-79,3,6.010
@@ -82701,11 +82701,11 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-18,GGD Amsterdam,90+,5,51.083
 2022-08-18,GGD Brabant-Zuidoost,0-9,1,1.328
 2022-08-18,GGD Brabant-Zuidoost,10-19,4,4.656
-2022-08-18,GGD Brabant-Zuidoost,20-29,5,4.923
+2022-08-18,GGD Brabant-Zuidoost,20-29,4,3.938
 2022-08-18,GGD Brabant-Zuidoost,30-39,7,7.022
 2022-08-18,GGD Brabant-Zuidoost,40-49,10,10.409
-2022-08-18,GGD Brabant-Zuidoost,50-59,5,4.331
-2022-08-18,GGD Brabant-Zuidoost,60-69,7,7.262
+2022-08-18,GGD Brabant-Zuidoost,50-59,4,3.465
+2022-08-18,GGD Brabant-Zuidoost,60-69,6,6.224
 2022-08-18,GGD Brabant-Zuidoost,70-79,4,5.436
 2022-08-18,GGD Brabant-Zuidoost,80-89,7,20.070
 2022-08-18,GGD Brabant-Zuidoost,90+,0,0.000
@@ -82715,7 +82715,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-18,GGD Drenthe,30-39,3,5.836
 2022-08-18,GGD Drenthe,40-49,1,1.668
 2022-08-18,GGD Drenthe,50-59,5,6.460
-2022-08-18,GGD Drenthe,60-69,2,2.842
+2022-08-18,GGD Drenthe,60-69,3,4.263
 2022-08-18,GGD Drenthe,70-79,4,7.254
 2022-08-18,GGD Drenthe,80-89,4,16.436
 2022-08-18,GGD Drenthe,90+,0,0.000
@@ -82772,7 +82772,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-18,GGD Haaglanden,0-9,0,0.000
 2022-08-18,GGD Haaglanden,10-19,2,1.570
 2022-08-18,GGD Haaglanden,20-29,9,5.761
-2022-08-18,GGD Haaglanden,30-39,8,5.165
+2022-08-18,GGD Haaglanden,30-39,9,5.811
 2022-08-18,GGD Haaglanden,40-49,18,12.087
 2022-08-18,GGD Haaglanden,50-59,9,5.854
 2022-08-18,GGD Haaglanden,60-69,7,5.673
@@ -82961,11 +82961,11 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-19,GGD Amsterdam,90+,0,0.000
 2022-08-19,GGD Brabant-Zuidoost,0-9,2,2.657
 2022-08-19,GGD Brabant-Zuidoost,10-19,2,2.328
-2022-08-19,GGD Brabant-Zuidoost,20-29,5,4.923
+2022-08-19,GGD Brabant-Zuidoost,20-29,4,3.938
 2022-08-19,GGD Brabant-Zuidoost,30-39,3,3.009
 2022-08-19,GGD Brabant-Zuidoost,40-49,7,7.286
-2022-08-19,GGD Brabant-Zuidoost,50-59,5,4.331
-2022-08-19,GGD Brabant-Zuidoost,60-69,5,5.187
+2022-08-19,GGD Brabant-Zuidoost,50-59,6,5.198
+2022-08-19,GGD Brabant-Zuidoost,60-69,4,4.149
 2022-08-19,GGD Brabant-Zuidoost,70-79,10,13.591
 2022-08-19,GGD Brabant-Zuidoost,80-89,9,25.804
 2022-08-19,GGD Brabant-Zuidoost,90+,1,17.924
@@ -83111,12 +83111,12 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-19,GGD Noord- en Oost-Gelderland,90+,0,0.000
 2022-08-19,GGD Regio Utrecht,0-9,2,1.323
 2022-08-19,GGD Regio Utrecht,10-19,9,5.546
-2022-08-19,GGD Regio Utrecht,20-29,16,8.693
+2022-08-19,GGD Regio Utrecht,20-29,18,9.779
 2022-08-19,GGD Regio Utrecht,30-39,25,13.678
 2022-08-19,GGD Regio Utrecht,40-49,16,9.173
-2022-08-19,GGD Regio Utrecht,50-59,22,11.616
-2022-08-19,GGD Regio Utrecht,60-69,11,7.347
-2022-08-19,GGD Regio Utrecht,70-79,12,10.904
+2022-08-19,GGD Regio Utrecht,50-59,24,12.672
+2022-08-19,GGD Regio Utrecht,60-69,12,8.015
+2022-08-19,GGD Regio Utrecht,70-79,13,11.812
 2022-08-19,GGD Regio Utrecht,80-89,6,12.509
 2022-08-19,GGD Regio Utrecht,90+,1,10.692
 2022-08-19,GGD Rotterdam-Rijnmond,0-9,5,3.519
@@ -83167,7 +83167,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-19,GGD Zeeland,50-59,5,8.645
 2022-08-19,GGD Zeeland,60-69,7,13.318
 2022-08-19,GGD Zeeland,70-79,1,2.285
-2022-08-19,GGD Zeeland,80-89,3,15.282
+2022-08-19,GGD Zeeland,80-89,4,20.376
 2022-08-19,GGD Zeeland,90+,0,0.000
 2022-08-19,GGD Zuid-Limburg,0-9,1,2.151
 2022-08-19,GGD Zuid-Limburg,10-19,1,1.777
@@ -83176,7 +83176,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-19,GGD Zuid-Limburg,40-49,4,6.145
 2022-08-19,GGD Zuid-Limburg,50-59,6,6.456
 2022-08-19,GGD Zuid-Limburg,60-69,12,13.424
-2022-08-19,GGD Zuid-Limburg,70-79,8,11.742
+2022-08-19,GGD Zuid-Limburg,70-79,9,13.210
 2022-08-19,GGD Zuid-Limburg,80-89,2,6.243
 2022-08-19,GGD Zuid-Limburg,90+,1,17.693
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,0,0.000
@@ -83186,7 +83186,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,6,6.963
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,3,2.959
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,6,7.068
-2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,2,3.153
+2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,3,4.730
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,2,7.042
 2022-08-19,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,0,0.000
 2022-08-19,,0-9,0,
@@ -83224,9 +83224,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-20,GGD Brabant-Zuidoost,20-29,1,0.985
 2022-08-20,GGD Brabant-Zuidoost,30-39,11,11.034
 2022-08-20,GGD Brabant-Zuidoost,40-49,10,10.409
-2022-08-20,GGD Brabant-Zuidoost,50-59,7,6.064
-2022-08-20,GGD Brabant-Zuidoost,60-69,5,5.187
-2022-08-20,GGD Brabant-Zuidoost,70-79,2,2.718
+2022-08-20,GGD Brabant-Zuidoost,50-59,6,5.198
+2022-08-20,GGD Brabant-Zuidoost,60-69,7,7.262
+2022-08-20,GGD Brabant-Zuidoost,70-79,3,4.077
 2022-08-20,GGD Brabant-Zuidoost,80-89,5,14.336
 2022-08-20,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-20,GGD Drenthe,0-9,0,0.000
@@ -83244,7 +83244,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-20,GGD Flevoland,20-29,3,5.627
 2022-08-20,GGD Flevoland,30-39,8,13.440
 2022-08-20,GGD Flevoland,40-49,7,12.492
-2022-08-20,GGD Flevoland,50-59,4,6.395
+2022-08-20,GGD Flevoland,50-59,5,7.994
 2022-08-20,GGD Flevoland,60-69,7,14.322
 2022-08-20,GGD Flevoland,70-79,3,10.477
 2022-08-20,GGD Flevoland,80-89,1,10.092
@@ -83255,7 +83255,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-20,GGD Fryslân,30-39,11,15.482
 2022-08-20,GGD Fryslân,40-49,8,10.300
 2022-08-20,GGD Fryslân,50-59,8,8.194
-2022-08-20,GGD Fryslân,60-69,6,6.985
+2022-08-20,GGD Fryslân,60-69,7,8.149
 2022-08-20,GGD Fryslân,70-79,2,2.944
 2022-08-20,GGD Fryslân,80-89,5,16.918
 2022-08-20,GGD Fryslân,90+,0,0.000
@@ -83365,18 +83365,18 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-20,GGD Noord- en Oost-Gelderland,30-39,9,10.335
 2022-08-20,GGD Noord- en Oost-Gelderland,40-49,7,7.047
 2022-08-20,GGD Noord- en Oost-Gelderland,50-59,9,6.943
-2022-08-20,GGD Noord- en Oost-Gelderland,60-69,8,7.023
+2022-08-20,GGD Noord- en Oost-Gelderland,60-69,9,7.901
 2022-08-20,GGD Noord- en Oost-Gelderland,70-79,7,7.843
 2022-08-20,GGD Noord- en Oost-Gelderland,80-89,3,7.629
 2022-08-20,GGD Noord- en Oost-Gelderland,90+,2,27.643
 2022-08-20,GGD Regio Utrecht,0-9,2,1.323
 2022-08-20,GGD Regio Utrecht,10-19,4,2.465
 2022-08-20,GGD Regio Utrecht,20-29,23,12.496
-2022-08-20,GGD Regio Utrecht,30-39,15,8.207
+2022-08-20,GGD Regio Utrecht,30-39,16,8.754
 2022-08-20,GGD Regio Utrecht,40-49,14,8.026
 2022-08-20,GGD Regio Utrecht,50-59,20,10.560
 2022-08-20,GGD Regio Utrecht,60-69,17,11.355
-2022-08-20,GGD Regio Utrecht,70-79,6,5.452
+2022-08-20,GGD Regio Utrecht,70-79,7,6.361
 2022-08-20,GGD Regio Utrecht,80-89,1,2.085
 2022-08-20,GGD Regio Utrecht,90+,1,10.692
 2022-08-20,GGD Rotterdam-Rijnmond,0-9,3,2.111
@@ -83430,7 +83430,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-20,GGD Zeeland,80-89,2,10.188
 2022-08-20,GGD Zeeland,90+,0,0.000
 2022-08-20,GGD Zuid-Limburg,0-9,1,2.151
-2022-08-20,GGD Zuid-Limburg,10-19,1,1.777
+2022-08-20,GGD Zuid-Limburg,10-19,2,3.554
 2022-08-20,GGD Zuid-Limburg,20-29,4,5.505
 2022-08-20,GGD Zuid-Limburg,30-39,8,12.196
 2022-08-20,GGD Zuid-Limburg,40-49,4,6.145
@@ -83464,7 +83464,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,20-29,4,7.478
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,30-39,6,10.840
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,40-49,2,3.535
-2022-08-21,Dienst Gezondheid & Jeugd ZHZ,50-59,4,5.916
+2022-08-21,Dienst Gezondheid & Jeugd ZHZ,50-59,8,11.831
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,60-69,0,0.000
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,70-79,1,2.242
 2022-08-21,Dienst Gezondheid & Jeugd ZHZ,80-89,1,5.026
@@ -83475,7 +83475,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Amsterdam,30-39,10,2.860
 2022-08-21,GGD Amsterdam,40-49,8,3.198
 2022-08-21,GGD Amsterdam,50-59,3,1.221
-2022-08-21,GGD Amsterdam,60-69,2,1.060
+2022-08-21,GGD Amsterdam,60-69,3,1.589
 2022-08-21,GGD Amsterdam,70-79,6,4.958
 2022-08-21,GGD Amsterdam,80-89,2,4.088
 2022-08-21,GGD Amsterdam,90+,0,0.000
@@ -83485,7 +83485,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Brabant-Zuidoost,30-39,2,2.006
 2022-08-21,GGD Brabant-Zuidoost,40-49,5,5.204
 2022-08-21,GGD Brabant-Zuidoost,50-59,2,1.733
-2022-08-21,GGD Brabant-Zuidoost,60-69,4,4.149
+2022-08-21,GGD Brabant-Zuidoost,60-69,5,5.187
 2022-08-21,GGD Brabant-Zuidoost,70-79,0,0.000
 2022-08-21,GGD Brabant-Zuidoost,80-89,1,2.867
 2022-08-21,GGD Brabant-Zuidoost,90+,1,17.924
@@ -83522,7 +83522,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Gelderland-Zuid,0-9,1,1.811
 2022-08-21,GGD Gelderland-Zuid,10-19,1,1.555
 2022-08-21,GGD Gelderland-Zuid,20-29,5,6.210
-2022-08-21,GGD Gelderland-Zuid,30-39,5,7.525
+2022-08-21,GGD Gelderland-Zuid,30-39,6,9.030
 2022-08-21,GGD Gelderland-Zuid,40-49,3,4.420
 2022-08-21,GGD Gelderland-Zuid,50-59,9,10.664
 2022-08-21,GGD Gelderland-Zuid,60-69,3,4.257
@@ -83541,7 +83541,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Gooi en Vechtstreek,90+,0,0.000
 2022-08-21,GGD Groningen,0-9,0,0.000
 2022-08-21,GGD Groningen,10-19,1,1.686
-2022-08-21,GGD Groningen,20-29,4,4.384
+2022-08-21,GGD Groningen,20-29,5,5.480
 2022-08-21,GGD Groningen,30-39,3,4.742
 2022-08-21,GGD Groningen,40-49,1,1.606
 2022-08-21,GGD Groningen,50-59,1,1.336
@@ -83565,7 +83565,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Hart voor Brabant,30-39,8,6.189
 2022-08-21,GGD Hart voor Brabant,40-49,5,3.736
 2022-08-21,GGD Hart voor Brabant,50-59,10,6.170
-2022-08-21,GGD Hart voor Brabant,60-69,7,5.109
+2022-08-21,GGD Hart voor Brabant,60-69,8,5.839
 2022-08-21,GGD Hart voor Brabant,70-79,7,6.794
 2022-08-21,GGD Hart voor Brabant,80-89,6,13.461
 2022-08-21,GGD Hart voor Brabant,90+,0,0.000
@@ -83611,10 +83611,10 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Kennemerland,90+,0,0.000
 2022-08-21,GGD Limburg-Noord,0-9,0,0.000
 2022-08-21,GGD Limburg-Noord,10-19,5,9.194
-2022-08-21,GGD Limburg-Noord,20-29,1,1.766
+2022-08-21,GGD Limburg-Noord,20-29,2,3.531
 2022-08-21,GGD Limburg-Noord,30-39,4,6.885
 2022-08-21,GGD Limburg-Noord,40-49,3,4.909
-2022-08-21,GGD Limburg-Noord,50-59,7,8.376
+2022-08-21,GGD Limburg-Noord,50-59,8,9.573
 2022-08-21,GGD Limburg-Noord,60-69,12,15.769
 2022-08-21,GGD Limburg-Noord,70-79,1,1.756
 2022-08-21,GGD Limburg-Noord,80-89,2,7.847
@@ -83632,19 +83632,19 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Regio Utrecht,0-9,2,1.323
 2022-08-21,GGD Regio Utrecht,10-19,7,4.313
 2022-08-21,GGD Regio Utrecht,20-29,12,6.520
-2022-08-21,GGD Regio Utrecht,30-39,15,8.207
+2022-08-21,GGD Regio Utrecht,30-39,16,8.754
 2022-08-21,GGD Regio Utrecht,40-49,9,5.160
 2022-08-21,GGD Regio Utrecht,50-59,8,4.224
-2022-08-21,GGD Regio Utrecht,60-69,0,0.000
-2022-08-21,GGD Regio Utrecht,70-79,7,6.361
+2022-08-21,GGD Regio Utrecht,60-69,1,0.668
+2022-08-21,GGD Regio Utrecht,70-79,9,8.178
 2022-08-21,GGD Regio Utrecht,80-89,5,10.424
 2022-08-21,GGD Regio Utrecht,90+,0,0.000
 2022-08-21,GGD Rotterdam-Rijnmond,0-9,0,0.000
 2022-08-21,GGD Rotterdam-Rijnmond,10-19,7,4.797
 2022-08-21,GGD Rotterdam-Rijnmond,20-29,6,3.222
-2022-08-21,GGD Rotterdam-Rijnmond,30-39,11,5.990
+2022-08-21,GGD Rotterdam-Rijnmond,30-39,12,6.535
 2022-08-21,GGD Rotterdam-Rijnmond,40-49,8,4.767
-2022-08-21,GGD Rotterdam-Rijnmond,50-59,15,8.224
+2022-08-21,GGD Rotterdam-Rijnmond,50-59,16,8.772
 2022-08-21,GGD Rotterdam-Rijnmond,60-69,6,3.990
 2022-08-21,GGD Rotterdam-Rijnmond,70-79,3,2.726
 2022-08-21,GGD Rotterdam-Rijnmond,80-89,1,2.017
@@ -83686,7 +83686,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Zeeland,40-49,3,6.558
 2022-08-21,GGD Zeeland,50-59,5,8.645
 2022-08-21,GGD Zeeland,60-69,2,3.805
-2022-08-21,GGD Zeeland,70-79,1,2.285
+2022-08-21,GGD Zeeland,70-79,2,4.569
 2022-08-21,GGD Zeeland,80-89,2,10.188
 2022-08-21,GGD Zeeland,90+,2,47.360
 2022-08-21,GGD Zuid-Limburg,0-9,0,0.000
@@ -83694,9 +83694,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,GGD Zuid-Limburg,20-29,3,4.129
 2022-08-21,GGD Zuid-Limburg,30-39,7,10.672
 2022-08-21,GGD Zuid-Limburg,40-49,13,19.972
-2022-08-21,GGD Zuid-Limburg,50-59,8,8.608
+2022-08-21,GGD Zuid-Limburg,50-59,9,9.684
 2022-08-21,GGD Zuid-Limburg,60-69,6,6.712
-2022-08-21,GGD Zuid-Limburg,70-79,3,4.403
+2022-08-21,GGD Zuid-Limburg,70-79,4,5.871
 2022-08-21,GGD Zuid-Limburg,80-89,3,9.364
 2022-08-21,GGD Zuid-Limburg,90+,1,17.693
 2022-08-21,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,0,0.000
@@ -83720,14 +83720,14 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-21,,80-89,0,
 2022-08-21,,90+,0,
 2022-08-22,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,10-19,2,3.652
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,20-29,15,28.041
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,30-39,10,18.067
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,10-19,3,5.477
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,20-29,16,29.910
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,30-39,11,19.874
 2022-08-22,Dienst Gezondheid & Jeugd ZHZ,40-49,4,7.071
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,50-59,8,11.831
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,50-59,6,8.873
 2022-08-22,Dienst Gezondheid & Jeugd ZHZ,60-69,5,9.086
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,70-79,5,11.212
-2022-08-22,Dienst Gezondheid & Jeugd ZHZ,80-89,2,10.053
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,70-79,6,13.455
+2022-08-22,Dienst Gezondheid & Jeugd ZHZ,80-89,3,15.079
 2022-08-22,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
 2022-08-22,GGD Amsterdam,0-9,1,0.527
 2022-08-22,GGD Amsterdam,10-19,2,1.083
@@ -83743,9 +83743,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Brabant-Zuidoost,10-19,1,1.164
 2022-08-22,GGD Brabant-Zuidoost,20-29,5,4.923
 2022-08-22,GGD Brabant-Zuidoost,30-39,5,5.016
-2022-08-22,GGD Brabant-Zuidoost,40-49,6,6.245
+2022-08-22,GGD Brabant-Zuidoost,40-49,7,7.286
 2022-08-22,GGD Brabant-Zuidoost,50-59,5,4.331
-2022-08-22,GGD Brabant-Zuidoost,60-69,6,6.224
+2022-08-22,GGD Brabant-Zuidoost,60-69,5,5.187
 2022-08-22,GGD Brabant-Zuidoost,70-79,0,0.000
 2022-08-22,GGD Brabant-Zuidoost,80-89,3,8.601
 2022-08-22,GGD Brabant-Zuidoost,90+,0,0.000
@@ -83762,7 +83762,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Flevoland,0-9,0,0.000
 2022-08-22,GGD Flevoland,10-19,2,3.563
 2022-08-22,GGD Flevoland,20-29,3,5.627
-2022-08-22,GGD Flevoland,30-39,3,5.040
+2022-08-22,GGD Flevoland,30-39,4,6.720
 2022-08-22,GGD Flevoland,40-49,6,10.707
 2022-08-22,GGD Flevoland,50-59,2,3.198
 2022-08-22,GGD Flevoland,60-69,2,4.092
@@ -83784,7 +83784,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Gelderland-Zuid,20-29,5,6.210
 2022-08-22,GGD Gelderland-Zuid,30-39,4,6.020
 2022-08-22,GGD Gelderland-Zuid,40-49,6,8.840
-2022-08-22,GGD Gelderland-Zuid,50-59,3,3.555
+2022-08-22,GGD Gelderland-Zuid,50-59,4,4.739
 2022-08-22,GGD Gelderland-Zuid,60-69,6,8.515
 2022-08-22,GGD Gelderland-Zuid,70-79,4,7.885
 2022-08-22,GGD Gelderland-Zuid,80-89,1,4.860
@@ -83811,7 +83811,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Groningen,90+,0,0.000
 2022-08-22,GGD Haaglanden,0-9,4,3.298
 2022-08-22,GGD Haaglanden,10-19,3,2.355
-2022-08-22,GGD Haaglanden,20-29,13,8.321
+2022-08-22,GGD Haaglanden,20-29,14,8.961
 2022-08-22,GGD Haaglanden,30-39,11,7.102
 2022-08-22,GGD Haaglanden,40-49,18,12.087
 2022-08-22,GGD Haaglanden,50-59,11,7.155
@@ -83831,8 +83831,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Hart voor Brabant,90+,2,27.289
 2022-08-22,GGD Hollands-Midden,0-9,0,0.000
 2022-08-22,GGD Hollands-Midden,10-19,3,3.189
-2022-08-22,GGD Hollands-Midden,20-29,9,8.556
-2022-08-22,GGD Hollands-Midden,30-39,14,14.052
+2022-08-22,GGD Hollands-Midden,20-29,10,9.506
+2022-08-22,GGD Hollands-Midden,30-39,16,16.060
 2022-08-22,GGD Hollands-Midden,40-49,9,9.073
 2022-08-22,GGD Hollands-Midden,50-59,6,5.065
 2022-08-22,GGD Hollands-Midden,60-69,4,4.036
@@ -83871,7 +83871,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Kennemerland,90+,1,21.983
 2022-08-22,GGD Limburg-Noord,0-9,0,0.000
 2022-08-22,GGD Limburg-Noord,10-19,1,1.839
-2022-08-22,GGD Limburg-Noord,20-29,6,10.593
+2022-08-22,GGD Limburg-Noord,20-29,7,12.359
 2022-08-22,GGD Limburg-Noord,30-39,6,10.327
 2022-08-22,GGD Limburg-Noord,40-49,4,6.545
 2022-08-22,GGD Limburg-Noord,50-59,5,5.983
@@ -83892,9 +83892,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Regio Utrecht,0-9,5,3.309
 2022-08-22,GGD Regio Utrecht,10-19,10,6.162
 2022-08-22,GGD Regio Utrecht,20-29,19,10.323
-2022-08-22,GGD Regio Utrecht,30-39,15,8.207
+2022-08-22,GGD Regio Utrecht,30-39,14,7.660
 2022-08-22,GGD Regio Utrecht,40-49,17,9.746
-2022-08-22,GGD Regio Utrecht,50-59,22,11.616
+2022-08-22,GGD Regio Utrecht,50-59,23,12.144
 2022-08-22,GGD Regio Utrecht,60-69,15,10.019
 2022-08-22,GGD Regio Utrecht,70-79,5,4.543
 2022-08-22,GGD Regio Utrecht,80-89,9,18.763
@@ -83904,15 +83904,15 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Rotterdam-Rijnmond,20-29,13,6.981
 2022-08-22,GGD Rotterdam-Rijnmond,30-39,15,8.169
 2022-08-22,GGD Rotterdam-Rijnmond,40-49,11,6.555
-2022-08-22,GGD Rotterdam-Rijnmond,50-59,10,5.483
-2022-08-22,GGD Rotterdam-Rijnmond,60-69,11,7.315
+2022-08-22,GGD Rotterdam-Rijnmond,50-59,12,6.579
+2022-08-22,GGD Rotterdam-Rijnmond,60-69,12,7.980
 2022-08-22,GGD Rotterdam-Rijnmond,70-79,9,8.178
 2022-08-22,GGD Rotterdam-Rijnmond,80-89,5,10.085
 2022-08-22,GGD Rotterdam-Rijnmond,90+,2,19.527
 2022-08-22,GGD Twente,0-9,2,3.276
 2022-08-22,GGD Twente,10-19,3,3.859
 2022-08-22,GGD Twente,20-29,9,11.231
-2022-08-22,GGD Twente,30-39,6,8.362
+2022-08-22,GGD Twente,30-39,7,9.755
 2022-08-22,GGD Twente,40-49,8,10.387
 2022-08-22,GGD Twente,50-59,4,4.341
 2022-08-22,GGD Twente,60-69,12,15.336
@@ -83947,7 +83947,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Zeeland,50-59,2,3.458
 2022-08-22,GGD Zeeland,60-69,2,3.805
 2022-08-22,GGD Zeeland,70-79,4,9.138
-2022-08-22,GGD Zeeland,80-89,2,10.188
+2022-08-22,GGD Zeeland,80-89,3,15.282
 2022-08-22,GGD Zeeland,90+,1,23.680
 2022-08-22,GGD Zuid-Limburg,0-9,0,0.000
 2022-08-22,GGD Zuid-Limburg,10-19,0,0.000
@@ -83955,7 +83955,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,GGD Zuid-Limburg,30-39,5,7.623
 2022-08-22,GGD Zuid-Limburg,40-49,3,4.609
 2022-08-22,GGD Zuid-Limburg,50-59,5,5.380
-2022-08-22,GGD Zuid-Limburg,60-69,11,12.306
+2022-08-22,GGD Zuid-Limburg,60-69,12,13.424
 2022-08-22,GGD Zuid-Limburg,70-79,2,2.936
 2022-08-22,GGD Zuid-Limburg,80-89,5,15.606
 2022-08-22,GGD Zuid-Limburg,90+,0,0.000
@@ -83964,7 +83964,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,9,9.861
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,5,5.973
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,3,3.482
-2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,9,8.877
+2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,10,9.863
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,7,8.246
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,5,7.884
 2022-08-22,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,0,0.000
@@ -83982,12 +83982,12 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,0-9,1,2.001
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,10-19,1,1.826
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,20-29,6,11.216
-2022-08-23,Dienst Gezondheid & Jeugd ZHZ,30-39,5,9.034
+2022-08-23,Dienst Gezondheid & Jeugd ZHZ,30-39,3,5.420
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,40-49,2,3.535
-2022-08-23,Dienst Gezondheid & Jeugd ZHZ,50-59,5,7.394
+2022-08-23,Dienst Gezondheid & Jeugd ZHZ,50-59,3,4.437
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,60-69,6,10.904
-2022-08-23,Dienst Gezondheid & Jeugd ZHZ,70-79,3,6.727
-2022-08-23,Dienst Gezondheid & Jeugd ZHZ,80-89,3,15.079
+2022-08-23,Dienst Gezondheid & Jeugd ZHZ,70-79,2,4.485
+2022-08-23,Dienst Gezondheid & Jeugd ZHZ,80-89,2,10.053
 2022-08-23,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
 2022-08-23,GGD Amsterdam,0-9,2,1.055
 2022-08-23,GGD Amsterdam,10-19,1,0.541
@@ -84000,18 +84000,18 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Amsterdam,80-89,2,4.088
 2022-08-23,GGD Amsterdam,90+,1,10.217
 2022-08-23,GGD Brabant-Zuidoost,0-9,1,1.328
-2022-08-23,GGD Brabant-Zuidoost,10-19,1,1.164
-2022-08-23,GGD Brabant-Zuidoost,20-29,8,7.876
+2022-08-23,GGD Brabant-Zuidoost,10-19,2,2.328
+2022-08-23,GGD Brabant-Zuidoost,20-29,9,8.861
 2022-08-23,GGD Brabant-Zuidoost,30-39,7,7.022
 2022-08-23,GGD Brabant-Zuidoost,40-49,6,6.245
 2022-08-23,GGD Brabant-Zuidoost,50-59,8,6.930
 2022-08-23,GGD Brabant-Zuidoost,60-69,7,7.262
 2022-08-23,GGD Brabant-Zuidoost,70-79,9,12.232
-2022-08-23,GGD Brabant-Zuidoost,80-89,0,0.000
+2022-08-23,GGD Brabant-Zuidoost,80-89,1,2.867
 2022-08-23,GGD Brabant-Zuidoost,90+,1,17.924
 2022-08-23,GGD Drenthe,0-9,0,0.000
 2022-08-23,GGD Drenthe,10-19,1,1.735
-2022-08-23,GGD Drenthe,20-29,4,8.292
+2022-08-23,GGD Drenthe,20-29,5,10.365
 2022-08-23,GGD Drenthe,30-39,8,15.563
 2022-08-23,GGD Drenthe,40-49,3,5.005
 2022-08-23,GGD Drenthe,50-59,3,3.876
@@ -84023,7 +84023,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Flevoland,10-19,2,3.563
 2022-08-23,GGD Flevoland,20-29,4,7.502
 2022-08-23,GGD Flevoland,30-39,5,8.400
-2022-08-23,GGD Flevoland,40-49,6,10.707
+2022-08-23,GGD Flevoland,40-49,8,14.276
 2022-08-23,GGD Flevoland,50-59,7,11.191
 2022-08-23,GGD Flevoland,60-69,3,6.138
 2022-08-23,GGD Flevoland,70-79,0,0.000
@@ -84040,7 +84040,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Fryslân,80-89,1,3.384
 2022-08-23,GGD Fryslân,90+,0,0.000
 2022-08-23,GGD Gelderland-Zuid,0-9,0,0.000
-2022-08-23,GGD Gelderland-Zuid,10-19,5,7.775
+2022-08-23,GGD Gelderland-Zuid,10-19,6,9.330
 2022-08-23,GGD Gelderland-Zuid,20-29,3,3.726
 2022-08-23,GGD Gelderland-Zuid,30-39,10,15.050
 2022-08-23,GGD Gelderland-Zuid,40-49,7,10.313
@@ -84073,15 +84073,15 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Haaglanden,10-19,3,2.355
 2022-08-23,GGD Haaglanden,20-29,16,10.241
 2022-08-23,GGD Haaglanden,30-39,25,16.141
-2022-08-23,GGD Haaglanden,40-49,16,10.744
-2022-08-23,GGD Haaglanden,50-59,14,9.107
+2022-08-23,GGD Haaglanden,40-49,17,11.416
+2022-08-23,GGD Haaglanden,50-59,15,9.757
 2022-08-23,GGD Haaglanden,60-69,12,9.725
 2022-08-23,GGD Haaglanden,70-79,2,2.254
 2022-08-23,GGD Haaglanden,80-89,3,7.615
 2022-08-23,GGD Haaglanden,90+,0,0.000
 2022-08-23,GGD Hart voor Brabant,0-9,2,1.921
-2022-08-23,GGD Hart voor Brabant,10-19,6,4.957
-2022-08-23,GGD Hart voor Brabant,20-29,14,10.243
+2022-08-23,GGD Hart voor Brabant,10-19,7,5.783
+2022-08-23,GGD Hart voor Brabant,20-29,15,10.974
 2022-08-23,GGD Hart voor Brabant,30-39,9,6.963
 2022-08-23,GGD Hart voor Brabant,40-49,5,3.736
 2022-08-23,GGD Hart voor Brabant,50-59,7,4.319
@@ -84091,10 +84091,10 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Hart voor Brabant,90+,2,27.289
 2022-08-23,GGD Hollands-Midden,0-9,0,0.000
 2022-08-23,GGD Hollands-Midden,10-19,4,4.252
-2022-08-23,GGD Hollands-Midden,20-29,6,5.704
+2022-08-23,GGD Hollands-Midden,20-29,7,6.654
 2022-08-23,GGD Hollands-Midden,30-39,6,6.022
 2022-08-23,GGD Hollands-Midden,40-49,8,8.065
-2022-08-23,GGD Hollands-Midden,50-59,6,5.065
+2022-08-23,GGD Hollands-Midden,50-59,7,5.909
 2022-08-23,GGD Hollands-Midden,60-69,4,4.036
 2022-08-23,GGD Hollands-Midden,70-79,6,7.959
 2022-08-23,GGD Hollands-Midden,80-89,2,6.158
@@ -84104,8 +84104,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Hollands-Noorden,20-29,4,5.506
 2022-08-23,GGD Hollands-Noorden,30-39,6,7.995
 2022-08-23,GGD Hollands-Noorden,40-49,8,9.698
-2022-08-23,GGD Hollands-Noorden,50-59,1,0.997
-2022-08-23,GGD Hollands-Noorden,60-69,4,4.560
+2022-08-23,GGD Hollands-Noorden,50-59,2,1.995
+2022-08-23,GGD Hollands-Noorden,60-69,5,5.701
 2022-08-23,GGD Hollands-Noorden,70-79,4,5.525
 2022-08-23,GGD Hollands-Noorden,80-89,3,10.506
 2022-08-23,GGD Hollands-Noorden,90+,0,0.000
@@ -84114,7 +84114,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD IJsselland,20-29,3,4.517
 2022-08-23,GGD IJsselland,30-39,11,16.891
 2022-08-23,GGD IJsselland,40-49,3,4.505
-2022-08-23,GGD IJsselland,50-59,4,5.211
+2022-08-23,GGD IJsselland,50-59,5,6.513
 2022-08-23,GGD IJsselland,60-69,0,0.000
 2022-08-23,GGD IJsselland,70-79,1,2.162
 2022-08-23,GGD IJsselland,80-89,1,4.851
@@ -84130,13 +84130,13 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Kennemerland,80-89,0,0.000
 2022-08-23,GGD Kennemerland,90+,0,0.000
 2022-08-23,GGD Limburg-Noord,0-9,1,2.221
-2022-08-23,GGD Limburg-Noord,10-19,3,5.516
+2022-08-23,GGD Limburg-Noord,10-19,4,7.355
 2022-08-23,GGD Limburg-Noord,20-29,3,5.297
-2022-08-23,GGD Limburg-Noord,30-39,10,17.212
+2022-08-23,GGD Limburg-Noord,30-39,11,18.934
 2022-08-23,GGD Limburg-Noord,40-49,7,11.454
-2022-08-23,GGD Limburg-Noord,50-59,3,3.590
-2022-08-23,GGD Limburg-Noord,60-69,7,9.199
-2022-08-23,GGD Limburg-Noord,70-79,5,8.778
+2022-08-23,GGD Limburg-Noord,50-59,4,4.786
+2022-08-23,GGD Limburg-Noord,60-69,8,10.513
+2022-08-23,GGD Limburg-Noord,70-79,6,10.534
 2022-08-23,GGD Limburg-Noord,80-89,5,19.616
 2022-08-23,GGD Limburg-Noord,90+,2,47.337
 2022-08-23,GGD Noord- en Oost-Gelderland,0-9,1,1.256
@@ -84152,31 +84152,31 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Regio Utrecht,0-9,4,2.647
 2022-08-23,GGD Regio Utrecht,10-19,8,4.929
 2022-08-23,GGD Regio Utrecht,20-29,16,8.693
-2022-08-23,GGD Regio Utrecht,30-39,17,9.301
-2022-08-23,GGD Regio Utrecht,40-49,11,6.306
+2022-08-23,GGD Regio Utrecht,30-39,18,9.848
+2022-08-23,GGD Regio Utrecht,40-49,12,6.880
 2022-08-23,GGD Regio Utrecht,50-59,20,10.560
 2022-08-23,GGD Regio Utrecht,60-69,5,3.340
-2022-08-23,GGD Regio Utrecht,70-79,3,2.726
+2022-08-23,GGD Regio Utrecht,70-79,4,3.635
 2022-08-23,GGD Regio Utrecht,80-89,4,8.339
 2022-08-23,GGD Regio Utrecht,90+,0,0.000
 2022-08-23,GGD Rotterdam-Rijnmond,0-9,2,1.408
 2022-08-23,GGD Rotterdam-Rijnmond,10-19,2,1.371
 2022-08-23,GGD Rotterdam-Rijnmond,20-29,12,6.444
 2022-08-23,GGD Rotterdam-Rijnmond,30-39,21,11.436
-2022-08-23,GGD Rotterdam-Rijnmond,40-49,12,7.151
-2022-08-23,GGD Rotterdam-Rijnmond,50-59,20,10.965
+2022-08-23,GGD Rotterdam-Rijnmond,40-49,13,7.746
+2022-08-23,GGD Rotterdam-Rijnmond,50-59,21,11.513
 2022-08-23,GGD Rotterdam-Rijnmond,60-69,7,4.655
-2022-08-23,GGD Rotterdam-Rijnmond,70-79,14,12.722
+2022-08-23,GGD Rotterdam-Rijnmond,70-79,15,13.631
 2022-08-23,GGD Rotterdam-Rijnmond,80-89,3,6.051
 2022-08-23,GGD Rotterdam-Rijnmond,90+,0,0.000
 2022-08-23,GGD Twente,0-9,0,0.000
 2022-08-23,GGD Twente,10-19,7,9.003
-2022-08-23,GGD Twente,20-29,7,8.735
+2022-08-23,GGD Twente,20-29,8,9.983
 2022-08-23,GGD Twente,30-39,4,5.574
 2022-08-23,GGD Twente,40-49,9,11.686
 2022-08-23,GGD Twente,50-59,6,6.512
 2022-08-23,GGD Twente,60-69,6,7.668
-2022-08-23,GGD Twente,70-79,7,11.430
+2022-08-23,GGD Twente,70-79,8,13.063
 2022-08-23,GGD Twente,80-89,2,7.287
 2022-08-23,GGD Twente,90+,0,0.000
 2022-08-23,GGD West-Brabant,0-9,1,1.462
@@ -84201,8 +84201,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,GGD Zaanstreek/Waterland,90+,0,0.000
 2022-08-23,GGD Zeeland,0-9,1,2.698
 2022-08-23,GGD Zeeland,10-19,0,0.000
-2022-08-23,GGD Zeeland,20-29,4,9.894
-2022-08-23,GGD Zeeland,30-39,1,2.396
+2022-08-23,GGD Zeeland,20-29,5,12.367
+2022-08-23,GGD Zeeland,30-39,2,4.793
 2022-08-23,GGD Zeeland,40-49,3,6.558
 2022-08-23,GGD Zeeland,50-59,4,6.916
 2022-08-23,GGD Zeeland,60-69,3,5.708
@@ -84222,10 +84222,10 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,2,2.732
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,2,2.398
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,4,4.382
-2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,5,5.973
-2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
+2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,6,7.167
+2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,6,6.963
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,9,8.877
-2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,3,3.534
+2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,4,4.712
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,2,3.153
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,3,10.563
 2022-08-23,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,3,55.752
@@ -84241,7 +84241,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-23,,90+,0,
 2022-08-24,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
 2022-08-24,Dienst Gezondheid & Jeugd ZHZ,10-19,2,3.652
-2022-08-24,Dienst Gezondheid & Jeugd ZHZ,20-29,5,9.347
+2022-08-24,Dienst Gezondheid & Jeugd ZHZ,20-29,4,7.478
 2022-08-24,Dienst Gezondheid & Jeugd ZHZ,30-39,3,5.420
 2022-08-24,Dienst Gezondheid & Jeugd ZHZ,40-49,5,8.838
 2022-08-24,Dienst Gezondheid & Jeugd ZHZ,50-59,3,4.437
@@ -84264,9 +84264,9 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Brabant-Zuidoost,20-29,3,2.954
 2022-08-24,GGD Brabant-Zuidoost,30-39,4,4.013
 2022-08-24,GGD Brabant-Zuidoost,40-49,2,2.082
-2022-08-24,GGD Brabant-Zuidoost,50-59,2,1.733
-2022-08-24,GGD Brabant-Zuidoost,60-69,1,1.037
-2022-08-24,GGD Brabant-Zuidoost,70-79,2,2.718
+2022-08-24,GGD Brabant-Zuidoost,50-59,3,2.599
+2022-08-24,GGD Brabant-Zuidoost,60-69,2,2.075
+2022-08-24,GGD Brabant-Zuidoost,70-79,3,4.077
 2022-08-24,GGD Brabant-Zuidoost,80-89,1,2.867
 2022-08-24,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-24,GGD Drenthe,0-9,0,0.000
@@ -84281,7 +84281,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Drenthe,90+,1,22.543
 2022-08-24,GGD Flevoland,0-9,1,1.942
 2022-08-24,GGD Flevoland,10-19,0,0.000
-2022-08-24,GGD Flevoland,20-29,0,0.000
+2022-08-24,GGD Flevoland,20-29,1,1.876
 2022-08-24,GGD Flevoland,30-39,5,8.400
 2022-08-24,GGD Flevoland,40-49,2,3.569
 2022-08-24,GGD Flevoland,50-59,4,6.395
@@ -84300,7 +84300,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Fryslân,80-89,3,10.151
 2022-08-24,GGD Fryslân,90+,1,18.162
 2022-08-24,GGD Gelderland-Zuid,0-9,0,0.000
-2022-08-24,GGD Gelderland-Zuid,10-19,2,3.110
+2022-08-24,GGD Gelderland-Zuid,10-19,3,4.665
 2022-08-24,GGD Gelderland-Zuid,20-29,1,1.242
 2022-08-24,GGD Gelderland-Zuid,30-39,8,12.040
 2022-08-24,GGD Gelderland-Zuid,40-49,5,7.367
@@ -84329,11 +84329,11 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Groningen,70-79,0,0.000
 2022-08-24,GGD Groningen,80-89,2,9.436
 2022-08-24,GGD Groningen,90+,0,0.000
-2022-08-24,GGD Haaglanden,0-9,1,0.825
-2022-08-24,GGD Haaglanden,10-19,3,2.355
-2022-08-24,GGD Haaglanden,20-29,7,4.480
-2022-08-24,GGD Haaglanden,30-39,3,1.937
-2022-08-24,GGD Haaglanden,40-49,10,6.715
+2022-08-24,GGD Haaglanden,0-9,2,1.649
+2022-08-24,GGD Haaglanden,10-19,4,3.140
+2022-08-24,GGD Haaglanden,20-29,8,5.121
+2022-08-24,GGD Haaglanden,30-39,4,2.583
+2022-08-24,GGD Haaglanden,40-49,11,7.387
 2022-08-24,GGD Haaglanden,50-59,4,2.602
 2022-08-24,GGD Haaglanden,60-69,9,7.293
 2022-08-24,GGD Haaglanden,70-79,6,6.761
@@ -84341,12 +84341,12 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Haaglanden,90+,0,0.000
 2022-08-24,GGD Hart voor Brabant,0-9,1,0.960
 2022-08-24,GGD Hart voor Brabant,10-19,3,2.479
-2022-08-24,GGD Hart voor Brabant,20-29,6,4.390
-2022-08-24,GGD Hart voor Brabant,30-39,13,10.057
+2022-08-24,GGD Hart voor Brabant,20-29,7,5.121
+2022-08-24,GGD Hart voor Brabant,30-39,14,10.831
 2022-08-24,GGD Hart voor Brabant,40-49,4,2.989
-2022-08-24,GGD Hart voor Brabant,50-59,4,2.468
+2022-08-24,GGD Hart voor Brabant,50-59,5,3.085
 2022-08-24,GGD Hart voor Brabant,60-69,5,3.649
-2022-08-24,GGD Hart voor Brabant,70-79,4,3.883
+2022-08-24,GGD Hart voor Brabant,70-79,5,4.853
 2022-08-24,GGD Hart voor Brabant,80-89,3,6.730
 2022-08-24,GGD Hart voor Brabant,90+,0,0.000
 2022-08-24,GGD Hollands-Midden,0-9,1,1.178
@@ -84357,15 +84357,15 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Hollands-Midden,50-59,6,5.065
 2022-08-24,GGD Hollands-Midden,60-69,3,3.027
 2022-08-24,GGD Hollands-Midden,70-79,4,5.306
-2022-08-24,GGD Hollands-Midden,80-89,5,15.396
+2022-08-24,GGD Hollands-Midden,80-89,6,18.475
 2022-08-24,GGD Hollands-Midden,90+,1,16.499
 2022-08-24,GGD Hollands-Noorden,0-9,0,0.000
 2022-08-24,GGD Hollands-Noorden,10-19,1,1.298
 2022-08-24,GGD Hollands-Noorden,20-29,6,8.260
 2022-08-24,GGD Hollands-Noorden,30-39,5,6.662
 2022-08-24,GGD Hollands-Noorden,40-49,3,3.637
-2022-08-24,GGD Hollands-Noorden,50-59,0,0.000
-2022-08-24,GGD Hollands-Noorden,60-69,1,1.140
+2022-08-24,GGD Hollands-Noorden,50-59,1,0.997
+2022-08-24,GGD Hollands-Noorden,60-69,2,2.280
 2022-08-24,GGD Hollands-Noorden,70-79,2,2.762
 2022-08-24,GGD Hollands-Noorden,80-89,2,7.004
 2022-08-24,GGD Hollands-Noorden,90+,0,0.000
@@ -84393,26 +84393,26 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Limburg-Noord,10-19,4,7.355
 2022-08-24,GGD Limburg-Noord,20-29,6,10.593
 2022-08-24,GGD Limburg-Noord,30-39,4,6.885
-2022-08-24,GGD Limburg-Noord,40-49,5,8.181
+2022-08-24,GGD Limburg-Noord,40-49,6,9.818
 2022-08-24,GGD Limburg-Noord,50-59,2,2.393
 2022-08-24,GGD Limburg-Noord,60-69,9,11.827
 2022-08-24,GGD Limburg-Noord,70-79,1,1.756
-2022-08-24,GGD Limburg-Noord,80-89,2,7.847
+2022-08-24,GGD Limburg-Noord,80-89,3,11.770
 2022-08-24,GGD Limburg-Noord,90+,1,23.669
 2022-08-24,GGD Noord- en Oost-Gelderland,0-9,0,0.000
 2022-08-24,GGD Noord- en Oost-Gelderland,10-19,5,5.063
-2022-08-24,GGD Noord- en Oost-Gelderland,20-29,5,5.734
+2022-08-24,GGD Noord- en Oost-Gelderland,20-29,6,6.881
 2022-08-24,GGD Noord- en Oost-Gelderland,30-39,9,10.335
 2022-08-24,GGD Noord- en Oost-Gelderland,40-49,5,5.034
 2022-08-24,GGD Noord- en Oost-Gelderland,50-59,5,3.857
 2022-08-24,GGD Noord- en Oost-Gelderland,60-69,6,5.267
-2022-08-24,GGD Noord- en Oost-Gelderland,70-79,3,3.361
+2022-08-24,GGD Noord- en Oost-Gelderland,70-79,4,4.482
 2022-08-24,GGD Noord- en Oost-Gelderland,80-89,2,5.086
 2022-08-24,GGD Noord- en Oost-Gelderland,90+,3,41.465
 2022-08-24,GGD Regio Utrecht,0-9,1,0.662
-2022-08-24,GGD Regio Utrecht,10-19,3,1.849
-2022-08-24,GGD Regio Utrecht,20-29,21,11.409
-2022-08-24,GGD Regio Utrecht,30-39,14,7.660
+2022-08-24,GGD Regio Utrecht,10-19,4,2.465
+2022-08-24,GGD Regio Utrecht,20-29,23,12.496
+2022-08-24,GGD Regio Utrecht,30-39,15,8.207
 2022-08-24,GGD Regio Utrecht,40-49,6,3.440
 2022-08-24,GGD Regio Utrecht,50-59,15,7.920
 2022-08-24,GGD Regio Utrecht,60-69,4,2.672
@@ -84420,12 +84420,12 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Regio Utrecht,80-89,2,4.170
 2022-08-24,GGD Regio Utrecht,90+,0,0.000
 2022-08-24,GGD Rotterdam-Rijnmond,0-9,0,0.000
-2022-08-24,GGD Rotterdam-Rijnmond,10-19,6,4.112
-2022-08-24,GGD Rotterdam-Rijnmond,20-29,14,7.518
-2022-08-24,GGD Rotterdam-Rijnmond,30-39,13,7.080
-2022-08-24,GGD Rotterdam-Rijnmond,40-49,14,8.342
-2022-08-24,GGD Rotterdam-Rijnmond,50-59,9,4.934
-2022-08-24,GGD Rotterdam-Rijnmond,60-69,6,3.990
+2022-08-24,GGD Rotterdam-Rijnmond,10-19,7,4.797
+2022-08-24,GGD Rotterdam-Rijnmond,20-29,15,8.055
+2022-08-24,GGD Rotterdam-Rijnmond,30-39,14,7.624
+2022-08-24,GGD Rotterdam-Rijnmond,40-49,16,9.534
+2022-08-24,GGD Rotterdam-Rijnmond,50-59,10,5.483
+2022-08-24,GGD Rotterdam-Rijnmond,60-69,7,4.655
 2022-08-24,GGD Rotterdam-Rijnmond,70-79,9,8.178
 2022-08-24,GGD Rotterdam-Rijnmond,80-89,3,6.051
 2022-08-24,GGD Rotterdam-Rijnmond,90+,0,0.000
@@ -84436,14 +84436,14 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Twente,40-49,8,10.387
 2022-08-24,GGD Twente,50-59,9,9.768
 2022-08-24,GGD Twente,60-69,5,6.390
-2022-08-24,GGD Twente,70-79,0,0.000
+2022-08-24,GGD Twente,70-79,1,1.633
 2022-08-24,GGD Twente,80-89,2,7.287
 2022-08-24,GGD Twente,90+,0,0.000
 2022-08-24,GGD West-Brabant,0-9,0,0.000
 2022-08-24,GGD West-Brabant,10-19,0,0.000
 2022-08-24,GGD West-Brabant,20-29,1,1.189
 2022-08-24,GGD West-Brabant,30-39,4,4.833
-2022-08-24,GGD West-Brabant,40-49,3,3.431
+2022-08-24,GGD West-Brabant,40-49,4,4.575
 2022-08-24,GGD West-Brabant,50-59,3,2.745
 2022-08-24,GGD West-Brabant,60-69,5,5.462
 2022-08-24,GGD West-Brabant,70-79,3,4.143
@@ -84462,7 +84462,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Zeeland,0-9,0,0.000
 2022-08-24,GGD Zeeland,10-19,0,0.000
 2022-08-24,GGD Zeeland,20-29,2,4.947
-2022-08-24,GGD Zeeland,30-39,1,2.396
+2022-08-24,GGD Zeeland,30-39,2,4.793
 2022-08-24,GGD Zeeland,40-49,2,4.372
 2022-08-24,GGD Zeeland,50-59,2,3.458
 2022-08-24,GGD Zeeland,60-69,0,0.000
@@ -84470,10 +84470,10 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-24,GGD Zeeland,80-89,1,5.094
 2022-08-24,GGD Zeeland,90+,0,0.000
 2022-08-24,GGD Zuid-Limburg,0-9,3,6.454
-2022-08-24,GGD Zuid-Limburg,10-19,2,3.554
-2022-08-24,GGD Zuid-Limburg,20-29,6,8.257
+2022-08-24,GGD Zuid-Limburg,10-19,3,5.331
+2022-08-24,GGD Zuid-Limburg,20-29,8,11.010
 2022-08-24,GGD Zuid-Limburg,30-39,12,18.295
-2022-08-24,GGD Zuid-Limburg,40-49,5,7.682
+2022-08-24,GGD Zuid-Limburg,40-49,6,9.218
 2022-08-24,GGD Zuid-Limburg,50-59,5,5.380
 2022-08-24,GGD Zuid-Limburg,60-69,10,11.187
 2022-08-24,GGD Zuid-Limburg,70-79,8,11.742
@@ -84522,26 +84522,26 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Brabant-Zuidoost,0-9,1,1.328
 2022-08-25,GGD Brabant-Zuidoost,10-19,0,0.000
 2022-08-25,GGD Brabant-Zuidoost,20-29,0,0.000
-2022-08-25,GGD Brabant-Zuidoost,30-39,3,3.009
-2022-08-25,GGD Brabant-Zuidoost,40-49,3,3.123
+2022-08-25,GGD Brabant-Zuidoost,30-39,5,5.016
+2022-08-25,GGD Brabant-Zuidoost,40-49,4,4.164
 2022-08-25,GGD Brabant-Zuidoost,50-59,0,0.000
-2022-08-25,GGD Brabant-Zuidoost,60-69,1,1.037
+2022-08-25,GGD Brabant-Zuidoost,60-69,2,2.075
 2022-08-25,GGD Brabant-Zuidoost,70-79,2,2.718
-2022-08-25,GGD Brabant-Zuidoost,80-89,1,2.867
+2022-08-25,GGD Brabant-Zuidoost,80-89,2,5.734
 2022-08-25,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-25,GGD Drenthe,0-9,1,2.180
 2022-08-25,GGD Drenthe,10-19,0,0.000
-2022-08-25,GGD Drenthe,20-29,3,6.219
+2022-08-25,GGD Drenthe,20-29,4,8.292
 2022-08-25,GGD Drenthe,30-39,4,7.782
 2022-08-25,GGD Drenthe,40-49,1,1.668
 2022-08-25,GGD Drenthe,50-59,0,0.000
-2022-08-25,GGD Drenthe,60-69,0,0.000
+2022-08-25,GGD Drenthe,60-69,1,1.421
 2022-08-25,GGD Drenthe,70-79,2,3.627
 2022-08-25,GGD Drenthe,80-89,0,0.000
 2022-08-25,GGD Drenthe,90+,1,22.543
 2022-08-25,GGD Flevoland,0-9,0,0.000
 2022-08-25,GGD Flevoland,10-19,0,0.000
-2022-08-25,GGD Flevoland,20-29,0,0.000
+2022-08-25,GGD Flevoland,20-29,1,1.876
 2022-08-25,GGD Flevoland,30-39,4,6.720
 2022-08-25,GGD Flevoland,40-49,3,5.354
 2022-08-25,GGD Flevoland,50-59,4,6.395
@@ -84554,17 +84554,17 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Fryslân,20-29,3,4.034
 2022-08-25,GGD Fryslân,30-39,3,4.222
 2022-08-25,GGD Fryslân,40-49,2,2.575
-2022-08-25,GGD Fryslân,50-59,6,6.145
+2022-08-25,GGD Fryslân,50-59,7,7.169
 2022-08-25,GGD Fryslân,60-69,1,1.164
 2022-08-25,GGD Fryslân,70-79,2,2.944
 2022-08-25,GGD Fryslân,80-89,0,0.000
 2022-08-25,GGD Fryslân,90+,0,0.000
 2022-08-25,GGD Gelderland-Zuid,0-9,0,0.000
 2022-08-25,GGD Gelderland-Zuid,10-19,3,4.665
-2022-08-25,GGD Gelderland-Zuid,20-29,9,11.178
+2022-08-25,GGD Gelderland-Zuid,20-29,10,12.420
 2022-08-25,GGD Gelderland-Zuid,30-39,4,6.020
 2022-08-25,GGD Gelderland-Zuid,40-49,5,7.367
-2022-08-25,GGD Gelderland-Zuid,50-59,4,4.739
+2022-08-25,GGD Gelderland-Zuid,50-59,5,5.924
 2022-08-25,GGD Gelderland-Zuid,60-69,5,7.096
 2022-08-25,GGD Gelderland-Zuid,70-79,3,5.914
 2022-08-25,GGD Gelderland-Zuid,80-89,0,0.000
@@ -84584,49 +84584,49 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Groningen,20-29,9,9.865
 2022-08-25,GGD Groningen,30-39,3,4.742
 2022-08-25,GGD Groningen,40-49,4,6.426
-2022-08-25,GGD Groningen,50-59,1,1.336
+2022-08-25,GGD Groningen,50-59,2,2.672
 2022-08-25,GGD Groningen,60-69,2,3.002
 2022-08-25,GGD Groningen,70-79,1,1.973
 2022-08-25,GGD Groningen,80-89,2,9.436
 2022-08-25,GGD Groningen,90+,4,95.080
 2022-08-25,GGD Haaglanden,0-9,5,4.123
 2022-08-25,GGD Haaglanden,10-19,3,2.355
-2022-08-25,GGD Haaglanden,20-29,18,11.521
+2022-08-25,GGD Haaglanden,20-29,19,12.161
 2022-08-25,GGD Haaglanden,30-39,16,10.330
 2022-08-25,GGD Haaglanden,40-49,17,11.416
-2022-08-25,GGD Haaglanden,50-59,12,7.806
-2022-08-25,GGD Haaglanden,60-69,9,7.293
+2022-08-25,GGD Haaglanden,50-59,13,8.456
+2022-08-25,GGD Haaglanden,60-69,10,8.104
 2022-08-25,GGD Haaglanden,70-79,10,11.269
 2022-08-25,GGD Haaglanden,80-89,5,12.692
 2022-08-25,GGD Haaglanden,90+,0,0.000
 2022-08-25,GGD Hart voor Brabant,0-9,0,0.000
 2022-08-25,GGD Hart voor Brabant,10-19,1,0.826
-2022-08-25,GGD Hart voor Brabant,20-29,4,2.927
-2022-08-25,GGD Hart voor Brabant,30-39,3,2.321
-2022-08-25,GGD Hart voor Brabant,40-49,3,2.242
-2022-08-25,GGD Hart voor Brabant,50-59,4,2.468
+2022-08-25,GGD Hart voor Brabant,20-29,5,3.658
+2022-08-25,GGD Hart voor Brabant,30-39,4,3.095
+2022-08-25,GGD Hart voor Brabant,40-49,4,2.989
+2022-08-25,GGD Hart voor Brabant,50-59,6,3.702
 2022-08-25,GGD Hart voor Brabant,60-69,6,4.379
 2022-08-25,GGD Hart voor Brabant,70-79,8,7.765
 2022-08-25,GGD Hart voor Brabant,80-89,5,11.217
 2022-08-25,GGD Hart voor Brabant,90+,3,40.933
 2022-08-25,GGD Hollands-Midden,0-9,0,0.000
 2022-08-25,GGD Hollands-Midden,10-19,3,3.189
-2022-08-25,GGD Hollands-Midden,20-29,6,5.704
+2022-08-25,GGD Hollands-Midden,20-29,8,7.605
 2022-08-25,GGD Hollands-Midden,30-39,6,6.022
-2022-08-25,GGD Hollands-Midden,40-49,3,3.024
-2022-08-25,GGD Hollands-Midden,50-59,3,2.532
-2022-08-25,GGD Hollands-Midden,60-69,4,4.036
-2022-08-25,GGD Hollands-Midden,70-79,5,6.633
+2022-08-25,GGD Hollands-Midden,40-49,5,5.041
+2022-08-25,GGD Hollands-Midden,50-59,4,3.376
+2022-08-25,GGD Hollands-Midden,60-69,5,5.044
+2022-08-25,GGD Hollands-Midden,70-79,6,7.959
 2022-08-25,GGD Hollands-Midden,80-89,3,9.237
 2022-08-25,GGD Hollands-Midden,90+,0,0.000
 2022-08-25,GGD Hollands-Noorden,0-9,1,1.542
 2022-08-25,GGD Hollands-Noorden,10-19,1,1.298
 2022-08-25,GGD Hollands-Noorden,20-29,4,5.506
 2022-08-25,GGD Hollands-Noorden,30-39,1,1.332
-2022-08-25,GGD Hollands-Noorden,40-49,2,2.424
+2022-08-25,GGD Hollands-Noorden,40-49,4,4.849
 2022-08-25,GGD Hollands-Noorden,50-59,2,1.995
-2022-08-25,GGD Hollands-Noorden,60-69,1,1.140
-2022-08-25,GGD Hollands-Noorden,70-79,1,1.381
+2022-08-25,GGD Hollands-Noorden,60-69,2,2.280
+2022-08-25,GGD Hollands-Noorden,70-79,2,2.762
 2022-08-25,GGD Hollands-Noorden,80-89,2,7.004
 2022-08-25,GGD Hollands-Noorden,90+,0,0.000
 2022-08-25,GGD IJsselland,0-9,1,1.709
@@ -84634,7 +84634,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD IJsselland,20-29,3,4.517
 2022-08-25,GGD IJsselland,30-39,8,12.284
 2022-08-25,GGD IJsselland,40-49,8,12.014
-2022-08-25,GGD IJsselland,50-59,3,3.908
+2022-08-25,GGD IJsselland,50-59,4,5.211
 2022-08-25,GGD IJsselland,60-69,4,6.253
 2022-08-25,GGD IJsselland,70-79,0,0.000
 2022-08-25,GGD IJsselland,80-89,0,0.000
@@ -84642,7 +84642,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Kennemerland,0-9,1,1.732
 2022-08-25,GGD Kennemerland,10-19,2,3.080
 2022-08-25,GGD Kennemerland,20-29,3,4.986
-2022-08-25,GGD Kennemerland,30-39,8,11.584
+2022-08-25,GGD Kennemerland,30-39,9,13.032
 2022-08-25,GGD Kennemerland,40-49,3,4.080
 2022-08-25,GGD Kennemerland,50-59,4,4.747
 2022-08-25,GGD Kennemerland,60-69,4,6.145
@@ -84650,60 +84650,60 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Kennemerland,80-89,3,13.286
 2022-08-25,GGD Kennemerland,90+,0,0.000
 2022-08-25,GGD Limburg-Noord,0-9,1,2.221
-2022-08-25,GGD Limburg-Noord,10-19,0,0.000
+2022-08-25,GGD Limburg-Noord,10-19,1,1.839
 2022-08-25,GGD Limburg-Noord,20-29,3,5.297
-2022-08-25,GGD Limburg-Noord,30-39,0,0.000
-2022-08-25,GGD Limburg-Noord,40-49,2,3.273
-2022-08-25,GGD Limburg-Noord,50-59,3,3.590
+2022-08-25,GGD Limburg-Noord,30-39,2,3.442
+2022-08-25,GGD Limburg-Noord,40-49,3,4.909
+2022-08-25,GGD Limburg-Noord,50-59,4,4.786
 2022-08-25,GGD Limburg-Noord,60-69,7,9.199
 2022-08-25,GGD Limburg-Noord,70-79,1,1.756
 2022-08-25,GGD Limburg-Noord,80-89,2,7.847
 2022-08-25,GGD Limburg-Noord,90+,1,23.669
 2022-08-25,GGD Noord- en Oost-Gelderland,0-9,1,1.256
-2022-08-25,GGD Noord- en Oost-Gelderland,10-19,2,2.025
-2022-08-25,GGD Noord- en Oost-Gelderland,20-29,6,6.881
+2022-08-25,GGD Noord- en Oost-Gelderland,10-19,4,4.050
+2022-08-25,GGD Noord- en Oost-Gelderland,20-29,7,8.028
 2022-08-25,GGD Noord- en Oost-Gelderland,30-39,11,12.632
 2022-08-25,GGD Noord- en Oost-Gelderland,40-49,6,6.041
 2022-08-25,GGD Noord- en Oost-Gelderland,50-59,9,6.943
 2022-08-25,GGD Noord- en Oost-Gelderland,60-69,4,3.511
 2022-08-25,GGD Noord- en Oost-Gelderland,70-79,4,4.482
-2022-08-25,GGD Noord- en Oost-Gelderland,80-89,1,2.543
+2022-08-25,GGD Noord- en Oost-Gelderland,80-89,2,5.086
 2022-08-25,GGD Noord- en Oost-Gelderland,90+,1,13.822
 2022-08-25,GGD Regio Utrecht,0-9,0,0.000
-2022-08-25,GGD Regio Utrecht,10-19,3,1.849
-2022-08-25,GGD Regio Utrecht,20-29,18,9.779
-2022-08-25,GGD Regio Utrecht,30-39,16,8.754
-2022-08-25,GGD Regio Utrecht,40-49,9,5.160
+2022-08-25,GGD Regio Utrecht,10-19,4,2.465
+2022-08-25,GGD Regio Utrecht,20-29,21,11.409
+2022-08-25,GGD Regio Utrecht,30-39,17,9.301
+2022-08-25,GGD Regio Utrecht,40-49,10,5.733
 2022-08-25,GGD Regio Utrecht,50-59,8,4.224
 2022-08-25,GGD Regio Utrecht,60-69,5,3.340
-2022-08-25,GGD Regio Utrecht,70-79,7,6.361
+2022-08-25,GGD Regio Utrecht,70-79,9,8.178
 2022-08-25,GGD Regio Utrecht,80-89,5,10.424
 2022-08-25,GGD Regio Utrecht,90+,0,0.000
 2022-08-25,GGD Rotterdam-Rijnmond,0-9,1,0.704
 2022-08-25,GGD Rotterdam-Rijnmond,10-19,6,4.112
-2022-08-25,GGD Rotterdam-Rijnmond,20-29,11,5.907
+2022-08-25,GGD Rotterdam-Rijnmond,20-29,13,6.981
 2022-08-25,GGD Rotterdam-Rijnmond,30-39,15,8.169
 2022-08-25,GGD Rotterdam-Rijnmond,40-49,12,7.151
-2022-08-25,GGD Rotterdam-Rijnmond,50-59,7,3.838
+2022-08-25,GGD Rotterdam-Rijnmond,50-59,9,4.934
 2022-08-25,GGD Rotterdam-Rijnmond,60-69,9,5.985
-2022-08-25,GGD Rotterdam-Rijnmond,70-79,8,7.270
+2022-08-25,GGD Rotterdam-Rijnmond,70-79,9,8.178
 2022-08-25,GGD Rotterdam-Rijnmond,80-89,6,12.102
 2022-08-25,GGD Rotterdam-Rijnmond,90+,1,9.764
 2022-08-25,GGD Twente,0-9,1,1.638
 2022-08-25,GGD Twente,10-19,2,2.572
 2022-08-25,GGD Twente,20-29,3,3.744
 2022-08-25,GGD Twente,30-39,5,6.968
-2022-08-25,GGD Twente,40-49,3,3.895
+2022-08-25,GGD Twente,40-49,4,5.194
 2022-08-25,GGD Twente,50-59,4,4.341
 2022-08-25,GGD Twente,60-69,0,0.000
 2022-08-25,GGD Twente,70-79,3,4.899
-2022-08-25,GGD Twente,80-89,0,0.000
+2022-08-25,GGD Twente,80-89,1,3.643
 2022-08-25,GGD Twente,90+,0,0.000
 2022-08-25,GGD West-Brabant,0-9,0,0.000
 2022-08-25,GGD West-Brabant,10-19,0,0.000
 2022-08-25,GGD West-Brabant,20-29,3,3.568
-2022-08-25,GGD West-Brabant,30-39,4,4.833
-2022-08-25,GGD West-Brabant,40-49,5,5.719
+2022-08-25,GGD West-Brabant,30-39,5,6.041
+2022-08-25,GGD West-Brabant,40-49,6,6.863
 2022-08-25,GGD West-Brabant,50-59,6,5.490
 2022-08-25,GGD West-Brabant,60-69,0,0.000
 2022-08-25,GGD West-Brabant,70-79,4,5.524
@@ -84721,8 +84721,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Zaanstreek/Waterland,90+,0,0.000
 2022-08-25,GGD Zeeland,0-9,1,2.698
 2022-08-25,GGD Zeeland,10-19,0,0.000
-2022-08-25,GGD Zeeland,20-29,2,4.947
-2022-08-25,GGD Zeeland,30-39,2,4.793
+2022-08-25,GGD Zeeland,20-29,3,7.420
+2022-08-25,GGD Zeeland,30-39,3,7.189
 2022-08-25,GGD Zeeland,40-49,2,4.372
 2022-08-25,GGD Zeeland,50-59,2,3.458
 2022-08-25,GGD Zeeland,60-69,2,3.805
@@ -84733,19 +84733,19 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-25,GGD Zuid-Limburg,10-19,0,0.000
 2022-08-25,GGD Zuid-Limburg,20-29,2,2.752
 2022-08-25,GGD Zuid-Limburg,30-39,6,9.147
-2022-08-25,GGD Zuid-Limburg,40-49,4,6.145
+2022-08-25,GGD Zuid-Limburg,40-49,5,7.682
 2022-08-25,GGD Zuid-Limburg,50-59,3,3.228
-2022-08-25,GGD Zuid-Limburg,60-69,4,4.475
+2022-08-25,GGD Zuid-Limburg,60-69,5,5.593
 2022-08-25,GGD Zuid-Limburg,70-79,1,1.468
-2022-08-25,GGD Zuid-Limburg,80-89,1,3.121
+2022-08-25,GGD Zuid-Limburg,80-89,2,6.243
 2022-08-25,GGD Zuid-Limburg,90+,0,0.000
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,1,1.366
-2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,2,2.398
-2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,8,8.765
+2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,3,3.597
+2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,9,9.861
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,5,5.973
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,4,3.945
-2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,3,3.534
+2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,4,4.712
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,4,6.307
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,2,7.042
 2022-08-25,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,0,0.000
@@ -84762,19 +84762,19 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,0-9,1,2.001
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,10-19,1,1.826
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,20-29,2,3.739
-2022-08-26,Dienst Gezondheid & Jeugd ZHZ,30-39,4,7.227
-2022-08-26,Dienst Gezondheid & Jeugd ZHZ,40-49,2,3.535
+2022-08-26,Dienst Gezondheid & Jeugd ZHZ,30-39,5,9.034
+2022-08-26,Dienst Gezondheid & Jeugd ZHZ,40-49,3,5.303
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,50-59,5,7.394
-2022-08-26,Dienst Gezondheid & Jeugd ZHZ,60-69,5,9.086
+2022-08-26,Dienst Gezondheid & Jeugd ZHZ,60-69,6,10.904
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,70-79,3,6.727
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,80-89,1,5.026
 2022-08-26,Dienst Gezondheid & Jeugd ZHZ,90+,1,26.674
 2022-08-26,GGD Amsterdam,0-9,0,0.000
 2022-08-26,GGD Amsterdam,10-19,5,2.707
 2022-08-26,GGD Amsterdam,20-29,14,3.924
-2022-08-26,GGD Amsterdam,30-39,17,4.862
+2022-08-26,GGD Amsterdam,30-39,18,5.148
 2022-08-26,GGD Amsterdam,40-49,6,2.398
-2022-08-26,GGD Amsterdam,50-59,8,3.255
+2022-08-26,GGD Amsterdam,50-59,9,3.662
 2022-08-26,GGD Amsterdam,60-69,5,2.649
 2022-08-26,GGD Amsterdam,70-79,5,4.132
 2022-08-26,GGD Amsterdam,80-89,4,8.175
@@ -84782,18 +84782,18 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Brabant-Zuidoost,0-9,1,1.328
 2022-08-26,GGD Brabant-Zuidoost,10-19,0,0.000
 2022-08-26,GGD Brabant-Zuidoost,20-29,5,4.923
-2022-08-26,GGD Brabant-Zuidoost,30-39,6,6.019
+2022-08-26,GGD Brabant-Zuidoost,30-39,7,7.022
 2022-08-26,GGD Brabant-Zuidoost,40-49,3,3.123
 2022-08-26,GGD Brabant-Zuidoost,50-59,4,3.465
 2022-08-26,GGD Brabant-Zuidoost,60-69,2,2.075
-2022-08-26,GGD Brabant-Zuidoost,70-79,6,8.154
-2022-08-26,GGD Brabant-Zuidoost,80-89,6,17.203
-2022-08-26,GGD Brabant-Zuidoost,90+,0,0.000
+2022-08-26,GGD Brabant-Zuidoost,70-79,8,10.873
+2022-08-26,GGD Brabant-Zuidoost,80-89,7,20.070
+2022-08-26,GGD Brabant-Zuidoost,90+,1,17.924
 2022-08-26,GGD Drenthe,0-9,0,0.000
 2022-08-26,GGD Drenthe,10-19,2,3.471
 2022-08-26,GGD Drenthe,20-29,4,8.292
-2022-08-26,GGD Drenthe,30-39,7,13.618
-2022-08-26,GGD Drenthe,40-49,7,11.679
+2022-08-26,GGD Drenthe,30-39,8,15.563
+2022-08-26,GGD Drenthe,40-49,9,15.015
 2022-08-26,GGD Drenthe,50-59,4,5.168
 2022-08-26,GGD Drenthe,60-69,3,4.263
 2022-08-26,GGD Drenthe,70-79,1,1.814
@@ -84804,28 +84804,28 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Flevoland,20-29,3,5.627
 2022-08-26,GGD Flevoland,30-39,4,6.720
 2022-08-26,GGD Flevoland,40-49,5,8.923
-2022-08-26,GGD Flevoland,50-59,3,4.796
+2022-08-26,GGD Flevoland,50-59,5,7.994
 2022-08-26,GGD Flevoland,60-69,3,6.138
 2022-08-26,GGD Flevoland,70-79,4,13.970
 2022-08-26,GGD Flevoland,80-89,0,0.000
 2022-08-26,GGD Flevoland,90+,0,0.000
 2022-08-26,GGD Fryslân,0-9,0,0.000
-2022-08-26,GGD Fryslân,10-19,1,1.279
+2022-08-26,GGD Fryslân,10-19,2,2.557
 2022-08-26,GGD Fryslân,20-29,3,4.034
-2022-08-26,GGD Fryslân,30-39,5,7.037
-2022-08-26,GGD Fryslân,40-49,4,5.150
+2022-08-26,GGD Fryslân,30-39,6,8.445
+2022-08-26,GGD Fryslân,40-49,5,6.438
 2022-08-26,GGD Fryslân,50-59,2,2.048
-2022-08-26,GGD Fryslân,60-69,5,5.821
-2022-08-26,GGD Fryslân,70-79,1,1.472
+2022-08-26,GGD Fryslân,60-69,6,6.985
+2022-08-26,GGD Fryslân,70-79,2,2.944
 2022-08-26,GGD Fryslân,80-89,4,13.534
 2022-08-26,GGD Fryslân,90+,0,0.000
 2022-08-26,GGD Gelderland-Zuid,0-9,2,3.623
 2022-08-26,GGD Gelderland-Zuid,10-19,1,1.555
 2022-08-26,GGD Gelderland-Zuid,20-29,4,4.968
-2022-08-26,GGD Gelderland-Zuid,30-39,4,6.020
-2022-08-26,GGD Gelderland-Zuid,40-49,5,7.367
+2022-08-26,GGD Gelderland-Zuid,30-39,6,9.030
+2022-08-26,GGD Gelderland-Zuid,40-49,6,8.840
 2022-08-26,GGD Gelderland-Zuid,50-59,7,8.294
-2022-08-26,GGD Gelderland-Zuid,60-69,3,4.257
+2022-08-26,GGD Gelderland-Zuid,60-69,4,5.677
 2022-08-26,GGD Gelderland-Zuid,70-79,3,5.914
 2022-08-26,GGD Gelderland-Zuid,80-89,1,4.860
 2022-08-26,GGD Gelderland-Zuid,90+,0,0.000
@@ -84841,7 +84841,7 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Gooi en Vechtstreek,90+,0,0.000
 2022-08-26,GGD Groningen,0-9,0,0.000
 2022-08-26,GGD Groningen,10-19,1,1.686
-2022-08-26,GGD Groningen,20-29,4,4.384
+2022-08-26,GGD Groningen,20-29,5,5.480
 2022-08-26,GGD Groningen,30-39,0,0.000
 2022-08-26,GGD Groningen,40-49,1,1.606
 2022-08-26,GGD Groningen,50-59,3,4.007
@@ -84849,44 +84849,44 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Groningen,70-79,1,1.973
 2022-08-26,GGD Groningen,80-89,1,4.718
 2022-08-26,GGD Groningen,90+,0,0.000
-2022-08-26,GGD Haaglanden,0-9,3,2.474
-2022-08-26,GGD Haaglanden,10-19,7,5.496
-2022-08-26,GGD Haaglanden,20-29,14,8.961
-2022-08-26,GGD Haaglanden,30-39,15,9.685
-2022-08-26,GGD Haaglanden,40-49,7,4.701
-2022-08-26,GGD Haaglanden,50-59,2,1.301
-2022-08-26,GGD Haaglanden,60-69,7,5.673
+2022-08-26,GGD Haaglanden,0-9,4,3.298
+2022-08-26,GGD Haaglanden,10-19,9,7.066
+2022-08-26,GGD Haaglanden,20-29,16,10.241
+2022-08-26,GGD Haaglanden,30-39,17,10.976
+2022-08-26,GGD Haaglanden,40-49,9,6.044
+2022-08-26,GGD Haaglanden,50-59,3,1.951
+2022-08-26,GGD Haaglanden,60-69,8,6.483
 2022-08-26,GGD Haaglanden,70-79,5,5.634
-2022-08-26,GGD Haaglanden,80-89,2,5.077
+2022-08-26,GGD Haaglanden,80-89,3,7.615
 2022-08-26,GGD Haaglanden,90+,0,0.000
 2022-08-26,GGD Hart voor Brabant,0-9,0,0.000
-2022-08-26,GGD Hart voor Brabant,10-19,2,1.652
-2022-08-26,GGD Hart voor Brabant,20-29,13,9.511
-2022-08-26,GGD Hart voor Brabant,30-39,12,9.284
-2022-08-26,GGD Hart voor Brabant,40-49,12,8.967
-2022-08-26,GGD Hart voor Brabant,50-59,13,8.022
+2022-08-26,GGD Hart voor Brabant,10-19,3,2.479
+2022-08-26,GGD Hart voor Brabant,20-29,14,10.243
+2022-08-26,GGD Hart voor Brabant,30-39,14,10.831
+2022-08-26,GGD Hart voor Brabant,40-49,13,9.715
+2022-08-26,GGD Hart voor Brabant,50-59,14,8.639
 2022-08-26,GGD Hart voor Brabant,60-69,7,5.109
 2022-08-26,GGD Hart voor Brabant,70-79,9,8.736
 2022-08-26,GGD Hart voor Brabant,80-89,7,15.704
 2022-08-26,GGD Hart voor Brabant,90+,1,13.644
 2022-08-26,GGD Hollands-Midden,0-9,2,2.357
-2022-08-26,GGD Hollands-Midden,10-19,3,3.189
-2022-08-26,GGD Hollands-Midden,20-29,16,15.210
-2022-08-26,GGD Hollands-Midden,30-39,9,9.034
-2022-08-26,GGD Hollands-Midden,40-49,12,12.098
+2022-08-26,GGD Hollands-Midden,10-19,6,6.379
+2022-08-26,GGD Hollands-Midden,20-29,17,16.161
+2022-08-26,GGD Hollands-Midden,30-39,11,11.041
+2022-08-26,GGD Hollands-Midden,40-49,15,15.122
 2022-08-26,GGD Hollands-Midden,50-59,7,5.909
-2022-08-26,GGD Hollands-Midden,60-69,9,9.080
-2022-08-26,GGD Hollands-Midden,70-79,5,6.633
+2022-08-26,GGD Hollands-Midden,60-69,10,10.089
+2022-08-26,GGD Hollands-Midden,70-79,6,7.959
 2022-08-26,GGD Hollands-Midden,80-89,3,9.237
 2022-08-26,GGD Hollands-Midden,90+,3,49.497
-2022-08-26,GGD Hollands-Noorden,0-9,2,3.085
+2022-08-26,GGD Hollands-Noorden,0-9,3,4.627
 2022-08-26,GGD Hollands-Noorden,10-19,0,0.000
 2022-08-26,GGD Hollands-Noorden,20-29,7,9.636
-2022-08-26,GGD Hollands-Noorden,30-39,3,3.997
+2022-08-26,GGD Hollands-Noorden,30-39,6,7.995
 2022-08-26,GGD Hollands-Noorden,40-49,7,8.485
-2022-08-26,GGD Hollands-Noorden,50-59,9,8.975
-2022-08-26,GGD Hollands-Noorden,60-69,0,0.000
-2022-08-26,GGD Hollands-Noorden,70-79,2,2.762
+2022-08-26,GGD Hollands-Noorden,50-59,11,10.970
+2022-08-26,GGD Hollands-Noorden,60-69,2,2.280
+2022-08-26,GGD Hollands-Noorden,70-79,3,4.144
 2022-08-26,GGD Hollands-Noorden,80-89,1,3.502
 2022-08-26,GGD Hollands-Noorden,90+,0,0.000
 2022-08-26,GGD IJsselland,0-9,0,0.000
@@ -84904,67 +84904,67 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Kennemerland,20-29,3,4.986
 2022-08-26,GGD Kennemerland,30-39,4,5.792
 2022-08-26,GGD Kennemerland,40-49,2,2.720
-2022-08-26,GGD Kennemerland,50-59,11,13.054
-2022-08-26,GGD Kennemerland,60-69,1,1.536
-2022-08-26,GGD Kennemerland,70-79,1,2.003
+2022-08-26,GGD Kennemerland,50-59,12,14.240
+2022-08-26,GGD Kennemerland,60-69,2,3.072
+2022-08-26,GGD Kennemerland,70-79,2,4.007
 2022-08-26,GGD Kennemerland,80-89,4,17.714
 2022-08-26,GGD Kennemerland,90+,1,21.983
 2022-08-26,GGD Limburg-Noord,0-9,1,2.221
-2022-08-26,GGD Limburg-Noord,10-19,0,0.000
+2022-08-26,GGD Limburg-Noord,10-19,1,1.839
 2022-08-26,GGD Limburg-Noord,20-29,2,3.531
-2022-08-26,GGD Limburg-Noord,30-39,4,6.885
+2022-08-26,GGD Limburg-Noord,30-39,6,10.327
 2022-08-26,GGD Limburg-Noord,40-49,0,0.000
-2022-08-26,GGD Limburg-Noord,50-59,3,3.590
+2022-08-26,GGD Limburg-Noord,50-59,4,4.786
 2022-08-26,GGD Limburg-Noord,60-69,3,3.942
 2022-08-26,GGD Limburg-Noord,70-79,2,3.511
-2022-08-26,GGD Limburg-Noord,80-89,5,19.616
+2022-08-26,GGD Limburg-Noord,80-89,4,15.693
 2022-08-26,GGD Limburg-Noord,90+,1,23.669
 2022-08-26,GGD Noord- en Oost-Gelderland,0-9,0,0.000
 2022-08-26,GGD Noord- en Oost-Gelderland,10-19,8,8.101
-2022-08-26,GGD Noord- en Oost-Gelderland,20-29,7,8.028
+2022-08-26,GGD Noord- en Oost-Gelderland,20-29,8,9.174
 2022-08-26,GGD Noord- en Oost-Gelderland,30-39,9,10.335
-2022-08-26,GGD Noord- en Oost-Gelderland,40-49,13,13.088
+2022-08-26,GGD Noord- en Oost-Gelderland,40-49,14,14.095
 2022-08-26,GGD Noord- en Oost-Gelderland,50-59,7,5.400
 2022-08-26,GGD Noord- en Oost-Gelderland,60-69,2,1.756
 2022-08-26,GGD Noord- en Oost-Gelderland,70-79,3,3.361
 2022-08-26,GGD Noord- en Oost-Gelderland,80-89,4,10.172
-2022-08-26,GGD Noord- en Oost-Gelderland,90+,0,0.000
+2022-08-26,GGD Noord- en Oost-Gelderland,90+,1,13.822
 2022-08-26,GGD Regio Utrecht,0-9,2,1.323
 2022-08-26,GGD Regio Utrecht,10-19,8,4.929
-2022-08-26,GGD Regio Utrecht,20-29,13,7.063
-2022-08-26,GGD Regio Utrecht,30-39,16,8.754
+2022-08-26,GGD Regio Utrecht,20-29,14,7.606
+2022-08-26,GGD Regio Utrecht,30-39,17,9.301
 2022-08-26,GGD Regio Utrecht,40-49,12,6.880
-2022-08-26,GGD Regio Utrecht,50-59,10,5.280
+2022-08-26,GGD Regio Utrecht,50-59,12,6.336
 2022-08-26,GGD Regio Utrecht,60-69,11,7.347
-2022-08-26,GGD Regio Utrecht,70-79,9,8.178
+2022-08-26,GGD Regio Utrecht,70-79,10,9.086
 2022-08-26,GGD Regio Utrecht,80-89,2,4.170
 2022-08-26,GGD Regio Utrecht,90+,1,10.692
-2022-08-26,GGD Rotterdam-Rijnmond,0-9,3,2.111
+2022-08-26,GGD Rotterdam-Rijnmond,0-9,4,2.815
 2022-08-26,GGD Rotterdam-Rijnmond,10-19,0,0.000
-2022-08-26,GGD Rotterdam-Rijnmond,20-29,11,5.907
-2022-08-26,GGD Rotterdam-Rijnmond,30-39,16,8.713
-2022-08-26,GGD Rotterdam-Rijnmond,40-49,10,5.959
+2022-08-26,GGD Rotterdam-Rijnmond,20-29,13,6.981
+2022-08-26,GGD Rotterdam-Rijnmond,30-39,18,9.803
+2022-08-26,GGD Rotterdam-Rijnmond,40-49,13,7.746
 2022-08-26,GGD Rotterdam-Rijnmond,50-59,8,4.386
-2022-08-26,GGD Rotterdam-Rijnmond,60-69,8,5.320
-2022-08-26,GGD Rotterdam-Rijnmond,70-79,10,9.087
+2022-08-26,GGD Rotterdam-Rijnmond,60-69,9,5.985
+2022-08-26,GGD Rotterdam-Rijnmond,70-79,11,9.996
 2022-08-26,GGD Rotterdam-Rijnmond,80-89,3,6.051
 2022-08-26,GGD Rotterdam-Rijnmond,90+,3,29.291
 2022-08-26,GGD Twente,0-9,0,0.000
-2022-08-26,GGD Twente,10-19,1,1.286
+2022-08-26,GGD Twente,10-19,2,2.572
 2022-08-26,GGD Twente,20-29,4,4.992
-2022-08-26,GGD Twente,30-39,4,5.574
+2022-08-26,GGD Twente,30-39,5,6.968
 2022-08-26,GGD Twente,40-49,7,9.089
-2022-08-26,GGD Twente,50-59,2,2.171
-2022-08-26,GGD Twente,60-69,5,6.390
-2022-08-26,GGD Twente,70-79,1,1.633
+2022-08-26,GGD Twente,50-59,3,3.256
+2022-08-26,GGD Twente,60-69,7,8.946
+2022-08-26,GGD Twente,70-79,2,3.266
 2022-08-26,GGD Twente,80-89,1,3.643
 2022-08-26,GGD Twente,90+,0,0.000
 2022-08-26,GGD West-Brabant,0-9,0,0.000
-2022-08-26,GGD West-Brabant,10-19,1,1.269
+2022-08-26,GGD West-Brabant,10-19,2,2.538
 2022-08-26,GGD West-Brabant,20-29,4,4.757
 2022-08-26,GGD West-Brabant,30-39,1,1.208
-2022-08-26,GGD West-Brabant,40-49,4,4.575
-2022-08-26,GGD West-Brabant,50-59,0,0.000
+2022-08-26,GGD West-Brabant,40-49,6,6.863
+2022-08-26,GGD West-Brabant,50-59,1,0.915
 2022-08-26,GGD West-Brabant,60-69,1,1.092
 2022-08-26,GGD West-Brabant,70-79,3,4.143
 2022-08-26,GGD West-Brabant,80-89,2,6.553
@@ -84980,33 +84980,33 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,GGD Zaanstreek/Waterland,80-89,0,0.000
 2022-08-26,GGD Zaanstreek/Waterland,90+,0,0.000
 2022-08-26,GGD Zeeland,0-9,0,0.000
-2022-08-26,GGD Zeeland,10-19,1,2.358
-2022-08-26,GGD Zeeland,20-29,1,2.473
+2022-08-26,GGD Zeeland,10-19,2,4.716
+2022-08-26,GGD Zeeland,20-29,2,4.947
 2022-08-26,GGD Zeeland,30-39,4,9.586
 2022-08-26,GGD Zeeland,40-49,1,2.186
-2022-08-26,GGD Zeeland,50-59,2,3.458
-2022-08-26,GGD Zeeland,60-69,2,3.805
-2022-08-26,GGD Zeeland,70-79,3,6.854
+2022-08-26,GGD Zeeland,50-59,3,5.187
+2022-08-26,GGD Zeeland,60-69,3,5.708
+2022-08-26,GGD Zeeland,70-79,4,9.138
 2022-08-26,GGD Zeeland,80-89,6,30.564
 2022-08-26,GGD Zeeland,90+,2,47.360
 2022-08-26,GGD Zuid-Limburg,0-9,1,2.151
 2022-08-26,GGD Zuid-Limburg,10-19,0,0.000
-2022-08-26,GGD Zuid-Limburg,20-29,3,4.129
+2022-08-26,GGD Zuid-Limburg,20-29,5,6.881
 2022-08-26,GGD Zuid-Limburg,30-39,3,4.574
 2022-08-26,GGD Zuid-Limburg,40-49,3,4.609
-2022-08-26,GGD Zuid-Limburg,50-59,4,4.304
-2022-08-26,GGD Zuid-Limburg,60-69,3,3.356
+2022-08-26,GGD Zuid-Limburg,50-59,6,6.456
+2022-08-26,GGD Zuid-Limburg,60-69,5,5.593
 2022-08-26,GGD Zuid-Limburg,70-79,3,4.403
 2022-08-26,GGD Zuid-Limburg,80-89,0,0.000
 2022-08-26,GGD Zuid-Limburg,90+,0,0.000
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,1,1.366
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,6,7.193
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,6,6.574
-2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,6,7.167
-2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
-2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,5,4.932
+2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,8,9.556
+2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,6,6.963
+2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,6,5.918
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,7,8.246
-2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,1,1.577
+2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,2,3.153
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,2,7.042
 2022-08-26,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,1,18.584
 2022-08-26,,0-9,0,
@@ -85020,8 +85020,8 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-26,,80-89,0,
 2022-08-26,,90+,0,
 2022-08-27,Dienst Gezondheid & Jeugd ZHZ,0-9,1,2.001
-2022-08-27,Dienst Gezondheid & Jeugd ZHZ,10-19,2,3.652
-2022-08-27,Dienst Gezondheid & Jeugd ZHZ,20-29,2,3.739
+2022-08-27,Dienst Gezondheid & Jeugd ZHZ,10-19,4,7.303
+2022-08-27,Dienst Gezondheid & Jeugd ZHZ,20-29,3,5.608
 2022-08-27,Dienst Gezondheid & Jeugd ZHZ,30-39,5,9.034
 2022-08-27,Dienst Gezondheid & Jeugd ZHZ,40-49,0,0.000
 2022-08-27,Dienst Gezondheid & Jeugd ZHZ,50-59,1,1.479
@@ -85031,79 +85031,79 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-27,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
 2022-08-27,GGD Amsterdam,0-9,2,1.055
 2022-08-27,GGD Amsterdam,10-19,2,1.083
-2022-08-27,GGD Amsterdam,20-29,13,3.644
+2022-08-27,GGD Amsterdam,20-29,14,3.924
 2022-08-27,GGD Amsterdam,30-39,15,4.290
 2022-08-27,GGD Amsterdam,40-49,7,2.798
 2022-08-27,GGD Amsterdam,50-59,5,2.034
-2022-08-27,GGD Amsterdam,60-69,10,5.298
+2022-08-27,GGD Amsterdam,60-69,11,5.828
 2022-08-27,GGD Amsterdam,70-79,3,2.479
 2022-08-27,GGD Amsterdam,80-89,0,0.000
 2022-08-27,GGD Amsterdam,90+,0,0.000
 2022-08-27,GGD Brabant-Zuidoost,0-9,1,1.328
 2022-08-27,GGD Brabant-Zuidoost,10-19,1,1.164
 2022-08-27,GGD Brabant-Zuidoost,20-29,8,7.876
-2022-08-27,GGD Brabant-Zuidoost,30-39,9,9.028
+2022-08-27,GGD Brabant-Zuidoost,30-39,8,8.025
 2022-08-27,GGD Brabant-Zuidoost,40-49,7,7.286
 2022-08-27,GGD Brabant-Zuidoost,50-59,3,2.599
 2022-08-27,GGD Brabant-Zuidoost,60-69,4,4.149
-2022-08-27,GGD Brabant-Zuidoost,70-79,3,4.077
-2022-08-27,GGD Brabant-Zuidoost,80-89,1,2.867
-2022-08-27,GGD Brabant-Zuidoost,90+,1,17.924
+2022-08-27,GGD Brabant-Zuidoost,70-79,1,1.359
+2022-08-27,GGD Brabant-Zuidoost,80-89,0,0.000
+2022-08-27,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-27,GGD Drenthe,0-9,0,0.000
 2022-08-27,GGD Drenthe,10-19,0,0.000
-2022-08-27,GGD Drenthe,20-29,2,4.146
-2022-08-27,GGD Drenthe,30-39,2,3.891
-2022-08-27,GGD Drenthe,40-49,2,3.337
+2022-08-27,GGD Drenthe,20-29,4,8.292
+2022-08-27,GGD Drenthe,30-39,3,5.836
+2022-08-27,GGD Drenthe,40-49,3,5.005
 2022-08-27,GGD Drenthe,50-59,3,3.876
-2022-08-27,GGD Drenthe,60-69,1,1.421
+2022-08-27,GGD Drenthe,60-69,2,2.842
 2022-08-27,GGD Drenthe,70-79,4,7.254
 2022-08-27,GGD Drenthe,80-89,2,8.218
 2022-08-27,GGD Drenthe,90+,1,22.543
 2022-08-27,GGD Flevoland,0-9,0,0.000
 2022-08-27,GGD Flevoland,10-19,0,0.000
 2022-08-27,GGD Flevoland,20-29,1,1.876
-2022-08-27,GGD Flevoland,30-39,3,5.040
+2022-08-27,GGD Flevoland,30-39,4,6.720
 2022-08-27,GGD Flevoland,40-49,3,5.354
-2022-08-27,GGD Flevoland,50-59,4,6.395
-2022-08-27,GGD Flevoland,60-69,5,10.230
+2022-08-27,GGD Flevoland,50-59,5,7.994
+2022-08-27,GGD Flevoland,60-69,6,12.276
 2022-08-27,GGD Flevoland,70-79,2,6.985
 2022-08-27,GGD Flevoland,80-89,1,10.092
 2022-08-27,GGD Flevoland,90+,1,57.078
 2022-08-27,GGD Fryslân,0-9,0,0.000
 2022-08-27,GGD Fryslân,10-19,0,0.000
 2022-08-27,GGD Fryslân,20-29,3,4.034
-2022-08-27,GGD Fryslân,30-39,5,7.037
+2022-08-27,GGD Fryslân,30-39,9,12.667
 2022-08-27,GGD Fryslân,40-49,5,6.438
-2022-08-27,GGD Fryslân,50-59,7,7.169
-2022-08-27,GGD Fryslân,60-69,1,1.164
+2022-08-27,GGD Fryslân,50-59,8,8.194
+2022-08-27,GGD Fryslân,60-69,3,3.492
 2022-08-27,GGD Fryslân,70-79,2,2.944
 2022-08-27,GGD Fryslân,80-89,0,0.000
 2022-08-27,GGD Fryslân,90+,3,54.486
 2022-08-27,GGD Gelderland-Zuid,0-9,0,0.000
-2022-08-27,GGD Gelderland-Zuid,10-19,0,0.000
-2022-08-27,GGD Gelderland-Zuid,20-29,4,4.968
-2022-08-27,GGD Gelderland-Zuid,30-39,5,7.525
-2022-08-27,GGD Gelderland-Zuid,40-49,3,4.420
-2022-08-27,GGD Gelderland-Zuid,50-59,3,3.555
-2022-08-27,GGD Gelderland-Zuid,60-69,6,8.515
+2022-08-27,GGD Gelderland-Zuid,10-19,1,1.555
+2022-08-27,GGD Gelderland-Zuid,20-29,5,6.210
+2022-08-27,GGD Gelderland-Zuid,30-39,7,10.535
+2022-08-27,GGD Gelderland-Zuid,40-49,4,5.893
+2022-08-27,GGD Gelderland-Zuid,50-59,6,7.109
+2022-08-27,GGD Gelderland-Zuid,60-69,7,9.934
 2022-08-27,GGD Gelderland-Zuid,70-79,5,9.857
 2022-08-27,GGD Gelderland-Zuid,80-89,2,9.721
 2022-08-27,GGD Gelderland-Zuid,90+,1,28.563
 2022-08-27,GGD Gooi en Vechtstreek,0-9,0,0.000
-2022-08-27,GGD Gooi en Vechtstreek,10-19,1,3.236
+2022-08-27,GGD Gooi en Vechtstreek,10-19,2,6.472
 2022-08-27,GGD Gooi en Vechtstreek,20-29,1,4.181
 2022-08-27,GGD Gooi en Vechtstreek,30-39,4,13.190
 2022-08-27,GGD Gooi en Vechtstreek,40-49,2,5.909
 2022-08-27,GGD Gooi en Vechtstreek,50-59,4,10.260
 2022-08-27,GGD Gooi en Vechtstreek,60-69,2,6.357
-2022-08-27,GGD Gooi en Vechtstreek,70-79,0,0.000
+2022-08-27,GGD Gooi en Vechtstreek,70-79,1,3.868
 2022-08-27,GGD Gooi en Vechtstreek,80-89,1,7.916
 2022-08-27,GGD Gooi en Vechtstreek,90+,0,0.000
 2022-08-27,GGD Groningen,0-9,1,2.095
 2022-08-27,GGD Groningen,10-19,1,1.686
-2022-08-27,GGD Groningen,20-29,5,5.480
-2022-08-27,GGD Groningen,30-39,1,1.581
-2022-08-27,GGD Groningen,40-49,0,0.000
+2022-08-27,GGD Groningen,20-29,8,8.769
+2022-08-27,GGD Groningen,30-39,2,3.161
+2022-08-27,GGD Groningen,40-49,2,3.213
 2022-08-27,GGD Groningen,50-59,0,0.000
 2022-08-27,GGD Groningen,60-69,4,6.004
 2022-08-27,GGD Groningen,70-79,1,1.973
@@ -85111,42 +85111,42 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-27,GGD Groningen,90+,0,0.000
 2022-08-27,GGD Haaglanden,0-9,1,0.825
 2022-08-27,GGD Haaglanden,10-19,5,3.926
-2022-08-27,GGD Haaglanden,20-29,6,3.840
-2022-08-27,GGD Haaglanden,30-39,9,5.811
+2022-08-27,GGD Haaglanden,20-29,9,5.761
+2022-08-27,GGD Haaglanden,30-39,10,6.456
 2022-08-27,GGD Haaglanden,40-49,6,4.029
-2022-08-27,GGD Haaglanden,50-59,1,0.650
-2022-08-27,GGD Haaglanden,60-69,5,4.052
-2022-08-27,GGD Haaglanden,70-79,2,2.254
+2022-08-27,GGD Haaglanden,50-59,2,1.301
+2022-08-27,GGD Haaglanden,60-69,6,4.862
+2022-08-27,GGD Haaglanden,70-79,3,3.381
 2022-08-27,GGD Haaglanden,80-89,0,0.000
 2022-08-27,GGD Haaglanden,90+,0,0.000
 2022-08-27,GGD Hart voor Brabant,0-9,0,0.000
 2022-08-27,GGD Hart voor Brabant,10-19,4,3.305
-2022-08-27,GGD Hart voor Brabant,20-29,13,9.511
+2022-08-27,GGD Hart voor Brabant,20-29,15,10.974
 2022-08-27,GGD Hart voor Brabant,30-39,9,6.963
-2022-08-27,GGD Hart voor Brabant,40-49,9,6.726
-2022-08-27,GGD Hart voor Brabant,50-59,12,7.405
-2022-08-27,GGD Hart voor Brabant,60-69,7,5.109
-2022-08-27,GGD Hart voor Brabant,70-79,3,2.912
+2022-08-27,GGD Hart voor Brabant,40-49,12,8.967
+2022-08-27,GGD Hart voor Brabant,50-59,14,8.639
+2022-08-27,GGD Hart voor Brabant,60-69,8,5.839
+2022-08-27,GGD Hart voor Brabant,70-79,4,3.883
 2022-08-27,GGD Hart voor Brabant,80-89,5,11.217
 2022-08-27,GGD Hart voor Brabant,90+,2,27.289
-2022-08-27,GGD Hollands-Midden,0-9,0,0.000
-2022-08-27,GGD Hollands-Midden,10-19,1,1.063
-2022-08-27,GGD Hollands-Midden,20-29,2,1.901
-2022-08-27,GGD Hollands-Midden,30-39,1,1.004
-2022-08-27,GGD Hollands-Midden,40-49,0,0.000
-2022-08-27,GGD Hollands-Midden,50-59,0,0.000
+2022-08-27,GGD Hollands-Midden,0-9,1,1.178
+2022-08-27,GGD Hollands-Midden,10-19,2,2.126
+2022-08-27,GGD Hollands-Midden,20-29,3,2.852
+2022-08-27,GGD Hollands-Midden,30-39,2,2.007
+2022-08-27,GGD Hollands-Midden,40-49,2,2.016
+2022-08-27,GGD Hollands-Midden,50-59,3,2.532
 2022-08-27,GGD Hollands-Midden,60-69,0,0.000
 2022-08-27,GGD Hollands-Midden,70-79,1,1.327
 2022-08-27,GGD Hollands-Midden,80-89,1,3.079
 2022-08-27,GGD Hollands-Midden,90+,0,0.000
 2022-08-27,GGD Hollands-Noorden,0-9,0,0.000
-2022-08-27,GGD Hollands-Noorden,10-19,0,0.000
-2022-08-27,GGD Hollands-Noorden,20-29,2,2.753
-2022-08-27,GGD Hollands-Noorden,30-39,7,9.327
-2022-08-27,GGD Hollands-Noorden,40-49,6,7.273
-2022-08-27,GGD Hollands-Noorden,50-59,2,1.995
-2022-08-27,GGD Hollands-Noorden,60-69,3,3.420
-2022-08-27,GGD Hollands-Noorden,70-79,1,1.381
+2022-08-27,GGD Hollands-Noorden,10-19,2,2.597
+2022-08-27,GGD Hollands-Noorden,20-29,3,4.130
+2022-08-27,GGD Hollands-Noorden,30-39,8,10.660
+2022-08-27,GGD Hollands-Noorden,40-49,7,8.485
+2022-08-27,GGD Hollands-Noorden,50-59,3,2.992
+2022-08-27,GGD Hollands-Noorden,60-69,4,4.560
+2022-08-27,GGD Hollands-Noorden,70-79,3,4.144
 2022-08-27,GGD Hollands-Noorden,80-89,1,3.502
 2022-08-27,GGD Hollands-Noorden,90+,0,0.000
 2022-08-27,GGD IJsselland,0-9,0,0.000
@@ -85154,79 +85154,79 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-27,GGD IJsselland,20-29,1,1.506
 2022-08-27,GGD IJsselland,30-39,4,6.142
 2022-08-27,GGD IJsselland,40-49,2,3.003
-2022-08-27,GGD IJsselland,50-59,4,5.211
+2022-08-27,GGD IJsselland,50-59,5,6.513
 2022-08-27,GGD IJsselland,60-69,1,1.563
-2022-08-27,GGD IJsselland,70-79,1,2.162
-2022-08-27,GGD IJsselland,80-89,0,0.000
+2022-08-27,GGD IJsselland,70-79,2,4.323
+2022-08-27,GGD IJsselland,80-89,1,4.851
 2022-08-27,GGD IJsselland,90+,1,25.569
 2022-08-27,GGD Kennemerland,0-9,0,0.000
-2022-08-27,GGD Kennemerland,10-19,1,1.540
+2022-08-27,GGD Kennemerland,10-19,2,3.080
 2022-08-27,GGD Kennemerland,20-29,5,8.311
 2022-08-27,GGD Kennemerland,30-39,2,2.896
 2022-08-27,GGD Kennemerland,40-49,2,2.720
-2022-08-27,GGD Kennemerland,50-59,3,3.560
+2022-08-27,GGD Kennemerland,50-59,5,5.933
 2022-08-27,GGD Kennemerland,60-69,3,4.609
 2022-08-27,GGD Kennemerland,70-79,1,2.003
 2022-08-27,GGD Kennemerland,80-89,0,0.000
 2022-08-27,GGD Kennemerland,90+,0,0.000
 2022-08-27,GGD Limburg-Noord,0-9,0,0.000
-2022-08-27,GGD Limburg-Noord,10-19,2,3.678
+2022-08-27,GGD Limburg-Noord,10-19,1,1.839
 2022-08-27,GGD Limburg-Noord,20-29,1,1.766
-2022-08-27,GGD Limburg-Noord,30-39,3,5.164
-2022-08-27,GGD Limburg-Noord,40-49,1,1.636
-2022-08-27,GGD Limburg-Noord,50-59,5,5.983
-2022-08-27,GGD Limburg-Noord,60-69,2,2.628
+2022-08-27,GGD Limburg-Noord,30-39,0,0.000
+2022-08-27,GGD Limburg-Noord,40-49,2,3.273
+2022-08-27,GGD Limburg-Noord,50-59,4,4.786
+2022-08-27,GGD Limburg-Noord,60-69,1,1.314
 2022-08-27,GGD Limburg-Noord,70-79,3,5.267
 2022-08-27,GGD Limburg-Noord,80-89,0,0.000
 2022-08-27,GGD Limburg-Noord,90+,0,0.000
 2022-08-27,GGD Noord- en Oost-Gelderland,0-9,1,1.256
 2022-08-27,GGD Noord- en Oost-Gelderland,10-19,1,1.013
 2022-08-27,GGD Noord- en Oost-Gelderland,20-29,2,2.294
-2022-08-27,GGD Noord- en Oost-Gelderland,30-39,6,6.890
-2022-08-27,GGD Noord- en Oost-Gelderland,40-49,2,2.014
+2022-08-27,GGD Noord- en Oost-Gelderland,30-39,7,8.038
+2022-08-27,GGD Noord- en Oost-Gelderland,40-49,4,4.027
 2022-08-27,GGD Noord- en Oost-Gelderland,50-59,1,0.771
-2022-08-27,GGD Noord- en Oost-Gelderland,60-69,1,0.878
+2022-08-27,GGD Noord- en Oost-Gelderland,60-69,2,1.756
 2022-08-27,GGD Noord- en Oost-Gelderland,70-79,4,4.482
 2022-08-27,GGD Noord- en Oost-Gelderland,80-89,2,5.086
 2022-08-27,GGD Noord- en Oost-Gelderland,90+,1,13.822
-2022-08-27,GGD Regio Utrecht,0-9,1,0.662
+2022-08-27,GGD Regio Utrecht,0-9,2,1.323
 2022-08-27,GGD Regio Utrecht,10-19,4,2.465
-2022-08-27,GGD Regio Utrecht,20-29,7,3.803
+2022-08-27,GGD Regio Utrecht,20-29,11,5.976
 2022-08-27,GGD Regio Utrecht,30-39,8,4.377
-2022-08-27,GGD Regio Utrecht,40-49,1,0.573
-2022-08-27,GGD Regio Utrecht,50-59,7,3.696
-2022-08-27,GGD Regio Utrecht,60-69,0,0.000
-2022-08-27,GGD Regio Utrecht,70-79,3,2.726
+2022-08-27,GGD Regio Utrecht,40-49,5,2.867
+2022-08-27,GGD Regio Utrecht,50-59,9,4.752
+2022-08-27,GGD Regio Utrecht,60-69,1,0.668
+2022-08-27,GGD Regio Utrecht,70-79,4,3.635
 2022-08-27,GGD Regio Utrecht,80-89,0,0.000
 2022-08-27,GGD Regio Utrecht,90+,1,10.692
 2022-08-27,GGD Rotterdam-Rijnmond,0-9,1,0.704
 2022-08-27,GGD Rotterdam-Rijnmond,10-19,4,2.741
-2022-08-27,GGD Rotterdam-Rijnmond,20-29,7,3.759
-2022-08-27,GGD Rotterdam-Rijnmond,30-39,11,5.990
+2022-08-27,GGD Rotterdam-Rijnmond,20-29,8,4.296
+2022-08-27,GGD Rotterdam-Rijnmond,30-39,13,7.080
 2022-08-27,GGD Rotterdam-Rijnmond,40-49,6,3.575
 2022-08-27,GGD Rotterdam-Rijnmond,50-59,9,4.934
-2022-08-27,GGD Rotterdam-Rijnmond,60-69,4,2.660
-2022-08-27,GGD Rotterdam-Rijnmond,70-79,5,4.544
-2022-08-27,GGD Rotterdam-Rijnmond,80-89,3,6.051
+2022-08-27,GGD Rotterdam-Rijnmond,60-69,5,3.325
+2022-08-27,GGD Rotterdam-Rijnmond,70-79,4,3.635
+2022-08-27,GGD Rotterdam-Rijnmond,80-89,4,8.068
 2022-08-27,GGD Rotterdam-Rijnmond,90+,0,0.000
 2022-08-27,GGD Twente,0-9,0,0.000
 2022-08-27,GGD Twente,10-19,1,1.286
-2022-08-27,GGD Twente,20-29,4,4.992
-2022-08-27,GGD Twente,30-39,1,1.394
-2022-08-27,GGD Twente,40-49,1,1.298
+2022-08-27,GGD Twente,20-29,5,6.240
+2022-08-27,GGD Twente,30-39,4,5.574
+2022-08-27,GGD Twente,40-49,2,2.597
 2022-08-27,GGD Twente,50-59,2,2.171
-2022-08-27,GGD Twente,60-69,3,3.834
+2022-08-27,GGD Twente,60-69,5,6.390
 2022-08-27,GGD Twente,70-79,0,0.000
 2022-08-27,GGD Twente,80-89,0,0.000
 2022-08-27,GGD Twente,90+,0,0.000
 2022-08-27,GGD West-Brabant,0-9,0,0.000
 2022-08-27,GGD West-Brabant,10-19,2,2.538
-2022-08-27,GGD West-Brabant,20-29,3,3.568
+2022-08-27,GGD West-Brabant,20-29,4,4.757
 2022-08-27,GGD West-Brabant,30-39,7,8.458
-2022-08-27,GGD West-Brabant,40-49,10,11.438
+2022-08-27,GGD West-Brabant,40-49,11,12.581
 2022-08-27,GGD West-Brabant,50-59,5,4.575
 2022-08-27,GGD West-Brabant,60-69,1,1.092
-2022-08-27,GGD West-Brabant,70-79,2,2.762
+2022-08-27,GGD West-Brabant,70-79,3,4.143
 2022-08-27,GGD West-Brabant,80-89,0,0.000
 2022-08-27,GGD West-Brabant,90+,1,18.525
 2022-08-27,GGD Zaanstreek/Waterland,0-9,0,0.000
@@ -85242,29 +85242,29 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-27,GGD Zeeland,0-9,1,2.698
 2022-08-27,GGD Zeeland,10-19,0,0.000
 2022-08-27,GGD Zeeland,20-29,2,4.947
-2022-08-27,GGD Zeeland,30-39,2,4.793
-2022-08-27,GGD Zeeland,40-49,0,0.000
-2022-08-27,GGD Zeeland,50-59,4,6.916
-2022-08-27,GGD Zeeland,60-69,2,3.805
+2022-08-27,GGD Zeeland,30-39,3,7.189
+2022-08-27,GGD Zeeland,40-49,1,2.186
+2022-08-27,GGD Zeeland,50-59,8,13.832
+2022-08-27,GGD Zeeland,60-69,3,5.708
 2022-08-27,GGD Zeeland,70-79,2,4.569
-2022-08-27,GGD Zeeland,80-89,1,5.094
+2022-08-27,GGD Zeeland,80-89,2,10.188
 2022-08-27,GGD Zeeland,90+,2,47.360
 2022-08-27,GGD Zuid-Limburg,0-9,2,4.303
 2022-08-27,GGD Zuid-Limburg,10-19,1,1.777
-2022-08-27,GGD Zuid-Limburg,20-29,3,4.129
+2022-08-27,GGD Zuid-Limburg,20-29,4,5.505
 2022-08-27,GGD Zuid-Limburg,30-39,6,9.147
 2022-08-27,GGD Zuid-Limburg,40-49,1,1.536
-2022-08-27,GGD Zuid-Limburg,50-59,7,7.532
-2022-08-27,GGD Zuid-Limburg,60-69,6,6.712
+2022-08-27,GGD Zuid-Limburg,50-59,8,8.608
+2022-08-27,GGD Zuid-Limburg,60-69,7,7.831
 2022-08-27,GGD Zuid-Limburg,70-79,2,2.936
-2022-08-27,GGD Zuid-Limburg,80-89,1,3.121
+2022-08-27,GGD Zuid-Limburg,80-89,2,6.243
 2022-08-27,GGD Zuid-Limburg,90+,2,35.386
 2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,2,2.732
-2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,3,3.597
-2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,17,18.625
-2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,7,8.362
-2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
-2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,6,5.918
+2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,4,4.795
+2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,19,20.817
+2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,11,13.140
+2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,7,8.124
+2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,7,6.904
 2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,8,9.424
 2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,6,9.460
 2022-08-27,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,2,7.042
@@ -85280,13 +85280,13 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-27,,80-89,0,
 2022-08-27,,90+,0,
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
-2022-08-28,Dienst Gezondheid & Jeugd ZHZ,10-19,1,1.826
-2022-08-28,Dienst Gezondheid & Jeugd ZHZ,20-29,3,5.608
+2022-08-28,Dienst Gezondheid & Jeugd ZHZ,10-19,2,3.652
+2022-08-28,Dienst Gezondheid & Jeugd ZHZ,20-29,4,7.478
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,30-39,3,5.420
-2022-08-28,Dienst Gezondheid & Jeugd ZHZ,40-49,2,3.535
+2022-08-28,Dienst Gezondheid & Jeugd ZHZ,40-49,3,5.303
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,50-59,1,1.479
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,60-69,2,3.635
-2022-08-28,Dienst Gezondheid & Jeugd ZHZ,70-79,1,2.242
+2022-08-28,Dienst Gezondheid & Jeugd ZHZ,70-79,3,6.727
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,80-89,0,0.000
 2022-08-28,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
 2022-08-28,GGD Amsterdam,0-9,2,1.055
@@ -85297,13 +85297,13 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-28,GGD Amsterdam,50-59,4,1.627
 2022-08-28,GGD Amsterdam,60-69,6,3.179
 2022-08-28,GGD Amsterdam,70-79,0,0.000
-2022-08-28,GGD Amsterdam,80-89,3,6.131
+2022-08-28,GGD Amsterdam,80-89,4,8.175
 2022-08-28,GGD Amsterdam,90+,0,0.000
 2022-08-28,GGD Brabant-Zuidoost,0-9,1,1.328
 2022-08-28,GGD Brabant-Zuidoost,10-19,1,1.164
 2022-08-28,GGD Brabant-Zuidoost,20-29,0,0.000
 2022-08-28,GGD Brabant-Zuidoost,30-39,1,1.003
-2022-08-28,GGD Brabant-Zuidoost,40-49,0,0.000
+2022-08-28,GGD Brabant-Zuidoost,40-49,2,2.082
 2022-08-28,GGD Brabant-Zuidoost,50-59,3,2.599
 2022-08-28,GGD Brabant-Zuidoost,60-69,1,1.037
 2022-08-28,GGD Brabant-Zuidoost,70-79,0,0.000
@@ -85313,176 +85313,176 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-28,GGD Drenthe,10-19,2,3.471
 2022-08-28,GGD Drenthe,20-29,5,10.365
 2022-08-28,GGD Drenthe,30-39,1,1.945
-2022-08-28,GGD Drenthe,40-49,2,3.337
-2022-08-28,GGD Drenthe,50-59,3,3.876
+2022-08-28,GGD Drenthe,40-49,4,6.673
+2022-08-28,GGD Drenthe,50-59,5,6.460
 2022-08-28,GGD Drenthe,60-69,4,5.684
 2022-08-28,GGD Drenthe,70-79,1,1.814
-2022-08-28,GGD Drenthe,80-89,1,4.109
+2022-08-28,GGD Drenthe,80-89,2,8.218
 2022-08-28,GGD Drenthe,90+,1,22.543
 2022-08-28,GGD Flevoland,0-9,0,0.000
 2022-08-28,GGD Flevoland,10-19,0,0.000
 2022-08-28,GGD Flevoland,20-29,2,3.751
-2022-08-28,GGD Flevoland,30-39,4,6.720
-2022-08-28,GGD Flevoland,40-49,2,3.569
-2022-08-28,GGD Flevoland,50-59,1,1.599
-2022-08-28,GGD Flevoland,60-69,0,0.000
+2022-08-28,GGD Flevoland,30-39,5,8.400
+2022-08-28,GGD Flevoland,40-49,3,5.354
+2022-08-28,GGD Flevoland,50-59,0,0.000
+2022-08-28,GGD Flevoland,60-69,1,2.046
 2022-08-28,GGD Flevoland,70-79,1,3.492
 2022-08-28,GGD Flevoland,80-89,0,0.000
 2022-08-28,GGD Flevoland,90+,0,0.000
 2022-08-28,GGD Fryslân,0-9,0,0.000
 2022-08-28,GGD Fryslân,10-19,2,2.557
 2022-08-28,GGD Fryslân,20-29,1,1.345
-2022-08-28,GGD Fryslân,30-39,5,7.037
-2022-08-28,GGD Fryslân,40-49,4,5.150
+2022-08-28,GGD Fryslân,30-39,7,9.852
+2022-08-28,GGD Fryslân,40-49,5,6.438
 2022-08-28,GGD Fryslân,50-59,2,2.048
-2022-08-28,GGD Fryslân,60-69,0,0.000
-2022-08-28,GGD Fryslân,70-79,2,2.944
-2022-08-28,GGD Fryslân,80-89,0,0.000
+2022-08-28,GGD Fryslân,60-69,1,1.164
+2022-08-28,GGD Fryslân,70-79,3,4.417
+2022-08-28,GGD Fryslân,80-89,1,3.384
 2022-08-28,GGD Fryslân,90+,0,0.000
-2022-08-28,GGD Gelderland-Zuid,0-9,0,0.000
-2022-08-28,GGD Gelderland-Zuid,10-19,1,1.555
-2022-08-28,GGD Gelderland-Zuid,20-29,1,1.242
-2022-08-28,GGD Gelderland-Zuid,30-39,2,3.010
-2022-08-28,GGD Gelderland-Zuid,40-49,2,2.947
-2022-08-28,GGD Gelderland-Zuid,50-59,0,0.000
-2022-08-28,GGD Gelderland-Zuid,60-69,0,0.000
-2022-08-28,GGD Gelderland-Zuid,70-79,1,1.971
+2022-08-28,GGD Gelderland-Zuid,0-9,2,3.623
+2022-08-28,GGD Gelderland-Zuid,10-19,0,0.000
+2022-08-28,GGD Gelderland-Zuid,20-29,3,3.726
+2022-08-28,GGD Gelderland-Zuid,30-39,1,1.505
+2022-08-28,GGD Gelderland-Zuid,40-49,5,7.367
+2022-08-28,GGD Gelderland-Zuid,50-59,1,1.185
+2022-08-28,GGD Gelderland-Zuid,60-69,2,2.838
+2022-08-28,GGD Gelderland-Zuid,70-79,2,3.943
 2022-08-28,GGD Gelderland-Zuid,80-89,1,4.860
-2022-08-28,GGD Gelderland-Zuid,90+,1,28.563
+2022-08-28,GGD Gelderland-Zuid,90+,2,57.127
 2022-08-28,GGD Gooi en Vechtstreek,0-9,0,0.000
 2022-08-28,GGD Gooi en Vechtstreek,10-19,1,3.236
 2022-08-28,GGD Gooi en Vechtstreek,20-29,1,4.181
-2022-08-28,GGD Gooi en Vechtstreek,30-39,2,6.595
-2022-08-28,GGD Gooi en Vechtstreek,40-49,1,2.954
-2022-08-28,GGD Gooi en Vechtstreek,50-59,2,5.130
+2022-08-28,GGD Gooi en Vechtstreek,30-39,3,9.893
+2022-08-28,GGD Gooi en Vechtstreek,40-49,2,5.909
+2022-08-28,GGD Gooi en Vechtstreek,50-59,3,7.695
 2022-08-28,GGD Gooi en Vechtstreek,60-69,0,0.000
 2022-08-28,GGD Gooi en Vechtstreek,70-79,0,0.000
 2022-08-28,GGD Gooi en Vechtstreek,80-89,0,0.000
 2022-08-28,GGD Gooi en Vechtstreek,90+,0,0.000
 2022-08-28,GGD Groningen,0-9,0,0.000
 2022-08-28,GGD Groningen,10-19,0,0.000
-2022-08-28,GGD Groningen,20-29,5,5.480
+2022-08-28,GGD Groningen,20-29,7,7.673
 2022-08-28,GGD Groningen,30-39,2,3.161
 2022-08-28,GGD Groningen,40-49,0,0.000
 2022-08-28,GGD Groningen,50-59,1,1.336
-2022-08-28,GGD Groningen,60-69,4,6.004
+2022-08-28,GGD Groningen,60-69,5,7.505
 2022-08-28,GGD Groningen,70-79,0,0.000
 2022-08-28,GGD Groningen,80-89,0,0.000
 2022-08-28,GGD Groningen,90+,0,0.000
-2022-08-28,GGD Haaglanden,0-9,2,1.649
+2022-08-28,GGD Haaglanden,0-9,1,0.825
 2022-08-28,GGD Haaglanden,10-19,3,2.355
-2022-08-28,GGD Haaglanden,20-29,4,2.560
-2022-08-28,GGD Haaglanden,30-39,6,3.874
-2022-08-28,GGD Haaglanden,40-49,2,1.343
+2022-08-28,GGD Haaglanden,20-29,6,3.840
+2022-08-28,GGD Haaglanden,30-39,7,4.520
+2022-08-28,GGD Haaglanden,40-49,6,4.029
 2022-08-28,GGD Haaglanden,50-59,2,1.301
-2022-08-28,GGD Haaglanden,60-69,3,2.431
+2022-08-28,GGD Haaglanden,60-69,4,3.242
 2022-08-28,GGD Haaglanden,70-79,1,1.127
 2022-08-28,GGD Haaglanden,80-89,3,7.615
 2022-08-28,GGD Haaglanden,90+,0,0.000
-2022-08-28,GGD Hart voor Brabant,0-9,0,0.000
+2022-08-28,GGD Hart voor Brabant,0-9,2,1.921
 2022-08-28,GGD Hart voor Brabant,10-19,0,0.000
 2022-08-28,GGD Hart voor Brabant,20-29,4,2.927
-2022-08-28,GGD Hart voor Brabant,30-39,2,1.547
-2022-08-28,GGD Hart voor Brabant,40-49,4,2.989
-2022-08-28,GGD Hart voor Brabant,50-59,4,2.468
+2022-08-28,GGD Hart voor Brabant,30-39,4,3.095
+2022-08-28,GGD Hart voor Brabant,40-49,5,3.736
+2022-08-28,GGD Hart voor Brabant,50-59,7,4.319
 2022-08-28,GGD Hart voor Brabant,60-69,4,2.920
 2022-08-28,GGD Hart voor Brabant,70-79,2,1.941
 2022-08-28,GGD Hart voor Brabant,80-89,2,4.487
 2022-08-28,GGD Hart voor Brabant,90+,2,27.289
 2022-08-28,GGD Hollands-Midden,0-9,1,1.178
-2022-08-28,GGD Hollands-Midden,10-19,1,1.063
-2022-08-28,GGD Hollands-Midden,20-29,8,7.605
+2022-08-28,GGD Hollands-Midden,10-19,0,0.000
+2022-08-28,GGD Hollands-Midden,20-29,6,5.704
 2022-08-28,GGD Hollands-Midden,30-39,3,3.011
-2022-08-28,GGD Hollands-Midden,40-49,8,8.065
-2022-08-28,GGD Hollands-Midden,50-59,8,6.753
-2022-08-28,GGD Hollands-Midden,60-69,3,3.027
+2022-08-28,GGD Hollands-Midden,40-49,3,3.024
+2022-08-28,GGD Hollands-Midden,50-59,3,2.532
+2022-08-28,GGD Hollands-Midden,60-69,2,2.018
 2022-08-28,GGD Hollands-Midden,70-79,1,1.327
-2022-08-28,GGD Hollands-Midden,80-89,1,3.079
+2022-08-28,GGD Hollands-Midden,80-89,0,0.000
 2022-08-28,GGD Hollands-Midden,90+,0,0.000
 2022-08-28,GGD Hollands-Noorden,0-9,0,0.000
 2022-08-28,GGD Hollands-Noorden,10-19,0,0.000
 2022-08-28,GGD Hollands-Noorden,20-29,0,0.000
 2022-08-28,GGD Hollands-Noorden,30-39,1,1.332
-2022-08-28,GGD Hollands-Noorden,40-49,4,4.849
-2022-08-28,GGD Hollands-Noorden,50-59,2,1.995
+2022-08-28,GGD Hollands-Noorden,40-49,3,3.637
+2022-08-28,GGD Hollands-Noorden,50-59,1,0.997
 2022-08-28,GGD Hollands-Noorden,60-69,1,1.140
-2022-08-28,GGD Hollands-Noorden,70-79,0,0.000
-2022-08-28,GGD Hollands-Noorden,80-89,0,0.000
+2022-08-28,GGD Hollands-Noorden,70-79,4,5.525
+2022-08-28,GGD Hollands-Noorden,80-89,1,3.502
 2022-08-28,GGD Hollands-Noorden,90+,0,0.000
 2022-08-28,GGD IJsselland,0-9,0,0.000
 2022-08-28,GGD IJsselland,10-19,0,0.000
 2022-08-28,GGD IJsselland,20-29,1,1.506
-2022-08-28,GGD IJsselland,30-39,3,4.607
+2022-08-28,GGD IJsselland,30-39,4,6.142
 2022-08-28,GGD IJsselland,40-49,0,0.000
-2022-08-28,GGD IJsselland,50-59,1,1.303
-2022-08-28,GGD IJsselland,60-69,1,1.563
+2022-08-28,GGD IJsselland,50-59,3,3.908
+2022-08-28,GGD IJsselland,60-69,3,4.689
 2022-08-28,GGD IJsselland,70-79,1,2.162
-2022-08-28,GGD IJsselland,80-89,2,9.703
+2022-08-28,GGD IJsselland,80-89,1,4.851
 2022-08-28,GGD IJsselland,90+,0,0.000
 2022-08-28,GGD Kennemerland,0-9,0,0.000
 2022-08-28,GGD Kennemerland,10-19,3,4.620
-2022-08-28,GGD Kennemerland,20-29,1,1.662
-2022-08-28,GGD Kennemerland,30-39,3,4.344
-2022-08-28,GGD Kennemerland,40-49,2,2.720
-2022-08-28,GGD Kennemerland,50-59,2,2.373
+2022-08-28,GGD Kennemerland,20-29,0,0.000
+2022-08-28,GGD Kennemerland,30-39,2,2.896
+2022-08-28,GGD Kennemerland,40-49,3,4.080
+2022-08-28,GGD Kennemerland,50-59,4,4.747
 2022-08-28,GGD Kennemerland,60-69,1,1.536
 2022-08-28,GGD Kennemerland,70-79,1,2.003
-2022-08-28,GGD Kennemerland,80-89,6,26.571
+2022-08-28,GGD Kennemerland,80-89,7,31.000
 2022-08-28,GGD Kennemerland,90+,0,0.000
 2022-08-28,GGD Limburg-Noord,0-9,0,0.000
-2022-08-28,GGD Limburg-Noord,10-19,2,3.678
-2022-08-28,GGD Limburg-Noord,20-29,5,8.828
-2022-08-28,GGD Limburg-Noord,30-39,4,6.885
-2022-08-28,GGD Limburg-Noord,40-49,8,13.090
-2022-08-28,GGD Limburg-Noord,50-59,7,8.376
+2022-08-28,GGD Limburg-Noord,10-19,1,1.839
+2022-08-28,GGD Limburg-Noord,20-29,3,5.297
+2022-08-28,GGD Limburg-Noord,30-39,2,3.442
+2022-08-28,GGD Limburg-Noord,40-49,6,9.818
+2022-08-28,GGD Limburg-Noord,50-59,4,4.786
 2022-08-28,GGD Limburg-Noord,60-69,2,2.628
-2022-08-28,GGD Limburg-Noord,70-79,5,8.778
+2022-08-28,GGD Limburg-Noord,70-79,4,7.022
 2022-08-28,GGD Limburg-Noord,80-89,2,7.847
 2022-08-28,GGD Limburg-Noord,90+,1,23.669
 2022-08-28,GGD Noord- en Oost-Gelderland,0-9,0,0.000
-2022-08-28,GGD Noord- en Oost-Gelderland,10-19,1,1.013
-2022-08-28,GGD Noord- en Oost-Gelderland,20-29,1,1.147
+2022-08-28,GGD Noord- en Oost-Gelderland,10-19,2,2.025
+2022-08-28,GGD Noord- en Oost-Gelderland,20-29,2,2.294
 2022-08-28,GGD Noord- en Oost-Gelderland,30-39,5,5.742
 2022-08-28,GGD Noord- en Oost-Gelderland,40-49,1,1.007
 2022-08-28,GGD Noord- en Oost-Gelderland,50-59,4,3.086
-2022-08-28,GGD Noord- en Oost-Gelderland,60-69,2,1.756
+2022-08-28,GGD Noord- en Oost-Gelderland,60-69,4,3.511
 2022-08-28,GGD Noord- en Oost-Gelderland,70-79,4,4.482
 2022-08-28,GGD Noord- en Oost-Gelderland,80-89,1,2.543
 2022-08-28,GGD Noord- en Oost-Gelderland,90+,1,13.822
-2022-08-28,GGD Regio Utrecht,0-9,5,3.309
-2022-08-28,GGD Regio Utrecht,10-19,5,3.081
-2022-08-28,GGD Regio Utrecht,20-29,13,7.063
-2022-08-28,GGD Regio Utrecht,30-39,8,4.377
-2022-08-28,GGD Regio Utrecht,40-49,7,4.013
-2022-08-28,GGD Regio Utrecht,50-59,6,3.168
-2022-08-28,GGD Regio Utrecht,60-69,7,4.676
-2022-08-28,GGD Regio Utrecht,70-79,13,11.812
+2022-08-28,GGD Regio Utrecht,0-9,4,2.647
+2022-08-28,GGD Regio Utrecht,10-19,3,1.849
+2022-08-28,GGD Regio Utrecht,20-29,6,3.260
+2022-08-28,GGD Regio Utrecht,30-39,5,2.736
+2022-08-28,GGD Regio Utrecht,40-49,3,1.720
+2022-08-28,GGD Regio Utrecht,50-59,3,1.584
+2022-08-28,GGD Regio Utrecht,60-69,5,3.340
+2022-08-28,GGD Regio Utrecht,70-79,6,5.452
 2022-08-28,GGD Regio Utrecht,80-89,0,0.000
 2022-08-28,GGD Regio Utrecht,90+,0,0.000
-2022-08-28,GGD Rotterdam-Rijnmond,0-9,0,0.000
+2022-08-28,GGD Rotterdam-Rijnmond,0-9,1,0.704
 2022-08-28,GGD Rotterdam-Rijnmond,10-19,2,1.371
-2022-08-28,GGD Rotterdam-Rijnmond,20-29,9,4.833
-2022-08-28,GGD Rotterdam-Rijnmond,30-39,2,1.089
+2022-08-28,GGD Rotterdam-Rijnmond,20-29,8,4.296
+2022-08-28,GGD Rotterdam-Rijnmond,30-39,4,2.178
 2022-08-28,GGD Rotterdam-Rijnmond,40-49,4,2.384
-2022-08-28,GGD Rotterdam-Rijnmond,50-59,3,1.645
+2022-08-28,GGD Rotterdam-Rijnmond,50-59,4,2.193
 2022-08-28,GGD Rotterdam-Rijnmond,60-69,4,2.660
 2022-08-28,GGD Rotterdam-Rijnmond,70-79,1,0.909
 2022-08-28,GGD Rotterdam-Rijnmond,80-89,1,2.017
-2022-08-28,GGD Rotterdam-Rijnmond,90+,0,0.000
+2022-08-28,GGD Rotterdam-Rijnmond,90+,1,9.764
 2022-08-28,GGD Twente,0-9,0,0.000
 2022-08-28,GGD Twente,10-19,1,1.286
 2022-08-28,GGD Twente,20-29,1,1.248
-2022-08-28,GGD Twente,30-39,1,1.394
+2022-08-28,GGD Twente,30-39,3,4.181
 2022-08-28,GGD Twente,40-49,3,3.895
-2022-08-28,GGD Twente,50-59,3,3.256
-2022-08-28,GGD Twente,60-69,0,0.000
-2022-08-28,GGD Twente,70-79,3,4.899
+2022-08-28,GGD Twente,50-59,4,4.341
+2022-08-28,GGD Twente,60-69,1,1.278
+2022-08-28,GGD Twente,70-79,4,6.531
 2022-08-28,GGD Twente,80-89,0,0.000
 2022-08-28,GGD Twente,90+,1,20.198
 2022-08-28,GGD West-Brabant,0-9,0,0.000
 2022-08-28,GGD West-Brabant,10-19,0,0.000
 2022-08-28,GGD West-Brabant,20-29,1,1.189
-2022-08-28,GGD West-Brabant,30-39,1,1.208
+2022-08-28,GGD West-Brabant,30-39,3,3.625
 2022-08-28,GGD West-Brabant,40-49,2,2.288
 2022-08-28,GGD West-Brabant,50-59,0,0.000
 2022-08-28,GGD West-Brabant,60-69,0,0.000
@@ -85502,32 +85502,32 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-28,GGD Zeeland,0-9,0,0.000
 2022-08-28,GGD Zeeland,10-19,0,0.000
 2022-08-28,GGD Zeeland,20-29,1,2.473
-2022-08-28,GGD Zeeland,30-39,0,0.000
-2022-08-28,GGD Zeeland,40-49,0,0.000
-2022-08-28,GGD Zeeland,50-59,0,0.000
-2022-08-28,GGD Zeeland,60-69,1,1.903
-2022-08-28,GGD Zeeland,70-79,1,2.285
-2022-08-28,GGD Zeeland,80-89,2,10.188
+2022-08-28,GGD Zeeland,30-39,1,2.396
+2022-08-28,GGD Zeeland,40-49,1,2.186
+2022-08-28,GGD Zeeland,50-59,3,5.187
+2022-08-28,GGD Zeeland,60-69,2,3.805
+2022-08-28,GGD Zeeland,70-79,2,4.569
+2022-08-28,GGD Zeeland,80-89,3,15.282
 2022-08-28,GGD Zeeland,90+,0,0.000
 2022-08-28,GGD Zuid-Limburg,0-9,1,2.151
-2022-08-28,GGD Zuid-Limburg,10-19,0,0.000
+2022-08-28,GGD Zuid-Limburg,10-19,1,1.777
 2022-08-28,GGD Zuid-Limburg,20-29,1,1.376
-2022-08-28,GGD Zuid-Limburg,30-39,1,1.525
-2022-08-28,GGD Zuid-Limburg,40-49,1,1.536
-2022-08-28,GGD Zuid-Limburg,50-59,2,2.152
-2022-08-28,GGD Zuid-Limburg,60-69,2,2.237
-2022-08-28,GGD Zuid-Limburg,70-79,1,1.468
+2022-08-28,GGD Zuid-Limburg,30-39,2,3.049
+2022-08-28,GGD Zuid-Limburg,40-49,2,3.073
+2022-08-28,GGD Zuid-Limburg,50-59,3,3.228
+2022-08-28,GGD Zuid-Limburg,60-69,4,4.475
+2022-08-28,GGD Zuid-Limburg,70-79,2,2.936
 2022-08-28,GGD Zuid-Limburg,80-89,2,6.243
 2022-08-28,GGD Zuid-Limburg,90+,0,0.000
 2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,1,1.366
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,1,1.199
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,1,1.096
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,2,2.389
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,2,2.321
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,2,2.398
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,3,3.287
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,7,8.362
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,1,1.161
 2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,3,2.959
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,2,2.356
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,1,1.178
 2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,0,0.000
-2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,2,7.042
+2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,4,14.084
 2022-08-28,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,0,0.000
 2022-08-28,,0-9,0,
 2022-08-28,,10-19,0,
@@ -85540,213 +85540,213 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-28,,80-89,0,
 2022-08-28,,90+,0,
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
-2022-08-29,Dienst Gezondheid & Jeugd ZHZ,10-19,4,7.303
-2022-08-29,Dienst Gezondheid & Jeugd ZHZ,20-29,4,7.478
-2022-08-29,Dienst Gezondheid & Jeugd ZHZ,30-39,1,1.807
+2022-08-29,Dienst Gezondheid & Jeugd ZHZ,10-19,0,0.000
+2022-08-29,Dienst Gezondheid & Jeugd ZHZ,20-29,2,3.739
+2022-08-29,Dienst Gezondheid & Jeugd ZHZ,30-39,0,0.000
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,40-49,7,12.373
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,50-59,2,2.958
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,60-69,3,5.452
-2022-08-29,Dienst Gezondheid & Jeugd ZHZ,70-79,2,4.485
+2022-08-29,Dienst Gezondheid & Jeugd ZHZ,70-79,0,0.000
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,80-89,0,0.000
 2022-08-29,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
-2022-08-29,GGD Amsterdam,0-9,0,0.000
+2022-08-29,GGD Amsterdam,0-9,2,1.055
 2022-08-29,GGD Amsterdam,10-19,5,2.707
 2022-08-29,GGD Amsterdam,20-29,10,2.803
-2022-08-29,GGD Amsterdam,30-39,12,3.432
+2022-08-29,GGD Amsterdam,30-39,13,3.718
 2022-08-29,GGD Amsterdam,40-49,8,3.198
 2022-08-29,GGD Amsterdam,50-59,9,3.662
 2022-08-29,GGD Amsterdam,60-69,6,3.179
-2022-08-29,GGD Amsterdam,70-79,8,6.611
-2022-08-29,GGD Amsterdam,80-89,4,8.175
+2022-08-29,GGD Amsterdam,70-79,9,7.438
+2022-08-29,GGD Amsterdam,80-89,5,10.219
 2022-08-29,GGD Amsterdam,90+,0,0.000
 2022-08-29,GGD Brabant-Zuidoost,0-9,1,1.328
-2022-08-29,GGD Brabant-Zuidoost,10-19,2,2.328
-2022-08-29,GGD Brabant-Zuidoost,20-29,7,6.892
-2022-08-29,GGD Brabant-Zuidoost,30-39,6,6.019
-2022-08-29,GGD Brabant-Zuidoost,40-49,7,7.286
+2022-08-29,GGD Brabant-Zuidoost,10-19,1,1.164
+2022-08-29,GGD Brabant-Zuidoost,20-29,6,5.907
+2022-08-29,GGD Brabant-Zuidoost,30-39,5,5.016
+2022-08-29,GGD Brabant-Zuidoost,40-49,3,3.123
 2022-08-29,GGD Brabant-Zuidoost,50-59,4,3.465
-2022-08-29,GGD Brabant-Zuidoost,60-69,8,8.299
-2022-08-29,GGD Brabant-Zuidoost,70-79,4,5.436
-2022-08-29,GGD Brabant-Zuidoost,80-89,3,8.601
+2022-08-29,GGD Brabant-Zuidoost,60-69,4,4.149
+2022-08-29,GGD Brabant-Zuidoost,70-79,3,4.077
+2022-08-29,GGD Brabant-Zuidoost,80-89,1,2.867
 2022-08-29,GGD Brabant-Zuidoost,90+,0,0.000
 2022-08-29,GGD Drenthe,0-9,0,0.000
 2022-08-29,GGD Drenthe,10-19,0,0.000
-2022-08-29,GGD Drenthe,20-29,4,8.292
-2022-08-29,GGD Drenthe,30-39,3,5.836
-2022-08-29,GGD Drenthe,40-49,5,8.342
-2022-08-29,GGD Drenthe,50-59,4,5.168
-2022-08-29,GGD Drenthe,60-69,3,4.263
+2022-08-29,GGD Drenthe,20-29,1,2.073
+2022-08-29,GGD Drenthe,30-39,1,1.945
+2022-08-29,GGD Drenthe,40-49,2,3.337
+2022-08-29,GGD Drenthe,50-59,2,2.584
+2022-08-29,GGD Drenthe,60-69,0,0.000
 2022-08-29,GGD Drenthe,70-79,2,3.627
-2022-08-29,GGD Drenthe,80-89,2,8.218
+2022-08-29,GGD Drenthe,80-89,3,12.327
 2022-08-29,GGD Drenthe,90+,0,0.000
 2022-08-29,GGD Flevoland,0-9,1,1.942
 2022-08-29,GGD Flevoland,10-19,5,8.908
-2022-08-29,GGD Flevoland,20-29,7,13.129
-2022-08-29,GGD Flevoland,30-39,10,16.801
-2022-08-29,GGD Flevoland,40-49,7,12.492
-2022-08-29,GGD Flevoland,50-59,5,7.994
-2022-08-29,GGD Flevoland,60-69,2,4.092
+2022-08-29,GGD Flevoland,20-29,5,9.378
+2022-08-29,GGD Flevoland,30-39,8,13.440
+2022-08-29,GGD Flevoland,40-49,5,8.923
+2022-08-29,GGD Flevoland,50-59,1,1.599
+2022-08-29,GGD Flevoland,60-69,1,2.046
 2022-08-29,GGD Flevoland,70-79,2,6.985
-2022-08-29,GGD Flevoland,80-89,1,10.092
+2022-08-29,GGD Flevoland,80-89,2,20.184
 2022-08-29,GGD Flevoland,90+,0,0.000
 2022-08-29,GGD Fryslân,0-9,0,0.000
-2022-08-29,GGD Fryslân,10-19,2,2.557
+2022-08-29,GGD Fryslân,10-19,1,1.279
 2022-08-29,GGD Fryslân,20-29,2,2.689
-2022-08-29,GGD Fryslân,30-39,9,12.667
-2022-08-29,GGD Fryslân,40-49,3,3.863
+2022-08-29,GGD Fryslân,30-39,2,2.815
+2022-08-29,GGD Fryslân,40-49,1,1.288
 2022-08-29,GGD Fryslân,50-59,7,7.169
-2022-08-29,GGD Fryslân,60-69,5,5.821
-2022-08-29,GGD Fryslân,70-79,3,4.417
-2022-08-29,GGD Fryslân,80-89,1,3.384
+2022-08-29,GGD Fryslân,60-69,1,1.164
+2022-08-29,GGD Fryslân,70-79,1,1.472
+2022-08-29,GGD Fryslân,80-89,0,0.000
 2022-08-29,GGD Fryslân,90+,0,0.000
-2022-08-29,GGD Gelderland-Zuid,0-9,1,1.811
-2022-08-29,GGD Gelderland-Zuid,10-19,4,6.220
-2022-08-29,GGD Gelderland-Zuid,20-29,6,7.452
-2022-08-29,GGD Gelderland-Zuid,30-39,6,9.030
-2022-08-29,GGD Gelderland-Zuid,40-49,5,7.367
-2022-08-29,GGD Gelderland-Zuid,50-59,9,10.664
-2022-08-29,GGD Gelderland-Zuid,60-69,4,5.677
+2022-08-29,GGD Gelderland-Zuid,0-9,0,0.000
+2022-08-29,GGD Gelderland-Zuid,10-19,3,4.665
+2022-08-29,GGD Gelderland-Zuid,20-29,2,2.484
+2022-08-29,GGD Gelderland-Zuid,30-39,2,3.010
+2022-08-29,GGD Gelderland-Zuid,40-49,1,1.473
+2022-08-29,GGD Gelderland-Zuid,50-59,3,3.555
+2022-08-29,GGD Gelderland-Zuid,60-69,0,0.000
 2022-08-29,GGD Gelderland-Zuid,70-79,2,3.943
-2022-08-29,GGD Gelderland-Zuid,80-89,0,0.000
+2022-08-29,GGD Gelderland-Zuid,80-89,3,14.581
 2022-08-29,GGD Gelderland-Zuid,90+,1,28.563
 2022-08-29,GGD Gooi en Vechtstreek,0-9,1,3.513
-2022-08-29,GGD Gooi en Vechtstreek,10-19,6,19.416
+2022-08-29,GGD Gooi en Vechtstreek,10-19,5,16.180
 2022-08-29,GGD Gooi en Vechtstreek,20-29,4,16.725
-2022-08-29,GGD Gooi en Vechtstreek,30-39,3,9.893
-2022-08-29,GGD Gooi en Vechtstreek,40-49,3,8.863
-2022-08-29,GGD Gooi en Vechtstreek,50-59,3,7.695
-2022-08-29,GGD Gooi en Vechtstreek,60-69,1,3.179
+2022-08-29,GGD Gooi en Vechtstreek,30-39,4,13.190
+2022-08-29,GGD Gooi en Vechtstreek,40-49,2,5.909
+2022-08-29,GGD Gooi en Vechtstreek,50-59,2,5.130
+2022-08-29,GGD Gooi en Vechtstreek,60-69,2,6.357
 2022-08-29,GGD Gooi en Vechtstreek,70-79,1,3.868
 2022-08-29,GGD Gooi en Vechtstreek,80-89,0,0.000
 2022-08-29,GGD Gooi en Vechtstreek,90+,0,0.000
 2022-08-29,GGD Groningen,0-9,2,4.190
 2022-08-29,GGD Groningen,10-19,0,0.000
-2022-08-29,GGD Groningen,20-29,13,14.249
-2022-08-29,GGD Groningen,30-39,6,9.484
+2022-08-29,GGD Groningen,20-29,8,8.769
+2022-08-29,GGD Groningen,30-39,5,7.904
 2022-08-29,GGD Groningen,40-49,3,4.819
-2022-08-29,GGD Groningen,50-59,1,1.336
-2022-08-29,GGD Groningen,60-69,3,4.503
+2022-08-29,GGD Groningen,50-59,3,4.007
+2022-08-29,GGD Groningen,60-69,2,3.002
 2022-08-29,GGD Groningen,70-79,1,1.973
 2022-08-29,GGD Groningen,80-89,0,0.000
 2022-08-29,GGD Groningen,90+,0,0.000
 2022-08-29,GGD Haaglanden,0-9,2,1.649
 2022-08-29,GGD Haaglanden,10-19,4,3.140
-2022-08-29,GGD Haaglanden,20-29,11,7.041
+2022-08-29,GGD Haaglanden,20-29,8,5.121
 2022-08-29,GGD Haaglanden,30-39,5,3.228
-2022-08-29,GGD Haaglanden,40-49,12,8.058
-2022-08-29,GGD Haaglanden,50-59,9,5.854
-2022-08-29,GGD Haaglanden,60-69,7,5.673
-2022-08-29,GGD Haaglanden,70-79,7,7.888
-2022-08-29,GGD Haaglanden,80-89,1,2.538
+2022-08-29,GGD Haaglanden,40-49,7,4.701
+2022-08-29,GGD Haaglanden,50-59,6,3.903
+2022-08-29,GGD Haaglanden,60-69,5,4.052
+2022-08-29,GGD Haaglanden,70-79,10,11.269
+2022-08-29,GGD Haaglanden,80-89,2,5.077
 2022-08-29,GGD Haaglanden,90+,0,0.000
-2022-08-29,GGD Hart voor Brabant,0-9,2,1.921
-2022-08-29,GGD Hart voor Brabant,10-19,4,3.305
-2022-08-29,GGD Hart voor Brabant,20-29,11,8.048
-2022-08-29,GGD Hart voor Brabant,30-39,6,4.642
-2022-08-29,GGD Hart voor Brabant,40-49,10,7.473
-2022-08-29,GGD Hart voor Brabant,50-59,7,4.319
-2022-08-29,GGD Hart voor Brabant,60-69,4,2.920
-2022-08-29,GGD Hart voor Brabant,70-79,5,4.853
-2022-08-29,GGD Hart voor Brabant,80-89,3,6.730
+2022-08-29,GGD Hart voor Brabant,0-9,1,0.960
+2022-08-29,GGD Hart voor Brabant,10-19,2,1.652
+2022-08-29,GGD Hart voor Brabant,20-29,6,4.390
+2022-08-29,GGD Hart voor Brabant,30-39,2,1.547
+2022-08-29,GGD Hart voor Brabant,40-49,4,2.989
+2022-08-29,GGD Hart voor Brabant,50-59,2,1.234
+2022-08-29,GGD Hart voor Brabant,60-69,2,1.460
+2022-08-29,GGD Hart voor Brabant,70-79,6,5.824
+2022-08-29,GGD Hart voor Brabant,80-89,7,15.704
 2022-08-29,GGD Hart voor Brabant,90+,4,54.578
 2022-08-29,GGD Hollands-Midden,0-9,4,4.713
-2022-08-29,GGD Hollands-Midden,10-19,2,2.126
-2022-08-29,GGD Hollands-Midden,20-29,7,6.654
-2022-08-29,GGD Hollands-Midden,30-39,8,8.030
-2022-08-29,GGD Hollands-Midden,40-49,5,5.041
+2022-08-29,GGD Hollands-Midden,10-19,1,1.063
+2022-08-29,GGD Hollands-Midden,20-29,5,4.753
+2022-08-29,GGD Hollands-Midden,30-39,5,5.019
+2022-08-29,GGD Hollands-Midden,40-49,6,6.049
 2022-08-29,GGD Hollands-Midden,50-59,2,1.688
-2022-08-29,GGD Hollands-Midden,60-69,4,4.036
-2022-08-29,GGD Hollands-Midden,70-79,5,6.633
+2022-08-29,GGD Hollands-Midden,60-69,3,3.027
+2022-08-29,GGD Hollands-Midden,70-79,3,3.980
 2022-08-29,GGD Hollands-Midden,80-89,1,3.079
-2022-08-29,GGD Hollands-Midden,90+,2,32.998
+2022-08-29,GGD Hollands-Midden,90+,3,49.497
 2022-08-29,GGD Hollands-Noorden,0-9,1,1.542
-2022-08-29,GGD Hollands-Noorden,10-19,3,3.895
-2022-08-29,GGD Hollands-Noorden,20-29,1,1.377
-2022-08-29,GGD Hollands-Noorden,30-39,3,3.997
-2022-08-29,GGD Hollands-Noorden,40-49,3,3.637
-2022-08-29,GGD Hollands-Noorden,50-59,5,4.986
-2022-08-29,GGD Hollands-Noorden,60-69,7,7.981
-2022-08-29,GGD Hollands-Noorden,70-79,5,6.906
-2022-08-29,GGD Hollands-Noorden,80-89,0,0.000
+2022-08-29,GGD Hollands-Noorden,10-19,2,2.597
+2022-08-29,GGD Hollands-Noorden,20-29,0,0.000
+2022-08-29,GGD Hollands-Noorden,30-39,1,1.332
+2022-08-29,GGD Hollands-Noorden,40-49,2,2.424
+2022-08-29,GGD Hollands-Noorden,50-59,2,1.995
+2022-08-29,GGD Hollands-Noorden,60-69,5,5.701
+2022-08-29,GGD Hollands-Noorden,70-79,2,2.762
+2022-08-29,GGD Hollands-Noorden,80-89,1,3.502
 2022-08-29,GGD Hollands-Noorden,90+,0,0.000
 2022-08-29,GGD IJsselland,0-9,1,1.709
 2022-08-29,GGD IJsselland,10-19,2,3.002
 2022-08-29,GGD IJsselland,20-29,0,0.000
-2022-08-29,GGD IJsselland,30-39,3,4.607
-2022-08-29,GGD IJsselland,40-49,5,7.509
-2022-08-29,GGD IJsselland,50-59,4,5.211
-2022-08-29,GGD IJsselland,60-69,6,9.379
-2022-08-29,GGD IJsselland,70-79,3,6.485
+2022-08-29,GGD IJsselland,30-39,4,6.142
+2022-08-29,GGD IJsselland,40-49,6,9.010
+2022-08-29,GGD IJsselland,50-59,1,1.303
+2022-08-29,GGD IJsselland,60-69,4,6.253
+2022-08-29,GGD IJsselland,70-79,2,4.323
 2022-08-29,GGD IJsselland,80-89,2,9.703
 2022-08-29,GGD IJsselland,90+,2,51.138
 2022-08-29,GGD Kennemerland,0-9,1,1.732
-2022-08-29,GGD Kennemerland,10-19,3,4.620
-2022-08-29,GGD Kennemerland,20-29,1,1.662
-2022-08-29,GGD Kennemerland,30-39,1,1.448
-2022-08-29,GGD Kennemerland,40-49,1,1.360
-2022-08-29,GGD Kennemerland,50-59,6,7.120
+2022-08-29,GGD Kennemerland,10-19,2,3.080
+2022-08-29,GGD Kennemerland,20-29,0,0.000
+2022-08-29,GGD Kennemerland,30-39,2,2.896
+2022-08-29,GGD Kennemerland,40-49,0,0.000
+2022-08-29,GGD Kennemerland,50-59,4,4.747
 2022-08-29,GGD Kennemerland,60-69,2,3.072
-2022-08-29,GGD Kennemerland,70-79,0,0.000
+2022-08-29,GGD Kennemerland,70-79,1,2.003
 2022-08-29,GGD Kennemerland,80-89,2,8.857
 2022-08-29,GGD Kennemerland,90+,1,21.983
 2022-08-29,GGD Limburg-Noord,0-9,0,0.000
-2022-08-29,GGD Limburg-Noord,10-19,4,7.355
+2022-08-29,GGD Limburg-Noord,10-19,3,5.516
 2022-08-29,GGD Limburg-Noord,20-29,5,8.828
-2022-08-29,GGD Limburg-Noord,30-39,5,8.606
-2022-08-29,GGD Limburg-Noord,40-49,3,4.909
-2022-08-29,GGD Limburg-Noord,50-59,3,3.590
+2022-08-29,GGD Limburg-Noord,30-39,6,10.327
+2022-08-29,GGD Limburg-Noord,40-49,2,3.273
+2022-08-29,GGD Limburg-Noord,50-59,5,5.983
 2022-08-29,GGD Limburg-Noord,60-69,4,5.256
-2022-08-29,GGD Limburg-Noord,70-79,4,7.022
+2022-08-29,GGD Limburg-Noord,70-79,5,8.778
 2022-08-29,GGD Limburg-Noord,80-89,5,19.616
 2022-08-29,GGD Limburg-Noord,90+,0,0.000
 2022-08-29,GGD Noord- en Oost-Gelderland,0-9,0,0.000
-2022-08-29,GGD Noord- en Oost-Gelderland,10-19,7,7.088
-2022-08-29,GGD Noord- en Oost-Gelderland,20-29,9,10.321
+2022-08-29,GGD Noord- en Oost-Gelderland,10-19,5,5.063
+2022-08-29,GGD Noord- en Oost-Gelderland,20-29,6,6.881
 2022-08-29,GGD Noord- en Oost-Gelderland,30-39,4,4.593
-2022-08-29,GGD Noord- en Oost-Gelderland,40-49,9,9.061
+2022-08-29,GGD Noord- en Oost-Gelderland,40-49,7,7.047
 2022-08-29,GGD Noord- en Oost-Gelderland,50-59,4,3.086
-2022-08-29,GGD Noord- en Oost-Gelderland,60-69,8,7.023
+2022-08-29,GGD Noord- en Oost-Gelderland,60-69,3,2.634
 2022-08-29,GGD Noord- en Oost-Gelderland,70-79,3,3.361
 2022-08-29,GGD Noord- en Oost-Gelderland,80-89,1,2.543
 2022-08-29,GGD Noord- en Oost-Gelderland,90+,0,0.000
 2022-08-29,GGD Regio Utrecht,0-9,5,3.309
 2022-08-29,GGD Regio Utrecht,10-19,9,5.546
 2022-08-29,GGD Regio Utrecht,20-29,9,4.890
-2022-08-29,GGD Regio Utrecht,30-39,23,12.584
-2022-08-29,GGD Regio Utrecht,40-49,22,12.613
-2022-08-29,GGD Regio Utrecht,50-59,23,12.144
+2022-08-29,GGD Regio Utrecht,30-39,22,12.037
+2022-08-29,GGD Regio Utrecht,40-49,21,12.039
+2022-08-29,GGD Regio Utrecht,50-59,22,11.616
 2022-08-29,GGD Regio Utrecht,60-69,13,8.683
 2022-08-29,GGD Regio Utrecht,70-79,10,9.086
-2022-08-29,GGD Regio Utrecht,80-89,0,0.000
+2022-08-29,GGD Regio Utrecht,80-89,1,2.085
 2022-08-29,GGD Regio Utrecht,90+,0,0.000
 2022-08-29,GGD Rotterdam-Rijnmond,0-9,0,0.000
-2022-08-29,GGD Rotterdam-Rijnmond,10-19,3,2.056
-2022-08-29,GGD Rotterdam-Rijnmond,20-29,6,3.222
-2022-08-29,GGD Rotterdam-Rijnmond,30-39,11,5.990
-2022-08-29,GGD Rotterdam-Rijnmond,40-49,12,7.151
-2022-08-29,GGD Rotterdam-Rijnmond,50-59,15,8.224
-2022-08-29,GGD Rotterdam-Rijnmond,60-69,5,3.325
-2022-08-29,GGD Rotterdam-Rijnmond,70-79,4,3.635
-2022-08-29,GGD Rotterdam-Rijnmond,80-89,2,4.034
+2022-08-29,GGD Rotterdam-Rijnmond,10-19,2,1.371
+2022-08-29,GGD Rotterdam-Rijnmond,20-29,4,2.148
+2022-08-29,GGD Rotterdam-Rijnmond,30-39,6,3.268
+2022-08-29,GGD Rotterdam-Rijnmond,40-49,7,4.171
+2022-08-29,GGD Rotterdam-Rijnmond,50-59,7,3.838
+2022-08-29,GGD Rotterdam-Rijnmond,60-69,1,0.665
+2022-08-29,GGD Rotterdam-Rijnmond,70-79,2,1.817
+2022-08-29,GGD Rotterdam-Rijnmond,80-89,3,6.051
 2022-08-29,GGD Rotterdam-Rijnmond,90+,0,0.000
 2022-08-29,GGD Twente,0-9,0,0.000
 2022-08-29,GGD Twente,10-19,2,2.572
-2022-08-29,GGD Twente,20-29,6,7.488
-2022-08-29,GGD Twente,30-39,11,15.330
-2022-08-29,GGD Twente,40-49,4,5.194
-2022-08-29,GGD Twente,50-59,4,4.341
-2022-08-29,GGD Twente,60-69,8,10.224
-2022-08-29,GGD Twente,70-79,6,9.797
-2022-08-29,GGD Twente,80-89,1,3.643
-2022-08-29,GGD Twente,90+,0,0.000
+2022-08-29,GGD Twente,20-29,5,6.240
+2022-08-29,GGD Twente,30-39,7,9.755
+2022-08-29,GGD Twente,40-49,3,3.895
+2022-08-29,GGD Twente,50-59,3,3.256
+2022-08-29,GGD Twente,60-69,4,5.112
+2022-08-29,GGD Twente,70-79,2,3.266
+2022-08-29,GGD Twente,80-89,0,0.000
+2022-08-29,GGD Twente,90+,1,20.198
 2022-08-29,GGD West-Brabant,0-9,0,0.000
-2022-08-29,GGD West-Brabant,10-19,1,1.269
-2022-08-29,GGD West-Brabant,20-29,7,8.325
-2022-08-29,GGD West-Brabant,30-39,9,10.875
-2022-08-29,GGD West-Brabant,40-49,12,13.725
-2022-08-29,GGD West-Brabant,50-59,8,7.320
+2022-08-29,GGD West-Brabant,10-19,0,0.000
+2022-08-29,GGD West-Brabant,20-29,6,7.136
+2022-08-29,GGD West-Brabant,30-39,6,7.250
+2022-08-29,GGD West-Brabant,40-49,7,8.006
+2022-08-29,GGD West-Brabant,50-59,7,6.405
 2022-08-29,GGD West-Brabant,60-69,7,7.646
-2022-08-29,GGD West-Brabant,70-79,5,6.904
+2022-08-29,GGD West-Brabant,70-79,4,5.524
 2022-08-29,GGD West-Brabant,80-89,0,0.000
 2022-08-29,GGD West-Brabant,90+,0,0.000
 2022-08-29,GGD Zaanstreek/Waterland,0-9,1,2.881
@@ -85756,39 +85756,39 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-29,GGD Zaanstreek/Waterland,40-49,4,9.146
 2022-08-29,GGD Zaanstreek/Waterland,50-59,4,7.605
 2022-08-29,GGD Zaanstreek/Waterland,60-69,2,4.845
-2022-08-29,GGD Zaanstreek/Waterland,70-79,1,3.063
+2022-08-29,GGD Zaanstreek/Waterland,70-79,2,6.126
 2022-08-29,GGD Zaanstreek/Waterland,80-89,1,7.070
 2022-08-29,GGD Zaanstreek/Waterland,90+,0,0.000
 2022-08-29,GGD Zeeland,0-9,0,0.000
-2022-08-29,GGD Zeeland,10-19,1,2.358
-2022-08-29,GGD Zeeland,20-29,5,12.367
-2022-08-29,GGD Zeeland,30-39,7,16.775
-2022-08-29,GGD Zeeland,40-49,5,10.931
-2022-08-29,GGD Zeeland,50-59,11,19.019
-2022-08-29,GGD Zeeland,60-69,4,7.610
-2022-08-29,GGD Zeeland,70-79,5,11.423
-2022-08-29,GGD Zeeland,80-89,3,15.282
-2022-08-29,GGD Zeeland,90+,0,0.000
+2022-08-29,GGD Zeeland,10-19,0,0.000
+2022-08-29,GGD Zeeland,20-29,2,4.947
+2022-08-29,GGD Zeeland,30-39,2,4.793
+2022-08-29,GGD Zeeland,40-49,3,6.558
+2022-08-29,GGD Zeeland,50-59,4,6.916
+2022-08-29,GGD Zeeland,60-69,1,1.903
+2022-08-29,GGD Zeeland,70-79,3,6.854
+2022-08-29,GGD Zeeland,80-89,0,0.000
+2022-08-29,GGD Zeeland,90+,1,23.680
 2022-08-29,GGD Zuid-Limburg,0-9,0,0.000
-2022-08-29,GGD Zuid-Limburg,10-19,3,5.331
-2022-08-29,GGD Zuid-Limburg,20-29,6,8.257
+2022-08-29,GGD Zuid-Limburg,10-19,1,1.777
+2022-08-29,GGD Zuid-Limburg,20-29,4,5.505
 2022-08-29,GGD Zuid-Limburg,30-39,2,3.049
-2022-08-29,GGD Zuid-Limburg,40-49,2,3.073
-2022-08-29,GGD Zuid-Limburg,50-59,6,6.456
-2022-08-29,GGD Zuid-Limburg,60-69,8,8.950
-2022-08-29,GGD Zuid-Limburg,70-79,2,2.936
+2022-08-29,GGD Zuid-Limburg,40-49,3,4.609
+2022-08-29,GGD Zuid-Limburg,50-59,2,2.152
+2022-08-29,GGD Zuid-Limburg,60-69,2,2.237
+2022-08-29,GGD Zuid-Limburg,70-79,1,1.468
 2022-08-29,GGD Zuid-Limburg,80-89,2,6.243
 2022-08-29,GGD Zuid-Limburg,90+,0,0.000
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,2,2.732
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,5,5.994
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,7,7.669
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,15,17.918
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,7,6.904
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,3,3.534
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,2,3.153
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,3,4.098
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,2,2.398
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,3,3.287
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,3,3.584
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,3,3.482
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,5,4.932
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,2,2.356
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,1,1.577
 2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,3,10.563
-2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,2,37.168
+2022-08-29,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,1,18.584
 2022-08-29,,0-9,0,
 2022-08-29,,10-19,0,
 2022-08-29,,20-29,0,
@@ -85800,254 +85800,254 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-29,,80-89,0,
 2022-08-29,,90+,0,
 2022-08-30,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,10-19,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,20-29,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,30-39,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,40-49,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,50-59,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,60-69,0,0.000
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,10-19,2,3.652
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,20-29,2,3.739
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,30-39,4,7.227
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,40-49,2,3.535
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,50-59,5,7.394
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,60-69,1,1.817
 2022-08-30,Dienst Gezondheid & Jeugd ZHZ,70-79,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,80-89,0,0.000
-2022-08-30,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
-2022-08-30,GGD Amsterdam,0-9,0,0.000
-2022-08-30,GGD Amsterdam,10-19,0,0.000
-2022-08-30,GGD Amsterdam,20-29,0,0.000
-2022-08-30,GGD Amsterdam,30-39,0,0.000
-2022-08-30,GGD Amsterdam,40-49,0,0.000
-2022-08-30,GGD Amsterdam,50-59,0,0.000
-2022-08-30,GGD Amsterdam,60-69,0,0.000
-2022-08-30,GGD Amsterdam,70-79,0,0.000
-2022-08-30,GGD Amsterdam,80-89,0,0.000
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,80-89,2,10.053
+2022-08-30,Dienst Gezondheid & Jeugd ZHZ,90+,1,26.674
+2022-08-30,GGD Amsterdam,0-9,1,0.527
+2022-08-30,GGD Amsterdam,10-19,4,2.166
+2022-08-30,GGD Amsterdam,20-29,13,3.644
+2022-08-30,GGD Amsterdam,30-39,14,4.004
+2022-08-30,GGD Amsterdam,40-49,13,5.196
+2022-08-30,GGD Amsterdam,50-59,7,2.848
+2022-08-30,GGD Amsterdam,60-69,3,1.589
+2022-08-30,GGD Amsterdam,70-79,1,0.826
+2022-08-30,GGD Amsterdam,80-89,1,2.044
 2022-08-30,GGD Amsterdam,90+,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,0-9,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,10-19,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,20-29,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,30-39,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,40-49,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,50-59,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,60-69,0,0.000
-2022-08-30,GGD Brabant-Zuidoost,70-79,0,0.000
+2022-08-30,GGD Brabant-Zuidoost,0-9,1,1.328
+2022-08-30,GGD Brabant-Zuidoost,10-19,4,4.656
+2022-08-30,GGD Brabant-Zuidoost,20-29,7,6.892
+2022-08-30,GGD Brabant-Zuidoost,30-39,12,12.038
+2022-08-30,GGD Brabant-Zuidoost,40-49,3,3.123
+2022-08-30,GGD Brabant-Zuidoost,50-59,7,6.064
+2022-08-30,GGD Brabant-Zuidoost,60-69,3,3.112
+2022-08-30,GGD Brabant-Zuidoost,70-79,2,2.718
 2022-08-30,GGD Brabant-Zuidoost,80-89,0,0.000
 2022-08-30,GGD Brabant-Zuidoost,90+,0,0.000
-2022-08-30,GGD Drenthe,0-9,0,0.000
-2022-08-30,GGD Drenthe,10-19,0,0.000
-2022-08-30,GGD Drenthe,20-29,1,2.073
-2022-08-30,GGD Drenthe,30-39,0,0.000
-2022-08-30,GGD Drenthe,40-49,1,1.668
-2022-08-30,GGD Drenthe,50-59,0,0.000
-2022-08-30,GGD Drenthe,60-69,0,0.000
-2022-08-30,GGD Drenthe,70-79,0,0.000
-2022-08-30,GGD Drenthe,80-89,3,12.327
-2022-08-30,GGD Drenthe,90+,0,0.000
+2022-08-30,GGD Drenthe,0-9,1,2.180
+2022-08-30,GGD Drenthe,10-19,5,8.676
+2022-08-30,GGD Drenthe,20-29,5,10.365
+2022-08-30,GGD Drenthe,30-39,11,21.400
+2022-08-30,GGD Drenthe,40-49,11,18.352
+2022-08-30,GGD Drenthe,50-59,5,6.460
+2022-08-30,GGD Drenthe,60-69,2,2.842
+2022-08-30,GGD Drenthe,70-79,2,3.627
+2022-08-30,GGD Drenthe,80-89,8,32.872
+2022-08-30,GGD Drenthe,90+,2,45.086
 2022-08-30,GGD Flevoland,0-9,0,0.000
-2022-08-30,GGD Flevoland,10-19,0,0.000
-2022-08-30,GGD Flevoland,20-29,0,0.000
-2022-08-30,GGD Flevoland,30-39,0,0.000
-2022-08-30,GGD Flevoland,40-49,0,0.000
-2022-08-30,GGD Flevoland,50-59,0,0.000
-2022-08-30,GGD Flevoland,60-69,0,0.000
-2022-08-30,GGD Flevoland,70-79,0,0.000
+2022-08-30,GGD Flevoland,10-19,2,3.563
+2022-08-30,GGD Flevoland,20-29,4,7.502
+2022-08-30,GGD Flevoland,30-39,7,11.760
+2022-08-30,GGD Flevoland,40-49,3,5.354
+2022-08-30,GGD Flevoland,50-59,3,4.796
+2022-08-30,GGD Flevoland,60-69,2,4.092
+2022-08-30,GGD Flevoland,70-79,1,3.492
 2022-08-30,GGD Flevoland,80-89,0,0.000
 2022-08-30,GGD Flevoland,90+,0,0.000
 2022-08-30,GGD Fryslân,0-9,0,0.000
-2022-08-30,GGD Fryslân,10-19,0,0.000
-2022-08-30,GGD Fryslân,20-29,0,0.000
-2022-08-30,GGD Fryslân,30-39,0,0.000
-2022-08-30,GGD Fryslân,40-49,0,0.000
-2022-08-30,GGD Fryslân,50-59,0,0.000
-2022-08-30,GGD Fryslân,60-69,0,0.000
+2022-08-30,GGD Fryslân,10-19,1,1.279
+2022-08-30,GGD Fryslân,20-29,5,6.723
+2022-08-30,GGD Fryslân,30-39,5,7.037
+2022-08-30,GGD Fryslân,40-49,11,14.163
+2022-08-30,GGD Fryslân,50-59,6,6.145
+2022-08-30,GGD Fryslân,60-69,5,5.821
 2022-08-30,GGD Fryslân,70-79,1,1.472
 2022-08-30,GGD Fryslân,80-89,0,0.000
 2022-08-30,GGD Fryslân,90+,0,0.000
 2022-08-30,GGD Gelderland-Zuid,0-9,0,0.000
 2022-08-30,GGD Gelderland-Zuid,10-19,0,0.000
-2022-08-30,GGD Gelderland-Zuid,20-29,0,0.000
-2022-08-30,GGD Gelderland-Zuid,30-39,0,0.000
-2022-08-30,GGD Gelderland-Zuid,40-49,0,0.000
-2022-08-30,GGD Gelderland-Zuid,50-59,0,0.000
-2022-08-30,GGD Gelderland-Zuid,60-69,0,0.000
-2022-08-30,GGD Gelderland-Zuid,70-79,0,0.000
-2022-08-30,GGD Gelderland-Zuid,80-89,0,0.000
+2022-08-30,GGD Gelderland-Zuid,20-29,3,3.726
+2022-08-30,GGD Gelderland-Zuid,30-39,5,7.525
+2022-08-30,GGD Gelderland-Zuid,40-49,3,4.420
+2022-08-30,GGD Gelderland-Zuid,50-59,7,8.294
+2022-08-30,GGD Gelderland-Zuid,60-69,5,7.096
+2022-08-30,GGD Gelderland-Zuid,70-79,9,17.742
+2022-08-30,GGD Gelderland-Zuid,80-89,1,4.860
 2022-08-30,GGD Gelderland-Zuid,90+,0,0.000
 2022-08-30,GGD Gooi en Vechtstreek,0-9,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,10-19,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,20-29,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,30-39,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,40-49,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,50-59,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,60-69,0,0.000
-2022-08-30,GGD Gooi en Vechtstreek,70-79,0,0.000
+2022-08-30,GGD Gooi en Vechtstreek,10-19,1,3.236
+2022-08-30,GGD Gooi en Vechtstreek,20-29,4,16.725
+2022-08-30,GGD Gooi en Vechtstreek,30-39,3,9.893
+2022-08-30,GGD Gooi en Vechtstreek,40-49,1,2.954
+2022-08-30,GGD Gooi en Vechtstreek,50-59,6,15.390
+2022-08-30,GGD Gooi en Vechtstreek,60-69,1,3.179
+2022-08-30,GGD Gooi en Vechtstreek,70-79,2,7.735
 2022-08-30,GGD Gooi en Vechtstreek,80-89,0,0.000
 2022-08-30,GGD Gooi en Vechtstreek,90+,0,0.000
-2022-08-30,GGD Groningen,0-9,0,0.000
-2022-08-30,GGD Groningen,10-19,0,0.000
-2022-08-30,GGD Groningen,20-29,0,0.000
-2022-08-30,GGD Groningen,30-39,0,0.000
-2022-08-30,GGD Groningen,40-49,0,0.000
-2022-08-30,GGD Groningen,50-59,0,0.000
-2022-08-30,GGD Groningen,60-69,0,0.000
-2022-08-30,GGD Groningen,70-79,0,0.000
-2022-08-30,GGD Groningen,80-89,0,0.000
+2022-08-30,GGD Groningen,0-9,2,4.190
+2022-08-30,GGD Groningen,10-19,3,5.059
+2022-08-30,GGD Groningen,20-29,5,5.480
+2022-08-30,GGD Groningen,30-39,5,7.904
+2022-08-30,GGD Groningen,40-49,2,3.213
+2022-08-30,GGD Groningen,50-59,6,8.015
+2022-08-30,GGD Groningen,60-69,7,10.507
+2022-08-30,GGD Groningen,70-79,4,7.893
+2022-08-30,GGD Groningen,80-89,1,4.718
 2022-08-30,GGD Groningen,90+,0,0.000
-2022-08-30,GGD Haaglanden,0-9,0,0.000
-2022-08-30,GGD Haaglanden,10-19,0,0.000
-2022-08-30,GGD Haaglanden,20-29,0,0.000
-2022-08-30,GGD Haaglanden,30-39,0,0.000
-2022-08-30,GGD Haaglanden,40-49,0,0.000
-2022-08-30,GGD Haaglanden,50-59,0,0.000
-2022-08-30,GGD Haaglanden,60-69,0,0.000
-2022-08-30,GGD Haaglanden,70-79,0,0.000
-2022-08-30,GGD Haaglanden,80-89,0,0.000
+2022-08-30,GGD Haaglanden,0-9,3,2.474
+2022-08-30,GGD Haaglanden,10-19,4,3.140
+2022-08-30,GGD Haaglanden,20-29,5,3.200
+2022-08-30,GGD Haaglanden,30-39,9,5.811
+2022-08-30,GGD Haaglanden,40-49,7,4.701
+2022-08-30,GGD Haaglanden,50-59,13,8.456
+2022-08-30,GGD Haaglanden,60-69,7,5.673
+2022-08-30,GGD Haaglanden,70-79,3,3.381
+2022-08-30,GGD Haaglanden,80-89,1,2.538
 2022-08-30,GGD Haaglanden,90+,0,0.000
-2022-08-30,GGD Hart voor Brabant,0-9,0,0.000
+2022-08-30,GGD Hart voor Brabant,0-9,5,4.802
 2022-08-30,GGD Hart voor Brabant,10-19,0,0.000
-2022-08-30,GGD Hart voor Brabant,20-29,0,0.000
-2022-08-30,GGD Hart voor Brabant,30-39,0,0.000
-2022-08-30,GGD Hart voor Brabant,40-49,0,0.000
-2022-08-30,GGD Hart voor Brabant,50-59,0,0.000
-2022-08-30,GGD Hart voor Brabant,60-69,0,0.000
-2022-08-30,GGD Hart voor Brabant,70-79,0,0.000
-2022-08-30,GGD Hart voor Brabant,80-89,0,0.000
-2022-08-30,GGD Hart voor Brabant,90+,0,0.000
-2022-08-30,GGD Hollands-Midden,0-9,0,0.000
-2022-08-30,GGD Hollands-Midden,10-19,0,0.000
-2022-08-30,GGD Hollands-Midden,20-29,0,0.000
-2022-08-30,GGD Hollands-Midden,30-39,0,0.000
-2022-08-30,GGD Hollands-Midden,40-49,0,0.000
-2022-08-30,GGD Hollands-Midden,50-59,0,0.000
-2022-08-30,GGD Hollands-Midden,60-69,0,0.000
-2022-08-30,GGD Hollands-Midden,70-79,0,0.000
-2022-08-30,GGD Hollands-Midden,80-89,0,0.000
-2022-08-30,GGD Hollands-Midden,90+,1,16.499
+2022-08-30,GGD Hart voor Brabant,20-29,9,6.585
+2022-08-30,GGD Hart voor Brabant,30-39,13,10.057
+2022-08-30,GGD Hart voor Brabant,40-49,4,2.989
+2022-08-30,GGD Hart voor Brabant,50-59,7,4.319
+2022-08-30,GGD Hart voor Brabant,60-69,5,3.649
+2022-08-30,GGD Hart voor Brabant,70-79,1,0.971
+2022-08-30,GGD Hart voor Brabant,80-89,1,2.243
+2022-08-30,GGD Hart voor Brabant,90+,1,13.644
+2022-08-30,GGD Hollands-Midden,0-9,5,5.891
+2022-08-30,GGD Hollands-Midden,10-19,4,4.252
+2022-08-30,GGD Hollands-Midden,20-29,5,4.753
+2022-08-30,GGD Hollands-Midden,30-39,12,12.045
+2022-08-30,GGD Hollands-Midden,40-49,6,6.049
+2022-08-30,GGD Hollands-Midden,50-59,9,7.597
+2022-08-30,GGD Hollands-Midden,60-69,6,6.053
+2022-08-30,GGD Hollands-Midden,70-79,12,15.919
+2022-08-30,GGD Hollands-Midden,80-89,3,9.237
+2022-08-30,GGD Hollands-Midden,90+,0,0.000
 2022-08-30,GGD Hollands-Noorden,0-9,0,0.000
-2022-08-30,GGD Hollands-Noorden,10-19,0,0.000
-2022-08-30,GGD Hollands-Noorden,20-29,0,0.000
-2022-08-30,GGD Hollands-Noorden,30-39,0,0.000
-2022-08-30,GGD Hollands-Noorden,40-49,0,0.000
-2022-08-30,GGD Hollands-Noorden,50-59,0,0.000
-2022-08-30,GGD Hollands-Noorden,60-69,0,0.000
-2022-08-30,GGD Hollands-Noorden,70-79,0,0.000
-2022-08-30,GGD Hollands-Noorden,80-89,0,0.000
+2022-08-30,GGD Hollands-Noorden,10-19,3,3.895
+2022-08-30,GGD Hollands-Noorden,20-29,3,4.130
+2022-08-30,GGD Hollands-Noorden,30-39,4,5.330
+2022-08-30,GGD Hollands-Noorden,40-49,4,4.849
+2022-08-30,GGD Hollands-Noorden,50-59,4,3.989
+2022-08-30,GGD Hollands-Noorden,60-69,4,4.560
+2022-08-30,GGD Hollands-Noorden,70-79,1,1.381
+2022-08-30,GGD Hollands-Noorden,80-89,1,3.502
 2022-08-30,GGD Hollands-Noorden,90+,0,0.000
-2022-08-30,GGD IJsselland,0-9,0,0.000
-2022-08-30,GGD IJsselland,10-19,0,0.000
-2022-08-30,GGD IJsselland,20-29,1,1.506
-2022-08-30,GGD IJsselland,30-39,0,0.000
-2022-08-30,GGD IJsselland,40-49,0,0.000
-2022-08-30,GGD IJsselland,50-59,0,0.000
-2022-08-30,GGD IJsselland,60-69,0,0.000
-2022-08-30,GGD IJsselland,70-79,0,0.000
-2022-08-30,GGD IJsselland,80-89,0,0.000
+2022-08-30,GGD IJsselland,0-9,2,3.417
+2022-08-30,GGD IJsselland,10-19,2,3.002
+2022-08-30,GGD IJsselland,20-29,6,9.034
+2022-08-30,GGD IJsselland,30-39,6,9.213
+2022-08-30,GGD IJsselland,40-49,5,7.509
+2022-08-30,GGD IJsselland,50-59,7,9.119
+2022-08-30,GGD IJsselland,60-69,2,3.126
+2022-08-30,GGD IJsselland,70-79,3,6.485
+2022-08-30,GGD IJsselland,80-89,4,19.405
 2022-08-30,GGD IJsselland,90+,0,0.000
-2022-08-30,GGD Kennemerland,0-9,0,0.000
-2022-08-30,GGD Kennemerland,10-19,0,0.000
-2022-08-30,GGD Kennemerland,20-29,0,0.000
-2022-08-30,GGD Kennemerland,30-39,0,0.000
-2022-08-30,GGD Kennemerland,40-49,0,0.000
-2022-08-30,GGD Kennemerland,50-59,1,1.187
-2022-08-30,GGD Kennemerland,60-69,1,1.536
-2022-08-30,GGD Kennemerland,70-79,0,0.000
-2022-08-30,GGD Kennemerland,80-89,0,0.000
+2022-08-30,GGD Kennemerland,0-9,1,1.732
+2022-08-30,GGD Kennemerland,10-19,2,3.080
+2022-08-30,GGD Kennemerland,20-29,3,4.986
+2022-08-30,GGD Kennemerland,30-39,6,8.688
+2022-08-30,GGD Kennemerland,40-49,6,8.161
+2022-08-30,GGD Kennemerland,50-59,5,5.933
+2022-08-30,GGD Kennemerland,60-69,4,6.145
+2022-08-30,GGD Kennemerland,70-79,4,8.013
+2022-08-30,GGD Kennemerland,80-89,2,8.857
 2022-08-30,GGD Kennemerland,90+,0,0.000
 2022-08-30,GGD Limburg-Noord,0-9,0,0.000
-2022-08-30,GGD Limburg-Noord,10-19,0,0.000
-2022-08-30,GGD Limburg-Noord,20-29,0,0.000
-2022-08-30,GGD Limburg-Noord,30-39,0,0.000
-2022-08-30,GGD Limburg-Noord,40-49,0,0.000
-2022-08-30,GGD Limburg-Noord,50-59,0,0.000
-2022-08-30,GGD Limburg-Noord,60-69,0,0.000
-2022-08-30,GGD Limburg-Noord,70-79,0,0.000
+2022-08-30,GGD Limburg-Noord,10-19,1,1.839
+2022-08-30,GGD Limburg-Noord,20-29,4,7.062
+2022-08-30,GGD Limburg-Noord,30-39,3,5.164
+2022-08-30,GGD Limburg-Noord,40-49,4,6.545
+2022-08-30,GGD Limburg-Noord,50-59,6,7.179
+2022-08-30,GGD Limburg-Noord,60-69,5,6.570
+2022-08-30,GGD Limburg-Noord,70-79,10,17.556
 2022-08-30,GGD Limburg-Noord,80-89,0,0.000
 2022-08-30,GGD Limburg-Noord,90+,0,0.000
 2022-08-30,GGD Noord- en Oost-Gelderland,0-9,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,10-19,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,20-29,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,30-39,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,40-49,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,50-59,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,60-69,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,70-79,0,0.000
-2022-08-30,GGD Noord- en Oost-Gelderland,80-89,0,0.000
+2022-08-30,GGD Noord- en Oost-Gelderland,10-19,5,5.063
+2022-08-30,GGD Noord- en Oost-Gelderland,20-29,6,6.881
+2022-08-30,GGD Noord- en Oost-Gelderland,30-39,8,9.187
+2022-08-30,GGD Noord- en Oost-Gelderland,40-49,8,8.054
+2022-08-30,GGD Noord- en Oost-Gelderland,50-59,9,6.943
+2022-08-30,GGD Noord- en Oost-Gelderland,60-69,5,4.389
+2022-08-30,GGD Noord- en Oost-Gelderland,70-79,4,4.482
+2022-08-30,GGD Noord- en Oost-Gelderland,80-89,2,5.086
 2022-08-30,GGD Noord- en Oost-Gelderland,90+,0,0.000
-2022-08-30,GGD Regio Utrecht,0-9,0,0.000
-2022-08-30,GGD Regio Utrecht,10-19,0,0.000
-2022-08-30,GGD Regio Utrecht,20-29,0,0.000
-2022-08-30,GGD Regio Utrecht,30-39,0,0.000
-2022-08-30,GGD Regio Utrecht,40-49,0,0.000
-2022-08-30,GGD Regio Utrecht,50-59,0,0.000
-2022-08-30,GGD Regio Utrecht,60-69,0,0.000
-2022-08-30,GGD Regio Utrecht,70-79,0,0.000
-2022-08-30,GGD Regio Utrecht,80-89,0,0.000
+2022-08-30,GGD Regio Utrecht,0-9,1,0.662
+2022-08-30,GGD Regio Utrecht,10-19,2,1.232
+2022-08-30,GGD Regio Utrecht,20-29,11,5.976
+2022-08-30,GGD Regio Utrecht,30-39,15,8.207
+2022-08-30,GGD Regio Utrecht,40-49,14,8.026
+2022-08-30,GGD Regio Utrecht,50-59,8,4.224
+2022-08-30,GGD Regio Utrecht,60-69,8,5.344
+2022-08-30,GGD Regio Utrecht,70-79,9,8.178
+2022-08-30,GGD Regio Utrecht,80-89,3,6.254
 2022-08-30,GGD Regio Utrecht,90+,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,0-9,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,10-19,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,20-29,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,30-39,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,40-49,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,50-59,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,60-69,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,70-79,0,0.000
-2022-08-30,GGD Rotterdam-Rijnmond,80-89,0,0.000
+2022-08-30,GGD Rotterdam-Rijnmond,0-9,1,0.704
+2022-08-30,GGD Rotterdam-Rijnmond,10-19,3,2.056
+2022-08-30,GGD Rotterdam-Rijnmond,20-29,10,5.370
+2022-08-30,GGD Rotterdam-Rijnmond,30-39,11,5.990
+2022-08-30,GGD Rotterdam-Rijnmond,40-49,15,8.938
+2022-08-30,GGD Rotterdam-Rijnmond,50-59,9,4.934
+2022-08-30,GGD Rotterdam-Rijnmond,60-69,9,5.985
+2022-08-30,GGD Rotterdam-Rijnmond,70-79,4,3.635
+2022-08-30,GGD Rotterdam-Rijnmond,80-89,1,2.017
 2022-08-30,GGD Rotterdam-Rijnmond,90+,0,0.000
 2022-08-30,GGD Twente,0-9,0,0.000
-2022-08-30,GGD Twente,10-19,0,0.000
-2022-08-30,GGD Twente,20-29,0,0.000
-2022-08-30,GGD Twente,30-39,0,0.000
-2022-08-30,GGD Twente,40-49,0,0.000
-2022-08-30,GGD Twente,50-59,0,0.000
-2022-08-30,GGD Twente,60-69,0,0.000
-2022-08-30,GGD Twente,70-79,0,0.000
+2022-08-30,GGD Twente,10-19,2,2.572
+2022-08-30,GGD Twente,20-29,7,8.735
+2022-08-30,GGD Twente,30-39,3,4.181
+2022-08-30,GGD Twente,40-49,5,6.492
+2022-08-30,GGD Twente,50-59,9,9.768
+2022-08-30,GGD Twente,60-69,6,7.668
+2022-08-30,GGD Twente,70-79,5,8.164
 2022-08-30,GGD Twente,80-89,0,0.000
 2022-08-30,GGD Twente,90+,0,0.000
-2022-08-30,GGD West-Brabant,0-9,0,0.000
-2022-08-30,GGD West-Brabant,10-19,0,0.000
-2022-08-30,GGD West-Brabant,20-29,0,0.000
-2022-08-30,GGD West-Brabant,30-39,0,0.000
-2022-08-30,GGD West-Brabant,40-49,0,0.000
-2022-08-30,GGD West-Brabant,50-59,0,0.000
-2022-08-30,GGD West-Brabant,60-69,0,0.000
-2022-08-30,GGD West-Brabant,70-79,0,0.000
-2022-08-30,GGD West-Brabant,80-89,0,0.000
+2022-08-30,GGD West-Brabant,0-9,2,2.923
+2022-08-30,GGD West-Brabant,10-19,1,1.269
+2022-08-30,GGD West-Brabant,20-29,8,9.514
+2022-08-30,GGD West-Brabant,30-39,5,6.041
+2022-08-30,GGD West-Brabant,40-49,6,6.863
+2022-08-30,GGD West-Brabant,50-59,13,11.896
+2022-08-30,GGD West-Brabant,60-69,4,4.369
+2022-08-30,GGD West-Brabant,70-79,3,4.143
+2022-08-30,GGD West-Brabant,80-89,1,3.277
 2022-08-30,GGD West-Brabant,90+,0,0.000
 2022-08-30,GGD Zaanstreek/Waterland,0-9,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,10-19,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,20-29,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,30-39,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,40-49,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,50-59,0,0.000
-2022-08-30,GGD Zaanstreek/Waterland,60-69,0,0.000
+2022-08-30,GGD Zaanstreek/Waterland,10-19,3,7.716
+2022-08-30,GGD Zaanstreek/Waterland,20-29,2,5.201
+2022-08-30,GGD Zaanstreek/Waterland,30-39,2,4.868
+2022-08-30,GGD Zaanstreek/Waterland,40-49,4,9.146
+2022-08-30,GGD Zaanstreek/Waterland,50-59,3,5.704
+2022-08-30,GGD Zaanstreek/Waterland,60-69,1,2.422
 2022-08-30,GGD Zaanstreek/Waterland,70-79,0,0.000
 2022-08-30,GGD Zaanstreek/Waterland,80-89,0,0.000
 2022-08-30,GGD Zaanstreek/Waterland,90+,0,0.000
-2022-08-30,GGD Zeeland,0-9,0,0.000
-2022-08-30,GGD Zeeland,10-19,0,0.000
-2022-08-30,GGD Zeeland,20-29,0,0.000
-2022-08-30,GGD Zeeland,30-39,0,0.000
-2022-08-30,GGD Zeeland,40-49,0,0.000
-2022-08-30,GGD Zeeland,50-59,0,0.000
-2022-08-30,GGD Zeeland,60-69,0,0.000
-2022-08-30,GGD Zeeland,70-79,0,0.000
-2022-08-30,GGD Zeeland,80-89,0,0.000
-2022-08-30,GGD Zeeland,90+,0,0.000
-2022-08-30,GGD Zuid-Limburg,0-9,0,0.000
-2022-08-30,GGD Zuid-Limburg,10-19,0,0.000
-2022-08-30,GGD Zuid-Limburg,20-29,0,0.000
-2022-08-30,GGD Zuid-Limburg,30-39,0,0.000
-2022-08-30,GGD Zuid-Limburg,40-49,0,0.000
-2022-08-30,GGD Zuid-Limburg,50-59,0,0.000
-2022-08-30,GGD Zuid-Limburg,60-69,0,0.000
+2022-08-30,GGD Zeeland,0-9,1,2.698
+2022-08-30,GGD Zeeland,10-19,1,2.358
+2022-08-30,GGD Zeeland,20-29,2,4.947
+2022-08-30,GGD Zeeland,30-39,1,2.396
+2022-08-30,GGD Zeeland,40-49,4,8.745
+2022-08-30,GGD Zeeland,50-59,1,1.729
+2022-08-30,GGD Zeeland,60-69,2,3.805
+2022-08-30,GGD Zeeland,70-79,3,6.854
+2022-08-30,GGD Zeeland,80-89,1,5.094
+2022-08-30,GGD Zeeland,90+,1,23.680
+2022-08-30,GGD Zuid-Limburg,0-9,1,2.151
+2022-08-30,GGD Zuid-Limburg,10-19,2,3.554
+2022-08-30,GGD Zuid-Limburg,20-29,9,12.386
+2022-08-30,GGD Zuid-Limburg,30-39,5,7.623
+2022-08-30,GGD Zuid-Limburg,40-49,3,4.609
+2022-08-30,GGD Zuid-Limburg,50-59,7,7.532
+2022-08-30,GGD Zuid-Limburg,60-69,5,5.593
 2022-08-30,GGD Zuid-Limburg,70-79,0,0.000
-2022-08-30,GGD Zuid-Limburg,80-89,0,0.000
-2022-08-30,GGD Zuid-Limburg,90+,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,1,1.366
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,0,0.000
-2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,1,3.521
+2022-08-30,GGD Zuid-Limburg,80-89,1,3.121
+2022-08-30,GGD Zuid-Limburg,90+,1,17.693
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,0,0.000
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,9,10.790
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,4,4.382
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,6,7.167
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,5,5.803
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,12,11.836
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,4,4.712
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,2,3.153
+2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,4,14.084
 2022-08-30,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,0,0.000
 2022-08-30,,0-9,0,
 2022-08-30,,10-19,0,
@@ -86059,3 +86059,263 @@ Date,GGD_name,Age_group,Positive_cases,Positive_cases_per100k
 2022-08-30,,70-79,0,
 2022-08-30,,80-89,0,
 2022-08-30,,90+,0,
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,0-9,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,10-19,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,20-29,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,30-39,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,40-49,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,50-59,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,60-69,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,70-79,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,80-89,0,0.000
+2022-08-31,Dienst Gezondheid & Jeugd ZHZ,90+,0,0.000
+2022-08-31,GGD Amsterdam,0-9,0,0.000
+2022-08-31,GGD Amsterdam,10-19,0,0.000
+2022-08-31,GGD Amsterdam,20-29,0,0.000
+2022-08-31,GGD Amsterdam,30-39,0,0.000
+2022-08-31,GGD Amsterdam,40-49,0,0.000
+2022-08-31,GGD Amsterdam,50-59,0,0.000
+2022-08-31,GGD Amsterdam,60-69,0,0.000
+2022-08-31,GGD Amsterdam,70-79,0,0.000
+2022-08-31,GGD Amsterdam,80-89,0,0.000
+2022-08-31,GGD Amsterdam,90+,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,0-9,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,10-19,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,20-29,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,30-39,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,40-49,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,50-59,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,60-69,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,70-79,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,80-89,0,0.000
+2022-08-31,GGD Brabant-Zuidoost,90+,0,0.000
+2022-08-31,GGD Drenthe,0-9,0,0.000
+2022-08-31,GGD Drenthe,10-19,0,0.000
+2022-08-31,GGD Drenthe,20-29,0,0.000
+2022-08-31,GGD Drenthe,30-39,0,0.000
+2022-08-31,GGD Drenthe,40-49,1,1.668
+2022-08-31,GGD Drenthe,50-59,0,0.000
+2022-08-31,GGD Drenthe,60-69,0,0.000
+2022-08-31,GGD Drenthe,70-79,0,0.000
+2022-08-31,GGD Drenthe,80-89,0,0.000
+2022-08-31,GGD Drenthe,90+,1,22.543
+2022-08-31,GGD Flevoland,0-9,0,0.000
+2022-08-31,GGD Flevoland,10-19,0,0.000
+2022-08-31,GGD Flevoland,20-29,0,0.000
+2022-08-31,GGD Flevoland,30-39,0,0.000
+2022-08-31,GGD Flevoland,40-49,0,0.000
+2022-08-31,GGD Flevoland,50-59,0,0.000
+2022-08-31,GGD Flevoland,60-69,0,0.000
+2022-08-31,GGD Flevoland,70-79,0,0.000
+2022-08-31,GGD Flevoland,80-89,0,0.000
+2022-08-31,GGD Flevoland,90+,0,0.000
+2022-08-31,GGD Fryslân,0-9,0,0.000
+2022-08-31,GGD Fryslân,10-19,1,1.279
+2022-08-31,GGD Fryslân,20-29,0,0.000
+2022-08-31,GGD Fryslân,30-39,1,1.407
+2022-08-31,GGD Fryslân,40-49,0,0.000
+2022-08-31,GGD Fryslân,50-59,0,0.000
+2022-08-31,GGD Fryslân,60-69,0,0.000
+2022-08-31,GGD Fryslân,70-79,0,0.000
+2022-08-31,GGD Fryslân,80-89,1,3.384
+2022-08-31,GGD Fryslân,90+,0,0.000
+2022-08-31,GGD Gelderland-Zuid,0-9,0,0.000
+2022-08-31,GGD Gelderland-Zuid,10-19,0,0.000
+2022-08-31,GGD Gelderland-Zuid,20-29,0,0.000
+2022-08-31,GGD Gelderland-Zuid,30-39,0,0.000
+2022-08-31,GGD Gelderland-Zuid,40-49,0,0.000
+2022-08-31,GGD Gelderland-Zuid,50-59,0,0.000
+2022-08-31,GGD Gelderland-Zuid,60-69,1,1.419
+2022-08-31,GGD Gelderland-Zuid,70-79,1,1.971
+2022-08-31,GGD Gelderland-Zuid,80-89,3,14.581
+2022-08-31,GGD Gelderland-Zuid,90+,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,0-9,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,10-19,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,20-29,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,30-39,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,40-49,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,50-59,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,60-69,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,70-79,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,80-89,0,0.000
+2022-08-31,GGD Gooi en Vechtstreek,90+,0,0.000
+2022-08-31,GGD Groningen,0-9,0,0.000
+2022-08-31,GGD Groningen,10-19,0,0.000
+2022-08-31,GGD Groningen,20-29,0,0.000
+2022-08-31,GGD Groningen,30-39,0,0.000
+2022-08-31,GGD Groningen,40-49,0,0.000
+2022-08-31,GGD Groningen,50-59,0,0.000
+2022-08-31,GGD Groningen,60-69,0,0.000
+2022-08-31,GGD Groningen,70-79,0,0.000
+2022-08-31,GGD Groningen,80-89,0,0.000
+2022-08-31,GGD Groningen,90+,0,0.000
+2022-08-31,GGD Haaglanden,0-9,0,0.000
+2022-08-31,GGD Haaglanden,10-19,0,0.000
+2022-08-31,GGD Haaglanden,20-29,0,0.000
+2022-08-31,GGD Haaglanden,30-39,0,0.000
+2022-08-31,GGD Haaglanden,40-49,0,0.000
+2022-08-31,GGD Haaglanden,50-59,0,0.000
+2022-08-31,GGD Haaglanden,60-69,0,0.000
+2022-08-31,GGD Haaglanden,70-79,0,0.000
+2022-08-31,GGD Haaglanden,80-89,0,0.000
+2022-08-31,GGD Haaglanden,90+,0,0.000
+2022-08-31,GGD Hart voor Brabant,0-9,0,0.000
+2022-08-31,GGD Hart voor Brabant,10-19,0,0.000
+2022-08-31,GGD Hart voor Brabant,20-29,0,0.000
+2022-08-31,GGD Hart voor Brabant,30-39,0,0.000
+2022-08-31,GGD Hart voor Brabant,40-49,0,0.000
+2022-08-31,GGD Hart voor Brabant,50-59,0,0.000
+2022-08-31,GGD Hart voor Brabant,60-69,0,0.000
+2022-08-31,GGD Hart voor Brabant,70-79,0,0.000
+2022-08-31,GGD Hart voor Brabant,80-89,0,0.000
+2022-08-31,GGD Hart voor Brabant,90+,0,0.000
+2022-08-31,GGD Hollands-Midden,0-9,0,0.000
+2022-08-31,GGD Hollands-Midden,10-19,0,0.000
+2022-08-31,GGD Hollands-Midden,20-29,0,0.000
+2022-08-31,GGD Hollands-Midden,30-39,0,0.000
+2022-08-31,GGD Hollands-Midden,40-49,0,0.000
+2022-08-31,GGD Hollands-Midden,50-59,0,0.000
+2022-08-31,GGD Hollands-Midden,60-69,1,1.009
+2022-08-31,GGD Hollands-Midden,70-79,0,0.000
+2022-08-31,GGD Hollands-Midden,80-89,0,0.000
+2022-08-31,GGD Hollands-Midden,90+,0,0.000
+2022-08-31,GGD Hollands-Noorden,0-9,0,0.000
+2022-08-31,GGD Hollands-Noorden,10-19,0,0.000
+2022-08-31,GGD Hollands-Noorden,20-29,0,0.000
+2022-08-31,GGD Hollands-Noorden,30-39,0,0.000
+2022-08-31,GGD Hollands-Noorden,40-49,0,0.000
+2022-08-31,GGD Hollands-Noorden,50-59,0,0.000
+2022-08-31,GGD Hollands-Noorden,60-69,0,0.000
+2022-08-31,GGD Hollands-Noorden,70-79,0,0.000
+2022-08-31,GGD Hollands-Noorden,80-89,0,0.000
+2022-08-31,GGD Hollands-Noorden,90+,0,0.000
+2022-08-31,GGD IJsselland,0-9,0,0.000
+2022-08-31,GGD IJsselland,10-19,0,0.000
+2022-08-31,GGD IJsselland,20-29,0,0.000
+2022-08-31,GGD IJsselland,30-39,2,3.071
+2022-08-31,GGD IJsselland,40-49,0,0.000
+2022-08-31,GGD IJsselland,50-59,0,0.000
+2022-08-31,GGD IJsselland,60-69,1,1.563
+2022-08-31,GGD IJsselland,70-79,3,6.485
+2022-08-31,GGD IJsselland,80-89,1,4.851
+2022-08-31,GGD IJsselland,90+,2,51.138
+2022-08-31,GGD Kennemerland,0-9,0,0.000
+2022-08-31,GGD Kennemerland,10-19,0,0.000
+2022-08-31,GGD Kennemerland,20-29,0,0.000
+2022-08-31,GGD Kennemerland,30-39,0,0.000
+2022-08-31,GGD Kennemerland,40-49,0,0.000
+2022-08-31,GGD Kennemerland,50-59,1,1.187
+2022-08-31,GGD Kennemerland,60-69,0,0.000
+2022-08-31,GGD Kennemerland,70-79,1,2.003
+2022-08-31,GGD Kennemerland,80-89,0,0.000
+2022-08-31,GGD Kennemerland,90+,2,43.966
+2022-08-31,GGD Limburg-Noord,0-9,0,0.000
+2022-08-31,GGD Limburg-Noord,10-19,0,0.000
+2022-08-31,GGD Limburg-Noord,20-29,0,0.000
+2022-08-31,GGD Limburg-Noord,30-39,0,0.000
+2022-08-31,GGD Limburg-Noord,40-49,0,0.000
+2022-08-31,GGD Limburg-Noord,50-59,0,0.000
+2022-08-31,GGD Limburg-Noord,60-69,0,0.000
+2022-08-31,GGD Limburg-Noord,70-79,0,0.000
+2022-08-31,GGD Limburg-Noord,80-89,0,0.000
+2022-08-31,GGD Limburg-Noord,90+,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,0-9,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,10-19,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,20-29,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,30-39,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,40-49,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,50-59,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,60-69,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,70-79,0,0.000
+2022-08-31,GGD Noord- en Oost-Gelderland,80-89,1,2.543
+2022-08-31,GGD Noord- en Oost-Gelderland,90+,0,0.000
+2022-08-31,GGD Regio Utrecht,0-9,0,0.000
+2022-08-31,GGD Regio Utrecht,10-19,0,0.000
+2022-08-31,GGD Regio Utrecht,20-29,0,0.000
+2022-08-31,GGD Regio Utrecht,30-39,0,0.000
+2022-08-31,GGD Regio Utrecht,40-49,0,0.000
+2022-08-31,GGD Regio Utrecht,50-59,0,0.000
+2022-08-31,GGD Regio Utrecht,60-69,0,0.000
+2022-08-31,GGD Regio Utrecht,70-79,0,0.000
+2022-08-31,GGD Regio Utrecht,80-89,0,0.000
+2022-08-31,GGD Regio Utrecht,90+,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,0-9,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,10-19,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,20-29,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,30-39,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,40-49,1,0.596
+2022-08-31,GGD Rotterdam-Rijnmond,50-59,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,60-69,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,70-79,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,80-89,0,0.000
+2022-08-31,GGD Rotterdam-Rijnmond,90+,0,0.000
+2022-08-31,GGD Twente,0-9,0,0.000
+2022-08-31,GGD Twente,10-19,0,0.000
+2022-08-31,GGD Twente,20-29,0,0.000
+2022-08-31,GGD Twente,30-39,0,0.000
+2022-08-31,GGD Twente,40-49,0,0.000
+2022-08-31,GGD Twente,50-59,0,0.000
+2022-08-31,GGD Twente,60-69,0,0.000
+2022-08-31,GGD Twente,70-79,0,0.000
+2022-08-31,GGD Twente,80-89,0,0.000
+2022-08-31,GGD Twente,90+,0,0.000
+2022-08-31,GGD West-Brabant,0-9,0,0.000
+2022-08-31,GGD West-Brabant,10-19,0,0.000
+2022-08-31,GGD West-Brabant,20-29,0,0.000
+2022-08-31,GGD West-Brabant,30-39,0,0.000
+2022-08-31,GGD West-Brabant,40-49,0,0.000
+2022-08-31,GGD West-Brabant,50-59,0,0.000
+2022-08-31,GGD West-Brabant,60-69,0,0.000
+2022-08-31,GGD West-Brabant,70-79,0,0.000
+2022-08-31,GGD West-Brabant,80-89,0,0.000
+2022-08-31,GGD West-Brabant,90+,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,0-9,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,10-19,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,20-29,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,30-39,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,40-49,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,50-59,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,60-69,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,70-79,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,80-89,0,0.000
+2022-08-31,GGD Zaanstreek/Waterland,90+,0,0.000
+2022-08-31,GGD Zeeland,0-9,0,0.000
+2022-08-31,GGD Zeeland,10-19,0,0.000
+2022-08-31,GGD Zeeland,20-29,0,0.000
+2022-08-31,GGD Zeeland,30-39,0,0.000
+2022-08-31,GGD Zeeland,40-49,0,0.000
+2022-08-31,GGD Zeeland,50-59,0,0.000
+2022-08-31,GGD Zeeland,60-69,0,0.000
+2022-08-31,GGD Zeeland,70-79,0,0.000
+2022-08-31,GGD Zeeland,80-89,0,0.000
+2022-08-31,GGD Zeeland,90+,0,0.000
+2022-08-31,GGD Zuid-Limburg,0-9,0,0.000
+2022-08-31,GGD Zuid-Limburg,10-19,0,0.000
+2022-08-31,GGD Zuid-Limburg,20-29,0,0.000
+2022-08-31,GGD Zuid-Limburg,30-39,0,0.000
+2022-08-31,GGD Zuid-Limburg,40-49,0,0.000
+2022-08-31,GGD Zuid-Limburg,50-59,0,0.000
+2022-08-31,GGD Zuid-Limburg,60-69,0,0.000
+2022-08-31,GGD Zuid-Limburg,70-79,0,0.000
+2022-08-31,GGD Zuid-Limburg,80-89,0,0.000
+2022-08-31,GGD Zuid-Limburg,90+,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,0-9,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,10-19,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,20-29,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,30-39,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,40-49,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,50-59,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,60-69,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,70-79,0,0.000
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,80-89,1,3.521
+2022-08-31,Veiligheids- en Gezondheidsregio Gelderland-Midden,90+,0,0.000
+2022-08-31,,0-9,0,
+2022-08-31,,10-19,0,
+2022-08-31,,20-29,0,
+2022-08-31,,30-39,0,
+2022-08-31,,40-49,0,
+2022-08-31,,50-59,0,
+2022-08-31,,60-69,0,
+2022-08-31,,70-79,0,
+2022-08-31,,80-89,0,
+2022-08-31,,90+,0,
